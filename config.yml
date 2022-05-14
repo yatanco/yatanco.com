@@ -55,6 +55,7 @@ languages:
           category: FRcategories
           tag: FRtags
           series: FRseries
+
         profileMode:
             enabled: true
             title: PaperMod
@@ -126,13 +127,11 @@ params:
         imageHeight: 120 # custom size
 
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
-    
-        enabled: true
-        
+            - name: About Me
+              url: about
+            - name: Blog
+              url: posts
+  
       
     homeInfoParams:
         Title: "PaperMod"

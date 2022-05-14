@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "About Me"
 date: "2020-06-23"
 coverImage: "Yatan-Mic-Hardwareco-1024x683-1.jpg"
 ---
