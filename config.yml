@@ -1,5 +1,5 @@
 baseURL: "https://www.yatanco.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Yatan Blumenthal Vargas' Thoughts
+title: Yatan Blumenthal Vargas
 paginate: 5
 theme: PaperMod
 
@@ -45,10 +45,7 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
-
+  
     fr:
         languageName: ":fr:"
         languageAltTitle: French
@@ -118,19 +115,25 @@ params:
     # comments: false
     images: ["papermod-cover.png"]
 
+    
     profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        enabled: true
+        title: "Yatan Blumenthal Vargas" # optional default will be site title
+        subtitle: "My thoughts and work"
+        imageUrl: "/images/yatan-dude.jpg" # optional
+        imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+
         buttons:
             - name: Archives
               url: archives
             - name: Tags
               url: tags
-
+    
+        enabled: true
+        
+      
     homeInfoParams:
         Title: "PaperMod"
         Content: >

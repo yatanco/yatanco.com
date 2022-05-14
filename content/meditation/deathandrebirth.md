@@ -3,13 +3,12 @@ title: "Death and Rebirth"
 date: 2022-05-14T13:04:24-05:00
 draft: false
 ---
-
-
-# Discovering BUDDHISM
-
 ## Awakening the limitless potential of your mind, achieving all peace and happiness
 
 ### Death and Rebirth Required Reading
+
+You can download this text in PDF version [English Version](/deathandrebirth-en.pdf) and [Spanish Version](/deathandrebirth-es.pdf).
+
 
 
 
