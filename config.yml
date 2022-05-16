@@ -27,6 +27,9 @@ languages:
           series: series
         menu:
             main:
+                - name: About Me
+                  url: about
+                  weight: 5
                 - name: Archive
                   url: archives
                   weight: 5
@@ -134,8 +137,9 @@ params:
   
       
     homeInfoParams:
-        Title: "PaperMod"
-        Content: >
+        Title: "Yatan Blumenthal Vargas"
+        Content: 
+          # Running Shit 
             Welcome to demo of hugo's theme PaperMod.
 
             - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
