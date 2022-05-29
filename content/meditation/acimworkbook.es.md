@@ -1,18 +1,18 @@
 ---
 title: Un curso de milagros libro de ejercicios
 author: ucdm
-date: 2016-07-01
+date: 2019-07-01
 language: es
 source: Un curso de milagros
 draft: false
 ---
 
 
-## **LIBRO DE EJERCICIOS** {#content0016.xhtml#heading_id_306}
+## **LIBRO DE EJERCICIOS**
 
-### **PRIMERA PARTE** {#content0016.xhtml#heading_id_307}
+### **PRIMERA PARTE** 
 
-#### **Introducción** {#content0016.xhtml#heading_id_308}
+#### **Introducción**
 
 1\. Para que los ejercicios de este libro de ejercicios tengan sentido
 para ti, es necesario, como marco de referencia, disponer de una base
@@ -78,7 +78,7 @@ ni disminuye su eficacia. Pero no hagas excepciones al aplicar las ideas
 expuestas en el libro de ejercicios. Sean cuales sean tus reacciones
 hacia ellas, úsalas. No se requiere nada más.
 
-#### **Lección 1. Nada de lo que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\] significa nada.** {#content0016.xhtml#heading_id_309}
+#### **Lección 1. Nada de lo que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\] significa nada.** 
 
 1\. Mira ahora lentamente a tu alrededor, y aplica esta idea de manera
 muy concreta a todo lo que veas: Esa mesa no significa nada. Esa silla
@@ -105,7 +105,7 @@ día, preferiblemente una vez por la mañana y otra por la noche. No deben
 pasar de un minuto más o menos, a no ser que eso cause una sensación de
 premura. Una cómoda sensación de reposo es esencial.
 
-#### **Lección 2. Le he dado a todo lo que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\] todo el significado que tiene para mí.** {#content0016.xhtml#heading_id_310}
+#### **Lección 2. Le he dado a todo lo que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\] todo el significado que tiene para mí.** 
 
 1\. Los ejercicios que se deben llevar a cabo con esta idea son iguales
 a los de la primera lección. Comienza con las cosas que estén cerca de
@@ -147,7 +147,7 @@ y libre de juicios al seleccionar las cosas a las cuales vas a aplicar
 la idea del día. A tal efecto, una cosa es como cualquier otra:
 igualmente adecuada y, por lo tanto, igualmente útil.
 
-#### **Lección 4. Estos pensamientos no significan nada. Son como las cosas que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\].** {#content0016.xhtml#heading_id_312}
+#### **Lección 4. Estos pensamientos no significan nada. Son como las cosas que veo en esta habitación \[en esta calle, desde esta ventana, en este lugar\].** 
 
 1\. Estos ejercicios, a diferencia de los anteriores, no comienzan con
 la idea de hoy. Da comienzo a estas sesiones de práctica observando los
@@ -195,7 +195,7 @@ tal vez te resulte especialmente difícil suspender todo juicio en
 conexión con tus pensamientos. No repitas los ejercicios más de tres o
 cuatro veces al día. Volveremos a ellos más adelante.
 
-#### **Lección 5. Nunca estoy disgustado por la razón que creo.** {#content0016.xhtml#heading_id_313}
+#### **Lección 5. Nunca estoy disgustado por la razón que creo.** 
 
 1\. Esta idea, al igual que la anterior, puede aplicarse a cualquier
 persona, situación o acontecimiento que creas que te está causando
@@ -247,7 +247,7 @@ preocupado acerca de \_\_\_\_\_ por la razón que creo. No estoy
 deprimido acerca de \_\_\_\_\_\_ por la razón que creo. Tres o cuatro
 veces al día será suficiente.
 
-#### **Lección 6. Estoy disgustado porque veo algo que no está ahí.** {#content0016.xhtml#heading_id_314}
+#### **Lección 6. Estoy disgustado porque veo algo que no está ahí.** 
 
 1\. Los ejercicios que se han de llevar a cabo con esta idea son muy
 similares a los anteriores. Es necesario, una vez más, que para
@@ -4941,7 +4941,7 @@ hacer cada hora. Cada sesión de práctica será un paso gigantesco hacia
 tu liberación, y un hito en el proceso de aprender el sistema de
 pensamiento que este curso postula.
 
-#### **Lección 95. Soy un solo Ser, unido a mi Creador.** {#content0017.xhtml#heading_id_407}
+#### **Lección 95. Soy un solo Ser, unido a mi Creador.** 
 
 1\. La idea de hoy te describe exactamente tal como Dios te creó. Eres
 uno solo contigo mismo y uno solo con Él. Tuya es la unidad de toda la
@@ -5073,7 +5073,7 @@ encuentres en este día diciéndole: Tú y yo somos un solo Ser, unidos con
 nuestro Creador en este Ser. Te honro por razón de lo que soy, y de lo
 que es Aquel que nos ama a ambos cual uno solo.
 
-#### **Lección 96. La salvación procede de mi único Ser.** {#content0017.xhtml#heading_id_408}
+#### **Lección 96. La salvación procede de mi único Ser.**
 
 1\. Aunque eres un solo Ser, te percibes a ti mismo, como si fueses dos:
 bueno y malo, lleno de amor y lleno de odio, mente y cuerpo. Esta
@@ -5242,7 +5242,7 @@ las lamentables consecuencias que la tentación trae consigo si sucumbes
 a la creencia de que eres otra cosa. El Espíritu Santo te brinda paz
 hoy. Recibe Sus palabras, y ofréceselas a Él.
 
-#### **Lección 98. Aceptaré el papel que me corresponde en el plan de Dios para la salvación.** {#content0017.xhtml#heading_id_410}
+#### **Lección 98. Aceptaré el papel que me corresponde en el plan de Dios para la salvación.** 
 
 1\. Hoy es un día de una consagración especial. Hoy vamos a adoptar una
 postura firme en favor de un solo bando. Nos vamos a poner de parte de

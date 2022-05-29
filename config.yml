@@ -25,6 +25,7 @@ languages:
           category: categories
           tag: tags
           series: series
+
         menu:
             main:
                 - name: About Me
@@ -49,9 +50,9 @@ languages:
                   url: tags/
                   weight: 10
   
-    fr:
+    es:
         languageName: ":es:"
-        languageAltTitle: Spanish
+        languageAltTitle: "Spanish"
         weight: 2
         title: PaperModL2
         taxonomies:
