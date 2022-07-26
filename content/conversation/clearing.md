@@ -39,7 +39,9 @@ This technology is meant to be used when you have created a disconnection with a
 
 ## CREATE RESOLUTION TOGETHER
 [] I commit to curiosity and letting go of being right
+
 [] I commit to taking 100% responsibility for the issue 
+
 [] I commit to creating a win-for-all resolution
 
 
@@ -56,9 +58,13 @@ Ask for a clearing by affirming a meaningful relationship “I have an issue I�
 6. “How I CREATED this disconnection with you is...”
 
 7. PROJECTION: “The part of me I see in you that I have an aversion/attraction to is...
-SCRIPT FOR PERSON LISTENING TO UNDERSTAND
+
+
+## SCRIPT FOR PERSON LISTENING TO UNDERSTAND
 1. “What I hear you saying is...” (Reflect or paraphrase without interpretation) “Is that RIGHT?” (If not, reflect again)
 “Is there MORE?” (Ask with curiosity)
 2. “Are you CLEAR? Have you said everything you have to say and felt everything you have to feel?” (If yes, move on. If not, go back to “Is there more?”)
 3. Is there a NEXT ACTION step? (if yes, who will do what by when?)
-4I.f Athpeprleisctieatneetrhheapseirssounef,oitr cishroeocsoinmgmtoecnledaerdththeaistsyuoeu. take at least an hour to pause and then switch roles.
+
+4. If you both feel that you are finished you can take at least a half hour break and then the other person goes.
+
