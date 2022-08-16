@@ -1,8 +1,16 @@
 ---
-title: "Identity Change"
-date: 2022-10-01T22:48:45-05:00
+title: "Meditación en la impermanencia"
+date: 2022-10-16T22:45:26-05:00
 draft: false
+tag: private
+category: private
+description: "Identity Change"
+tags: ["identity"]
+ShowToc: false
+ShowBreadCrumbs: false
+
 ---
+
 # Identity Change
 
 For too long I have thought I am not good enough.
