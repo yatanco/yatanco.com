@@ -1,14 +1,10 @@
 ---
-title: "Meditación en la impermanencia"
-date: 2022-10-16T22:45:26-05:00
+title: "Identity Change"
+date: 2022-05-15T12:38:43-05:00
 draft: false
-tag: private
-category: private
-description: "Identity Change"
-tags: ["identity"]
-ShowToc: false
-ShowBreadCrumbs: false
-
+tags: ["inspiration"]
+aliases: ["identitychange"]
+categories: ["buddhism", "syntax"]
 ---
 
 # Identity Change
