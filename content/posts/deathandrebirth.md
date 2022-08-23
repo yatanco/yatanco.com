@@ -10,11 +10,7 @@ draft: false
 You can download this text in PDF version [English Version](/deathandrebirth-en.pdf) and [Spanish Version](/deathandrebirth-es.pdf).
 
 
-
-
 ### Further required reading includes the following texts:
-
-
 The Wish-Fulfilling Golden Sun, by Lama Zopa Rinpoche (pp. 50–9)
 
 

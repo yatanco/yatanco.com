@@ -1,9 +1,11 @@
 ---
 title: "Identity Change"
-date: 2022-10-01T22:48:45-05:00
+date: 2022-05-15T12:38:43-05:00
 draft: false
+tags: ["inspiration"]
+aliases: ["identitychange"]
+categories: ["buddhism", "syntax"]
 ---
-# Identity Change
 
 For too long I have thought I am not good enough.
 For too long I have longed for my father's approval.

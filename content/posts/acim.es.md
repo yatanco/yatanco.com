@@ -2,9 +2,9 @@
 title: Un curso de milagros
 author: ucdm
 date: 2016-07-01
-identifier: 9FE407A2-E7D9-4EF9-A422-2A903227C14A
 language: es
 source: Un curso de milagros
+slug: uncursodemilagros
 
 draft: false
 ---

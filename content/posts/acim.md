@@ -1,138 +1,13 @@
 ---
 author: Helen Schucman
-contributor: "calibre (2.79.1) \\[https://calibre-ebook.com\\]"
+
 date: "2011-05-06T06:00:00+00:00"
-description: "A Course in Miracles is spiritual guide for life. The book begins:  &\\#x201C;This is A Course in Miracles, it is a required course. Only the time you take it is voluntary.&\\#x201D; &\\#x201C;The Course&\\#x201D; as the book is commonly known, comprises of 365 lessons of spiritual guidance. It is divided into three sections: Text, Workbook for Students, and Manual for Teachers."
-identifier:
-- d13a0d8e-62e5-49a7-b7c1-aafadd527543
-- d13a0d8e-62e5-49a7-b7c1-aafadd527543
-- B00515M18S
-- 9781907661679
-language: en
-publisher: White Crow Books
-subject:
-- eastern wisdom traditions
-- the bible
-- jesus Christ
-- Buddhism
-- spiritual
-- spiritualist
-- Yoga
-- Wisdom
-- Unconscious
-- Transpersonal Psychology
-- Transformation
-- Time
-- Synchronicity
-- Subconscious
-- Stress
-- Spirituality
-- Spiritual Psychology
-- Spiritual Teachers
-- Social Awareness
-- Shamanism
-- Religion
-- Reincarnation
-- Quantum Physics
-- Psychotherapy
-- Psychology
-- Psychic Abilities
-- forgivness
-- workbook for students
-- The Manual For Teachers
-- Cyclopedia In A Course In Miracles
-- Kenneth Wapnick
-- hugh lynn cayce
-- return to love
-- symbolic dreams
-- the voice of jesus
-- jewish psychologist
-- Columbia University
-- ACIM
-- JCIM
-- jesus course in miracles
-- Foundation For Inner Peace
-- Helen Schucman
-- Oprah
-- M.D
-- Gerald Jampolsky
-- mystics
-- new age
-- Marianne Williamson
-- channelling jesus
-- course in miracles
-- the course
-- Course on miracles
+description: "A Course in Miracles is spiritual guide for life. The book begins: This is A Course in Miracles, it is a required course. Only the time you take it is voluntary.The Course as the book is commonly known, comprises of 365 lessons of spiritual guidance. It is divided into three sections: Text, Workbook for Students, and Manual for Teachers."
 title: "A Course in Miracles: Original Edition"
 ---
 
-![](vertopal_3d7a0560473248af8c2f70d0f17b5791/cover.jpeg)
-
-[]{#titlepage.xhtml}
-
-<div>
-
-```{=html}
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewbox="0 0 900 1314" preserveaspectratio="none">
-```
-`<image width="900" height="1314" xlink:href="cover.jpeg">`{=html}`</image>`{=html}
-```{=html}
-</svg>
-```
-
-</div>
-
-[]{#part0000.html}
-
-::: {.body}
-**A Course in Miracles**
-
-**The Combined Original Edition**
-:::
-
-[]{#part0001.html}
-
-::: {.body}
-**A Course in Miracles**
-
 **The Combined Original Edition**
 
-**Text**
-
-**Workbook For Students**
-
-**Manual For Teachers**
-
-**White Crow Books**
-:::
-
-[]{#part0002.html}
-
-::: {.body}
-A Course in Miracles
-
-Original Edition
-
-Copyright © 2012 by Course in Miracles Society. All rights reserved.
-
-Published by White Crow Books; an imprint of White Crow Productions Ltd.
-
-No part of this book may be reproduced, copied or used in any form or
-manner whatsoever without written permission, except in the case of
-brief quotations in reviews and critical articles.
-
-For information, contact White Crow Books
-
-at P. O. Box 1013 Guildford, GU1 9EJ United Kingdom,
-
-or e-mail to <info@whitecrowbooks.com>.
-
-eBook ISBN 978-1-907661-67-9
-
-Non Fiction / Body, Mind & Spirit / A Course in Miracles
-:::
-
-[]{#par
 *A Course in Miracles* is spiritual guide for life. The book begins:
 "This is A Course in Miracles, it is a required course. Only the time
 you take it is voluntary." "The Course" as the book is commonly known,
@@ -203,2109 +78,132 @@ the public domain. It became known as the "Hugh Lynn Cayce text."
 
 The "Course" is essential reading for spiritual seekers, religious
 followers, or anyone searching for spiritual meaning in their lives.
-:::
 
-[]{#part0004.html}
 
-# Contents {#part0004.html#calibre_pb_0 .toc-title}
-
-[Copyright](#part0002.html#1T140-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Foreword](#part0003.html#2RHM0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Chapter 1. Introduction to
-Miracles](#part0006_split_000.html#5N3C0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Principles of Miracles](#part0006_split_000.html#h1-1){.calibre3}
-
-[II. Distortions of Miracle
-Impulses](#part0006_split_001.html#h1-2){.calibre3}
-
-[Chapter 2. The Illusion of
-Separation](#part0007_split_000.html#6LJU0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0007_split_000.html#h1-3){.calibre3}
-
-[II. The Reinterpretation of
-Defenses](#part0007_split_001.html#h1-4){.calibre3}
-
-[III. Healing as Release from
-Fear](#part0007_split_002.html#h1-5){.calibre3}
-
-[IV. Fear as Lack of Love](#part0007_split_003.html#h1-6){.calibre3}
-
-[V. The Correction for Lack of
-Love](#part0007_split_004.html#h1-7){.calibre3}
-
-[VI. The Meaning of the Last
-Judgment](#part0007_split_005.html#h1-8){.calibre3}
-
-[Chapter 3. Retraining the
-Mind](#part0008_split_000.html#7K4G0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0008_split_000.html#h1-9){.calibre3}
-
-[II. Special Principles For Miracle
-Workers](#part0008_split_001.html#h1-10){.calibre3}
-
-[III. Atonement Without
-Sacrifice](#part0008_split_002.html#h1-11){.calibre3}
-
-[IV. Miracles as Accurate
-Perception](#part0008_split_003.html#h1-12){.calibre3}
-
-[V. Perception Versus
-Knowledge](#part0008_split_004.html#h1-13){.calibre3}
-
-[VI. Conflict and the Ego](#part0008_split_005.html#h1-14){.calibre3}
-
-[VII. The Loss of Certainty](#part0008_split_006.html#h1-15){.calibre3}
-
-[VIII. Judgment and the Authority
-Problem](#part0008_split_007.html#h1-16){.calibre3}
-
-[IX. Creating Versus the
-Self-Image](#part0008_split_008.html#h1-17){.calibre3}
-
-[Chapter 4. The Root of All
-Evil](#part0009_split_000.html#8IL20-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0009_split_000.html#h1-18){.calibre3}
-
-[II. Right Teaching and Right
-Learning](#part0009_split_001.html#h1-19){.calibre3}
-
-[III. The Ego and False
-Autonomy](#part0009_split_002.html#h1-20){.calibre3}
-
-[IV Love Without Conflict](#part0009_split_003.html#h1-21){.calibre3}
-
-[V. The Escape From Fear](#part0009_split_004.html#h1-22){.calibre3}
-
-[VI. The Ego-Body Illusion](#part0009_split_005.html#h1-23){.calibre3}
-
-[VII. The Constant State](#part0009_split_006.html#h1-24){.calibre3}
-
-[VIII. Creation and
-Communication](#part0009_split_007.html#h1-25){.calibre3}
-
-[IX. True Rehabilitation](#part0009_split_008.html#h1-26){.calibre3}
-
-[Chapter 5. Healing and
-Wholeness](#part0010_split_000.html#9H5K0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0010_split_000.html#h1-27){.calibre3}
-
-[II. Healing As Joining](#part0010_split_001.html#h1-28){.calibre3}
-
-[III. The Mind of the
-Atonement](#part0010_split_002.html#h1-29){.calibre3}
-
-[IV. The Voice For God](#part0010_split_003.html#h1-30){.calibre3}
-
-[V. The Guide to Salvation](#part0010_split_004.html#h1-31){.calibre3}
-
-[VI. Therapy and Teaching](#part0010_split_005.html#h1-32){.calibre3}
-
-[VII. The Two Decisions](#part0010_split_006.html#h1-33){.calibre3}
-
-[VIII. The Eternal Fixation](#part0010_split_007.html#h1-34){.calibre3}
-
-[Chapter 6. Attack and
-Fear](#part0011_split_000.html#AFM60-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0011_split_000.html#h1-35){.calibre3}
-
-[II. The Message of the
-Crucifixion](#part0011_split_001.html#h1-36){.calibre3}
-
-[III. The Uses of Projection](#part0011_split_002.html#h1-37){.calibre3}
-
-[IV. The Relinquishment of
-Attack](#part0011_split_003.html#h1-38){.calibre3}
-
-[V. The Only Answer](#part0011_split_004.html#h1-39){.calibre3}
-
-[a. To Have, Give All to All](#part0011_split_005.html#h1-40){.calibre3}
-
-[b. To Have Peace, Teach Peace to Learn
-It](#part0011_split_006.html#h1-41){.calibre3}
-
-[c. Be Vigilant Only for God and His
-Kingdom](#part0011_split_007.html#h1-42){.calibre3}
-
-[Chapter 7. The Consistency of the
-Kingdom](#part0012_split_000.html#BE6O0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0012_split_000.html#h1-43){.calibre3}
-
-[II. Bargaining Versus
-Healing](#part0012_split_001.html#h1-44){.calibre3}
-
-[III. The Laws of Mind](#part0012_split_002.html#h1-45){.calibre3}
-
-[IV. The Unified Curriculum](#part0012_split_003.html#h1-46){.calibre3}
-
-[V. The Recognition of Truth](#part0012_split_004.html#h1-47){.calibre3}
-
-[VI. Healing and the Changelessness of
-Mind](#part0012_split_005.html#h1-48){.calibre3}
-
-[VII. From Vigilance to
-Peace](#part0012_split_006.html#h1-49){.calibre3}
-
-[VIII. The Total Commitment](#part0012_split_007.html#h1-50){.calibre3}
-
-[IX. The Defense of Conflict](#part0012_split_008.html#h1-51){.calibre3}
-
-[X. The Extension of the
-Kingdom](#part0012_split_009.html#h1-52){.calibre3}
-
-[XI. The Confusion of Strength and
-Weakness](#part0012_split_010.html#h1-53){.calibre3}
-
-[XII. The State of Grace](#part0012_split_011.html#h1-54){.calibre3}
-
-[Chapter 8. The Journey
-Back](#part0013_split_000.html#CCNA0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0013_split_000.html#h1-55){.calibre3}
-
-[II. The Direction of the
-Curriculum](#part0013_split_001.html#h1-56){.calibre3}
-
-[III. The Rationale For
-Choice](#part0013_split_002.html#h1-57){.calibre3}
-
-[IV. The Holy Encounter](#part0013_split_003.html#h1-58){.calibre3}
-
-[V. The Light of the World](#part0013_split_004.html#h1-59){.calibre3}
-
-[VI. The Power of Joint
-Decision](#part0013_split_005.html#h1-60){.calibre3}
-
-[VII. Communication and the Ego-Body
-Equation](#part0013_split_006.html#h1-61){.calibre3}
-
-[VIII. The Body As Means or
-End](#part0013_split_007.html#h1-62){.calibre3}
-
-[IX. Healing as Corrected
-Perception](#part0013_split_008.html#h1-63){.calibre3}
-
-[X. The Acceptance of
-Reality](#part0013_split_009.html#h1-64){.calibre3}
-
-[XI. The Answer to Prayer](#part0013_split_010.html#h1-65){.calibre3}
-
-[Chapter 9. The Correction of
-Error](#part0014_split_000.html#DB7S0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0014_split_000.html#h1-66){.calibre3}
-
-[II. Sanity and Perception](#part0014_split_001.html#h1-67){.calibre3}
-
-[III. Atonement as a Lesson in
-Sharing](#part0014_split_002.html#h1-68){.calibre3}
-
-[IV. The Unhealed Healer](#part0014_split_003.html#h1-69){.calibre3}
-
-[V. The Awareness of the Holy
-Spirit](#part0014_split_004.html#h1-70){.calibre3}
-
-[VI. Salvation and God's
-Will](#part0014_split_005.html#h1-71){.calibre3}
-
-[VII. Grandeur Versus
-Grandiosity](#part0014_split_006.html#h1-72){.calibre3}
-
-[VIII. The Inclusiveness of
-Creation](#part0014_split_007.html#h1-73){.calibre3}
-
-[IX. The Decision to Forget](#part0014_split_008.html#h1-74){.calibre3}
-
-[X. Magic Versus Miracles](#part0014_split_009.html#h1-75){.calibre3}
-
-[XI. The Denial of God](#part0014_split_010.html#h1-76){.calibre3}
-
-[Chapter 10. God and the
-Ego](#part0015_split_000.html#E9OE0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0015_split_000.html#h1-77){.calibre3}
-
-[II. Projection Versus
-Extension](#part0015_split_001.html#h1-78){.calibre3}
-
-[III. The Willingness For
-Healing](#part0015_split_002.html#h1-79){.calibre3}
-
-[IV. From Darkness to Light](#part0015_split_003.html#h1-80){.calibre3}
-
-[V. The Inheritance of God's
-Son](#part0015_split_004.html#h1-81){.calibre3}
-
-[VI. The Dynamics of the Ego](#part0015_split_005.html#h1-82){.calibre3}
-
-[VII. Experience and
-Perception](#part0015_split_006.html#h1-83){.calibre3}
-
-[VIII. The Problem and the
-Answer](#part0015_split_007.html#h1-84){.calibre3}
-
-[Chapter 11. God's Plan For
-Salvation](#part0016_split_000.html#F8900-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0016_split_000.html#h1-85){.calibre3}
-
-[II. The Judgment of the Holy
-Spirit](#part0016_split_001.html#h1-86){.calibre3}
-
-[III. The Mechanism of
-Miracles](#part0016_split_002.html#h1-87){.calibre3}
-
-[IV. The Investment in
-Reality](#part0016_split_003.html#h1-88){.calibre3}
-
-[V. Seeking and Finding](#part0016_split_004.html#h1-89){.calibre3}
-
-[VI. The Sane Curriculum](#part0016_split_005.html#h1-90){.calibre3}
-
-[VII. The Vision of Christ](#part0016_split_006.html#h1-91){.calibre3}
-
-[VIII. The Guide For
-Miracles](#part0016_split_007.html#h1-92){.calibre3}
-
-[IX. Reality and Redemption](#part0016_split_008.html#h1-93){.calibre3}
-
-[X. Guiltlessness and
-Invulnerability](#part0016_split_009.html#h1-94){.calibre3}
-
-[Chapter 12. The Problem of
-Guilt](#part0017_split_000.html#G6PI0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0017_split_000.html#h1-95){.calibre3}
-
-[II. Crucifixion By Guilt](#part0017_split_001.html#h1-96){.calibre3}
-
-[III. The Fear of Redemption](#part0017_split_002.html#h1-97){.calibre3}
-
-[IV. Healing and Time](#part0017_split_003.html#h1-98){.calibre3}
-
-[V. The Two Emotions](#part0017_split_004.html#h1-99){.calibre3}
-
-[VI. Finding the Present](#part0017_split_005.html#h1-100){.calibre3}
-
-[VII. Attainment of the Real
-World](#part0017_split_006.html#h1-101){.calibre3}
-
-[Chapter 13. From Perception to
-Knowledge](#part0018_split_000.html#H5A40-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0018_split_000.html#h1-102){.calibre3}
-
-[II. The Role of Healing](#part0018_split_001.html#h1-103){.calibre3}
-
-[III. The Shadow of Guilt](#part0018_split_002.html#h1-104){.calibre3}
-
-[IV. Release and
-Restoration](#part0018_split_003.html#h1-105){.calibre3}
-
-[V. The Guarantee of Heaven](#part0018_split_004.html#h1-106){.calibre3}
-
-[VI. The Testimony of
-Miracles](#part0018_split_005.html#h1-107){.calibre3}
-
-[VII. The Happy Learner](#part0018_split_006.html#h1-108){.calibre3}
-
-[VIII. The Decision For
-Guiltlessness](#part0018_split_007.html#h1-109){.calibre3}
-
-[IX. The Way of Salvation](#part0018_split_008.html#h1-110){.calibre3}
-
-[Chapter 14. Bringing Illusions to
-Truth](#part0019_split_000.html#I3QM0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0019_split_000.html#h1-111){.calibre3}
-
-[II. Guilt and
-Guiltlessness](#part0019_split_001.html#h1-112){.calibre3}
-
-[III. Out of the Darkness](#part0019_split_002.html#h1-113){.calibre3}
-
-[IV. Perception Without
-Deceit](#part0019_split_003.html#h1-114){.calibre3}
-
-[V. The Recognition of
-Holiness](#part0019_split_004.html#h1-115){.calibre3}
-
-[VI. The Shift to Miracles](#part0019_split_005.html#h1-116){.calibre3}
-
-[VII. The Test of Truth](#part0019_split_006.html#h1-117){.calibre3}
-
-[Chapter 15. The Purpose of
-Time](#part0020_split_000.html#J2B80-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0020_split_000.html#h1-118){.calibre3}
-
-[II. Uses of Time](#part0020_split_001.html#h1-119){.calibre3}
-
-[III. Time and Eternity](#part0020_split_002.html#h1-120){.calibre3}
-
-[IV. Littleness Versus
-Magnitude](#part0020_split_003.html#h1-121){.calibre3}
-
-[V. Practicing the Holy
-Instant](#part0020_split_004.html#h1-122){.calibre3}
-
-[VI. The Holy Instant and Special
-Relationships](#part0020_split_005.html#h1-123){.calibre3}
-
-[VII. The Holy Instant and the Laws of
-God](#part0020_split_006.html#h1-124){.calibre3}
-
-[VIII. The Holy Instant and
-Communication](#part0020_split_007.html#h1-125){.calibre3}
-
-[IX. The Holy Instant and Real
-Relationships](#part0020_split_008.html#h1-126){.calibre3}
-
-[X. The Time of Christ](#part0020_split_009.html#h1-127){.calibre3}
-
-[XI. The End of Sacrifice](#part0020_split_010.html#h1-128){.calibre3}
-
-[Chapter 16. The Forgiveness of
-Illusions](#part0021_split_000.html#K0RQ0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0021_split_000.html#h1-129){.calibre3}
-
-[II. True Empathy](#part0021_split_001.html#h1-130){.calibre3}
-
-[III. The Magnitude of
-Holiness](#part0021_split_002.html#h1-131){.calibre3}
-
-[IV. The Reward of Teaching](#part0021_split_003.html#h1-132){.calibre3}
-
-[V. Illusion and Reality of
-Love](#part0021_split_004.html#h1-133){.calibre3}
-
-[VI. Specialness and Guilt](#part0021_split_005.html#h1-134){.calibre3}
-
-[VII. The Bridge to the Real
-World](#part0021_split_006.html#h1-135){.calibre3}
-
-[VIII. The End of Illusions](#part0021_split_007.html#h1-136){.calibre3}
-
-[Chapter 17. Forgiveness and
-Healing](#part0022_split_000.html#KVCC0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0022_split_000.html#h1-137){.calibre3}
-
-[II. Fantasy and Distorted
-Perception](#part0022_split_001.html#h1-138){.calibre3}
-
-[III. The Forgiven World](#part0022_split_002.html#h1-139){.calibre3}
-
-[IV. Shadows of the Past](#part0022_split_003.html#h1-140){.calibre3}
-
-[V. Perception and the Two
-Worlds](#part0022_split_004.html#h1-141){.calibre3}
-
-[VI. The Healed
-Relationship](#part0022_split_005.html#h1-142){.calibre3}
-
-[VII. Practical Forgiveness](#part0022_split_006.html#h1-143){.calibre3}
-
-[VIII. The Need for Faith](#part0022_split_007.html#h1-144){.calibre3}
-
-[IX. The Conditions of
-Forgiveness](#part0022_split_008.html#h1-145){.calibre3}
-
-[Chapter 18. The Dream and the
-Reality](#part0023_split_000.html#LTSU0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0023_split_000.html#h1-146){.calibre3}
-
-[II. Substitution as a
-Defense](#part0023_split_001.html#h1-147){.calibre3}
-
-[III. The Basis of the
-Dream](#part0023_split_002.html#h1-148){.calibre3}
-
-[IV. Light in the Dream](#part0023_split_003.html#h1-149){.calibre3}
-
-[V. The Little Willingness](#part0023_split_004.html#h1-150){.calibre3}
-
-[VI. The Happy Dream](#part0023_split_005.html#h1-151){.calibre3}
-
-[VII. Dreams and the Body](#part0023_split_006.html#h1-152){.calibre3}
-
-[VIII. I Need Do Nothing](#part0023_split_007.html#h1-153){.calibre3}
-
-[IX. The Purpose of the
-Body](#part0023_split_008.html#h1-154){.calibre3}
-
-[X. The Delusional Thought
-System](#part0023_split_009.html#h1-155){.calibre3}
-
-[XI. The Passing of the
-Dream](#part0023_split_010.html#h1-156){.calibre3}
-
-[Chapter 19. Beyond the
-Body](#part0024_split_000.html#MSDG0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0024_split_000.html#h1-157){.calibre3}
-
-[II. Healing and the Mind](#part0024_split_001.html#h1-158){.calibre3}
-
-[III. Sin Versus Error](#part0024_split_002.html#h1-159){.calibre3}
-
-[IV. The Unreality of Sin](#part0024_split_003.html#h1-160){.calibre3}
-
-[V. Obstacles to Peace](#part0024_split_004.html#h1-161){.calibre3}
-
-[a. The First Obstacle: The Desire to Get Rid of
-It](#part0024_split_004.html#h1-162){.calibre3}
-
-[b. The Second Obstacle: The Belief the Body is Valuable for what it
-Offers](#part0024_split_006.html#h1-163){.calibre3}
-
-[c. The Third Obstacle: The Attraction of
-Death](#part0024_split_008.html#h1-164){.calibre3}
-
-[d. The Fourth Obstacle: The Fear of
-God](#part0024_split_010.html#h1-165){.calibre3}
-
-[Chapter 20. The Promise of the
-Resurrection](#part0025_split_000.html#NQU20-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0025_split_000.html#h1-166){.calibre3}
-
-[II. Holy Week](#part0025_split_001.html#h1-167){.calibre3}
-
-[III. Thorns and Lilies](#part0025_split_002.html#h1-168){.calibre3}
-
-[IV. Sin as an Adjustment](#part0025_split_003.html#h1-169){.calibre3}
-
-[V. Entering the Ark](#part0025_split_004.html#h1-170){.calibre3}
-
-[VI. Heralds of Eternity](#part0025_split_005.html#h1-171){.calibre3}
-
-[VII. The Temple of the Holy
-Spirit](#part0025_split_006.html#h1-172){.calibre3}
-
-[VIII. The Consistency of Means and
-End](#part0025_split_007.html#h1-173){.calibre3}
-
-[IX. The Vision of
-Sinlessness](#part0025_split_008.html#h1-174){.calibre3}
-
-[Chapter 21. The Inner
-Picture](#part0026_split_000.html#OPEK0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0026_split_000.html#h1-175){.calibre3}
-
-[II. The Imagined World](#part0026_split_001.html#h1-176){.calibre3}
-
-[III. The Responsibility For
-Sight](#part0026_split_002.html#h1-177){.calibre3}
-
-[IV. Faith, Belief, and
-Vision](#part0026_split_003.html#h1-178){.calibre3}
-
-[V. The Fear to Look Within](#part0026_split_004.html#h1-179){.calibre3}
-
-[VI. Reason and Perception](#part0026_split_005.html#h1-180){.calibre3}
-
-[VII. Reason and Correction](#part0026_split_006.html#h1-181){.calibre3}
-
-[VIII. Perception and
-Wishes](#part0026_split_007.html#h1-182){.calibre3}
-
-[IX. The Inner Shift](#part0026_split_008.html#h1-183){.calibre3}
-
-[Chapter 22. Salvation and the Holy
-Relationship](#part0027_split_000.html#PNV60-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0027_split_000.html#h1-184){.calibre3}
-
-[II. The Message of the Holy
-Relationship](#part0027_split_001.html#h1-185){.calibre3}
-
-[III. Your Brother's
-Sinlessness](#part0027_split_002.html#h1-186){.calibre3}
-
-[IV. Reason and the Holy
-Relationship](#part0027_split_003.html#h1-187){.calibre3}
-
-[V. The Branching of the
-Road](#part0027_split_004.html#h1-188){.calibre3}
-
-[VI. Weakness and
-Defensiveness](#part0027_split_005.html#h1-189){.calibre3}
-
-[VII. Freedom and the Holy
-Spirit](#part0027_split_006.html#h1-190){.calibre3}
-
-[Chapter 23. The War Against
-Yourself](#part0028_split_000.html#QMFO0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0028_split_000.html#h1-191){.calibre3}
-
-[II. The Irreconcilable
-Beliefs](#part0028_split_001.html#h1-192){.calibre3}
-
-[III. The Laws of Chaos](#part0028_split_002.html#h1-193){.calibre3}
-
-[IV. Salvation Without
-Compromise](#part0028_split_003.html#h1-194){.calibre3}
-
-[V. The Fear of Life](#part0028_split_004.html#h1-195){.calibre3}
-
-[Chapter 24. Specialness and
-Separation](#part0029_split_000.html#RL0A0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0029_split_000.html#h1-196){.calibre3}
-
-[II. Specialness as a Substitute For
-Love](#part0029_split_001.html#h1-197){.calibre3}
-
-[III. The Treachery of
-Specialness](#part0029_split_002.html#h1-198){.calibre3}
-
-[IV. The Forgiveness of
-Specialness](#part0029_split_003.html#h1-199){.calibre3}
-
-[V. Specialness and
-Salvation](#part0029_split_004.html#h1-200){.calibre3}
-
-[VI. The Resolution of the
-Dream](#part0029_split_005.html#h1-201){.calibre3}
-
-[VII. Salvation From Fear](#part0029_split_006.html#h1-202){.calibre3}
-
-[VIII. The Meeting Place](#part0029_split_007.html#h1-203){.calibre3}
-
-[Chapter 25. The
-Remedy](#part0030_split_000.html#SJGS0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0030_split_000.html#h1-204){.calibre3}
-
-[II. The Appointed Task](#part0030_split_001.html#h1-205){.calibre3}
-
-[III. The Savior From the
-Dark](#part0030_split_002.html#h1-206){.calibre3}
-
-[IV. The Fundamental Law of
-Perception](#part0030_split_003.html#h1-207){.calibre3}
-
-[V. The Joining of Minds](#part0030_split_004.html#h1-208){.calibre3}
-
-[VI. The State of
-Sinlessness](#part0030_split_005.html#h1-209){.calibre3}
-
-[VII. The Special Function](#part0030_split_006.html#h1-210){.calibre3}
-
-[VIII. Commuting the
-Sentence](#part0030_split_007.html#h1-211){.calibre3}
-
-[IX. The Principle of
-Salvation](#part0030_split_008.html#h1-212){.calibre3}
-
-[X. The Justice of Heaven](#part0030_split_009.html#h1-213){.calibre3}
-
-[Chapter 26. The
-Transition](#part0031_split_000.html#TI1E0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0031_split_000.html#h1-214){.calibre3}
-
-[II. The "Sacrifice" of
-Oneness](#part0031_split_001.html#h1-215){.calibre3}
-
-[III. The Forms of Error](#part0031_split_002.html#h1-216){.calibre3}
-
-[IV. The Borderland](#part0031_split_003.html#h1-217){.calibre3}
-
-[V. Where Sin Has Left](#part0031_split_004.html#h1-218){.calibre3}
-
-[VI. The Little Hindrance](#part0031_split_005.html#h1-219){.calibre3}
-
-[VII. The Appointed Friend](#part0031_split_006.html#h1-220){.calibre3}
-
-[VIII. Review of Principles](#part0031_split_007.html#h1-221){.calibre3}
-
-[IX. The Immediacy of
-Salvation](#part0031_split_008.html#h1-222){.calibre3}
-
-[X. For They Have Come](#part0031_split_009.html#h1-223){.calibre3}
-
-[XI. The Remaining Task](#part0031_split_010.html#h1-224){.calibre3}
-
-[Chapter 27. The Body and the
-Dream](#part0032_split_000.html#UGI00-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0032_split_000.html#h1-225){.calibre3}
-
-[II. The Picture of the
-Crucifixion](#part0032_split_001.html#h1-226){.calibre3}
-
-[III. The Fear of Healing](#part0032_split_002.html#h1-227){.calibre3}
-
-[IV. The Symbol of the
-Impossible](#part0032_split_003.html#h1-228){.calibre3}
-
-[V. The Quiet Answer](#part0032_split_004.html#h1-229){.calibre3}
-
-[VI. The Healing Example](#part0032_split_005.html#h1-230){.calibre3}
-
-[VII. The Purpose of Pain](#part0032_split_006.html#h1-231){.calibre3}
-
-[VIII. The Illusion of
-Suffering](#part0032_split_007.html#h1-232){.calibre3}
-
-[IX. The "Hero" of the
-Dream](#part0032_split_008.html#h1-233){.calibre3}
-
-[Chapter 28. The Undoing of
-Fear](#part0033_split_000.html#VF2I0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0033_split_000.html#h1-234){.calibre3}
-
-[II. The Present Memory](#part0033_split_001.html#h1-235){.calibre3}
-
-[III. Reversing Effect and
-Cause](#part0033_split_002.html#h1-236){.calibre3}
-
-[IV. The Agreement to Join](#part0033_split_003.html#h1-237){.calibre3}
-
-[V. The Greater Joining](#part0033_split_004.html#h1-238){.calibre3}
-
-[VI. The Alternate to Dreams of
-Fear](#part0033_split_005.html#h1-239){.calibre3}
-
-[VII. The Secret Vows](#part0033_split_006.html#h1-240){.calibre3}
-
-[VIII. The Beautiful
-Relationship](#part0033_split_007.html#h1-241){.calibre3}
-
-[Chapter 29. The
-Awakening](#part0034_split_000.html#10DJ40-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0034_split_000.html#h1-242){.calibre3}
-
-[II. The Closing of the Gap](#part0034_split_001.html#h1-243){.calibre3}
-
-[III. The Coming of the
-Guest](#part0034_split_002.html#h1-244){.calibre3}
-
-[IV. God's Witnesses](#part0034_split_003.html#h1-245){.calibre3}
-
-[V. Dream Roles](#part0034_split_004.html#h1-246){.calibre3}
-
-[VI. The Changeless Dwelling
-Place](#part0034_split_005.html#h1-247){.calibre3}
-
-[VII. Forgiveness and Peace](#part0034_split_006.html#h1-248){.calibre3}
-
-[VIII. The Lingering
-Illusion](#part0034_split_007.html#h1-249){.calibre3}
-
-[IX. Christ and Anti-Christ](#part0034_split_008.html#h1-250){.calibre3}
-
-[X. The Forgiving Dream](#part0034_split_009.html#h1-251){.calibre3}
-
-[Chapter 30. The New
-Beginning](#part0035_split_000.html#11C3M0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0035_split_000.html#h1-252){.calibre3}
-
-[II. Rules For Decision](#part0035_split_001.html#h1-253){.calibre3}
-
-[III. Freedom of Will](#part0035_split_002.html#h1-254){.calibre3}
-
-[IV. Beyond All Idols](#part0035_split_003.html#h1-255){.calibre3}
-
-[V. The Truth Behind
-Illusions](#part0035_split_004.html#h1-256){.calibre3}
-
-[VI. The Only Purpose](#part0035_split_005.html#h1-257){.calibre3}
-
-[VII. The Justification For
-Forgiveness](#part0035_split_006.html#h1-258){.calibre3}
-
-[VIII. The New
-Interpretation](#part0035_split_007.html#h1-259){.calibre3}
-
-[IX. Changeless Reality](#part0035_split_008.html#h1-260){.calibre3}
-
-[Chapter 31. The Simplicity of
-Salvation](#part0036_split_000.html#12AK80-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[I. Introduction](#part0036_split_000.html#h1-261){.calibre3}
-
-[II. The Illusion of an
-Enemy](#part0036_split_001.html#h1-262){.calibre3}
-
-[III. The Self-Accused](#part0036_split_002.html#h1-263){.calibre3}
-
-[IV. The Real Alternative](#part0036_split_003.html#h1-264){.calibre3}
-
-[V. Self Concept Versus
-Self](#part0036_split_004.html#h1-265){.calibre3}
-
-[VI. Recognizing the Spirit](#part0036_split_005.html#h1-266){.calibre3}
-
-[VII. The Savior's Vision](#part0036_split_006.html#h1-267){.calibre3}
-
-[VIII. Choose Once Again](#part0036_split_007.html#h1-268){.calibre3}
-
-[Workbook For
-Students](#part0037.html#1394Q0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Part
-I](#part0038.html#147LC0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[**Introduction**](#part0039_split_000.html#1565U0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[1. Nothing I see in this room \[on this street, from this window, in
-this place\] means
-anything.](#part0039_split_001.html#h1-269){.calibre3}
-
-[2. I have given everything I see \[on this street, from this window, in
-this place\] all the meaning that it has for
-me.](#part0039_split_002.html#h1-270){.calibre3}
-
-[3. I do not understand anything I see in this room \[on this street,
-from this window, in this
-place\].](#part0039_split_003.html#h1-271){.calibre3}
-
-[4. These thoughts do not mean anything. They are like the things I see
-in this room \[on this street, from this window, in this
-place\].](#part0039_split_004.html#h1-272){.calibre3}
-
-[5. I am never upset for the reason I
-think.](#part0039_split_005.html#h1-273){.calibre3}
-
-[6. I am upset because I see something that is not
-there.](#part0039_split_006.html#h1-274){.calibre3}
-
-[7. I see only the past.](#part0039_split_007.html#h1-275){.calibre3}
-
-[8. My mind is preoccupied with past
-thoughts.](#part0039_split_008.html#h1-276){.calibre3}
-
-[9. I see nothing as it is
-now.](#part0039_split_009.html#h1-277){.calibre3}
-
-[10. My thoughts do not mean
-anything.](#part0039_split_010.html#h1-278){.calibre3}
-
-[11. My meaningless thoughts are showing me a meaningless
-world.](#part0039_split_011.html#h1-279){.calibre3}
-
-[12. I am upset because I see a meaningless
-world.](#part0039_split_012.html#h1-280){.calibre3}
-
-[13. A meaningless world engenders
-fear.](#part0039_split_013.html#h1-281){.calibre3}
-
-[14. God did not create a meaningless
-world.](#part0039_split_014.html#h1-282){.calibre3}
-
-[15. My thoughts are images that I have
-made.](#part0039_split_015.html#h1-283){.calibre3}
-
-[16. I have no neutral
-thoughts.](#part0039_split_016.html#h1-284){.calibre3}
-
-[17. I see no neutral
-things.](#part0039_split_017.html#h1-285){.calibre3}
-
-[18. I am not alone in experiencing the effects of my
-seeing.](#part0039_split_018.html#h1-286){.calibre3}
-
-[19. I am not alone in experiencing the effects of my
-thoughts.](#part0039_split_019.html#h1-287){.calibre3}
-
-[20. I am determined to
-see.](#part0039_split_020.html#h1-288){.calibre3}
-
-[21. I am determined to see things
-differently.](#part0039_split_021.html#h1-289){.calibre3}
-
-[22. What I see is a form of
-vengeance.](#part0039_split_022.html#h1-290){.calibre3}
-
-[23. I can escape from the world I see by giving up attack
-thoughts.](#part0039_split_023.html#h1-291){.calibre3}
-
-[24. I do not perceive my own best
-interests.](#part0039_split_024.html#h1-292){.calibre3}
-
-[25. I do not know what anything is
-for.](#part0039_split_025.html#h1-293){.calibre3}
-
-[26. My attack thoughts are attacking my
-invulnerability.](#part0039_split_026.html#h1-294){.calibre3}
-
-[27. Above all else I want to
-see.](#part0039_split_027.html#h1-295){.calibre3}
-
-[28. Above all else I want to see things
-differently.](#part0039_split_028.html#h1-296){.calibre3}
-
-[29. God is in everything I
-see.](#part0039_split_029.html#h1-297){.calibre3}
-
-[30. God is in everything I see because God is in my
-mind.](#part0039_split_030.html#h1-298){.calibre3}
-
-[31. I am not the victim of the world I
-see.](#part0039_split_031.html#h1-299){.calibre3}
-
-[32. I have invented the world I
-see.](#part0039_split_032.html#h1-300){.calibre3}
-
-[33. There is another way of looking at the
-world.](#part0039_split_033.html#h1-301){.calibre3}
-
-[34. I could see peace instead of
-this.](#part0039_split_034.html#h1-302){.calibre3}
-
-[35. My mind is part of God's. I am very
-holy.](#part0039_split_035.html#h1-303){.calibre3}
-
-[36. My holiness envelops everything I
-see.](#part0039_split_036.html#h1-304){.calibre3}
-
-[37. My holiness blesses the
-world.](#part0039_split_037.html#h1-305){.calibre3}
-
-[38. There is nothing my holiness cannot
-do.](#part0039_split_038.html#h1-306){.calibre3}
-
-[39. My holiness is my
-salvation.](#part0039_split_039.html#h1-307){.calibre3}
-
-[40. I am blessed as a Son of
-God.](#part0039_split_040.html#h1-308){.calibre3}
-
-[41. God goes with me wherever I
-go.](#part0039_split_041.html#h1-309){.calibre3}
-
-[42. God is my Strength. Vision is His
-Gift](#part0039_split_042.html#h1-310){.calibre3}
-
-[43. God is my Source. I cannot see apart from
-Him.](#part0039_split_043.html#h1-311){.calibre3}
-
-[44. God is the light in which I
-see.](#part0039_split_044.html#h1-312){.calibre3}
-
-[45. God is the Mind with which I
-think.](#part0039_split_045.html#h1-313){.calibre3}
-
-[46. God is the Love in which I
-forgive.](#part0039_split_046.html#h1-314){.calibre3}
-
-[47. God is the strength in which I
-trust.](#part0039_split_047.html#h1-315){.calibre3}
-
-[48. There is nothing to
-fear.](#part0039_split_048.html#h1-316){.calibre3}
-
-[49. God's Voice speaks to me all through the
-day.](#part0039_split_049.html#h1-317){.calibre3}
-
-[50. I am sustained by the Love of
-God.](#part0039_split_050.html#h1-318){.calibre3}
-
-[Review
-I](#part0040_split_000.html#164MG0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[51. (1-5)](#part0040_split_001.html#h1-319){.calibre3}
-
-[52. (6-10)](#part0040_split_002.html#h1-320){.calibre3}
-
-[53. (11-15)](#part0040_split_003.html#h1-321){.calibre3}
-
-[54. (16-20)](#part0040_split_004.html#h1-322){.calibre3}
-
-[55. (21-25)](#part0040_split_005.html#h1-323){.calibre3}
-
-[56. (26-30)](#part0040_split_006.html#h1-324){.calibre3}
-
-[57. (31-35)](#part0040_split_007.html#h1-325){.calibre3}
-
-[58. (36-40)](#part0040_split_008.html#h1-326){.calibre3}
-
-[59. (41-45)](#part0040_split_009.html#h1-327){.calibre3}
-
-[60. (46-50)](#part0040_split_010.html#h1-328){.calibre3}
-
-[61. I am the light of the
-world.](#part0040_split_011.html#h1-329){.calibre3}
-
-[62. Forgiveness is my function as the light of the
-world.](#part0040_split_012.html#h1-330){.calibre3}
-
-[63. The light of the world brings peace to every mind through my
-forgiveness.](#part0040_split_013.html#h1-331){.calibre3}
-
-[64. Let me not forget my
-function.](#part0040_split_014.html#h1-332){.calibre3}
-
-[65. My only function is the one God gave
-me.](#part0040_split_015.html#h1-333){.calibre3}
-
-[66. My happiness and my function are
-one.](#part0040_split_016.html#h1-334){.calibre3}
-
-[67. Love created me like
-Itself.](#part0040_split_017.html#h1-335){.calibre3}
-
-[68. Love holds no
-grievances.](#part0040_split_018.html#h1-336){.calibre3}
-
-[69. My grievances hide the light of the world in
-me.](#part0040_split_019.html#h1-337){.calibre3}
-
-[70. My salvation comes from
-me.](#part0040_split_020.html#h1-338){.calibre3}
-
-[71. Only God's plan for salvation will
-work.](#part0040_split_021.html#h1-339){.calibre3}
-
-[72. Holding grievances is an attack on God's plan for
-salvation.](#part0040_split_022.html#h1-340){.calibre3}
-
-[73. I will there be light.](#part0040_split_023.html#h1-341){.calibre3}
-
-[74. There is no will but
-God's.](#part0040_split_024.html#h1-342){.calibre3}
-
-[75. The light has come.](#part0040_split_025.html#h1-343){.calibre3}
-
-[76. I am under no laws but
-God's.](#part0040_split_026.html#h1-344){.calibre3}
-
-[77. I am entitled to
-miracles.](#part0040_split_027.html#h1-345){.calibre3}
-
-[78. Let miracles replace all
-grievances.](#part0040_split_028.html#h1-346){.calibre3}
-
-[79. Let me recognize the problem so it can be
-solved.](#part0040_split_029.html#h1-347){.calibre3}
-
-[80. Let me recognize my problems have been
-solved.](#part0040_split_030.html#h1-348){.calibre3}
-
-[Review
-II](#part0041_split_000.html#173720-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[81. (61-62)](#part0041_split_001.html#h1-349){.calibre3}
-
-[82. (63-64)](#part0041_split_002.html#h1-350){.calibre3}
-
-[83. (65-66)](#part0041_split_003.html#h1-351){.calibre3}
-
-[84. (67-68)](#part0041_split_004.html#h1-352){.calibre3}
-
-[85. (69-70)](#part0041_split_005.html#h1-353){.calibre3}
-
-[86. (71-72)](#part0041_split_006.html#h1-354){.calibre3}
-
-[87. (73-74)](#part0041_split_007.html#h1-355){.calibre3}
-
-[88. (75-76)](#part0041_split_008.html#h1-356){.calibre3}
-
-[89. (77-78)](#part0041_split_009.html#h1-357){.calibre3}
-
-[90. (79-80)](#part0041_split_010.html#h1-358){.calibre3}
-
-[91. Miracles are seen in
-light.](#part0041_split_011.html#h1-359){.calibre3}
-
-[92. Miracles are seen in light, and light and strength are
-one.](#part0041_split_012.html#h1-360){.calibre3}
-
-[93. Light and joy and peace abide in
-me.](#part0041_split_013.html#h1-361){.calibre3}
-
-[94. I am as God created
-me.](#part0041_split_014.html#h1-362){.calibre3}
-
-[95. I am one Self, united with my
-Creator.](#part0041_split_015.html#h1-363){.calibre3}
-
-[96. Salvation comes from my one
-Self.](#part0041_split_016.html#h1-364){.calibre3}
-
-[97. I am spirit.](#part0041_split_017.html#h1-365){.calibre3}
-
-[98. I will accept my part in God's plan for
-salvation.](#part0041_split_018.html#h1-366){.calibre3}
-
-[99. Salvation is my only function
-here.](#part0041_split_019.html#h1-367){.calibre3}
-
-[100. My part is essential to God's plan for
-salvation.](#part0041_split_020.html#h1-368){.calibre3}
-
-[101. God's Will for me is perfect
-happiness.](#part0041_split_021.html#h1-369){.calibre3}
-
-[102. I share God's Will for happiness for
-me.](#part0041_split_022.html#h1-370){.calibre3}
-
-[103. God, being Love, is also
-happiness.](#part0041_split_023.html#h1-371){.calibre3}
-
-[104. I seek but what belongs to me in
-truth.](#part0041_split_024.html#h1-372){.calibre3}
-
-[105. God's peace and joy are
-mine.](#part0041_split_025.html#h1-373){.calibre3}
-
-[106. Let me be still and listen to the
-truth.](#part0041_split_026.html#h1-374){.calibre3}
-
-[107. Truth will correct all errors in my
-mind.](#part0041_split_027.html#h1-375){.calibre3}
-
-[108. To give and to receive are one in
-truth.](#part0041_split_028.html#h1-376){.calibre3}
-
-[109. I rest in God.](#part0041_split_029.html#h1-377){.calibre3}
-
-[110. I am as God created
-me.](#part0041_split_030.html#h1-378){.calibre3}
-
-[Review
-III](#part0042_split_000.html#181NK0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[111. (91-92)](#part0042_split_001.html#h1-379){.calibre3}
-
-[112. (93-94)](#part0042_split_002.html#h1-380){.calibre3}
-
-[113. (95-96)](#part0042_split_003.html#h1-381){.calibre3}
-
-[114. (97-98)](#part0042_split_004.html#h1-382){.calibre3}
-
-[115. (99-100)](#part0042_split_005.html#h1-383){.calibre3}
-
-[116. (101-102)](#part0042_split_006.html#h1-384){.calibre3}
-
-[117. (103-104)](#part0042_split_007.html#h1-385){.calibre3}
-
-[118. (105-106)](#part0042_split_008.html#h1-386){.calibre3}
-
-[119. (107-108)](#part0042_split_009.html#h1-387){.calibre3}
-
-[120. (109-110)](#part0042_split_010.html#h1-388){.calibre3}
-
-[121. Forgiveness is the key to
-happiness.](#part0042_split_011.html#h1-389){.calibre3}
-
-[122. Forgiveness offers everything I
-want.](#part0042_split_012.html#h1-390){.calibre3}
-
-[123. I thank my Father for His gifts to
-me.](#part0042_split_013.html#h1-391){.calibre3}
-
-[124. Let me remember I am one with
-God.](#part0042_split_014.html#h1-392){.calibre3}
-
-[125. In quiet I receive God's Word
-today.](#part0042_split_015.html#h1-393){.calibre3}
-
-[126. All that I give is given to
-myself.](#part0042_split_016.html#h1-394){.calibre3}
-
-[127. There is no love but
-God's.](#part0042_split_017.html#h1-395){.calibre3}
-
-[128. The world I see holds nothing that I
-want.](#part0042_split_018.html#h1-396){.calibre3}
-
-[129. Beyond this world there is a world I
-want.](#part0042_split_019.html#h1-397){.calibre3}
-
-[130. It is impossible to see two
-worlds.](#part0042_split_020.html#h1-398){.calibre3}
-
-[131. No one can fail who seeks to reach the
-truth.](#part0042_split_021.html#h1-399){.calibre3}
-
-[132. I loose the world from all I thought it
-was.](#part0042_split_022.html#h1-400){.calibre3}
-
-[133. I will not value what is
-valueless.](#part0042_split_023.html#h1-402){.calibre3}
-
-[134. Let me perceive forgiveness as it
-is.](#part0042_split_024.html#h1-403){.calibre3}
-
-[135. If I defend myself I am
-attacked.](#part0042_split_025.html#h1-404){.calibre3}
-
-[136. Sickness is a defense against the
-truth.](#part0042_split_026.html#h1-405){.calibre3}
-
-[137. When I am healed I am not healed
-alone.](#part0042_split_027.html#h1-406){.calibre3}
-
-[138. Heaven is the decision I must
-make.](#part0042_split_028.html#h1-407){.calibre3}
-
-[139. I will accept Atonement for
-myself.](#part0042_split_029.html#h1-408){.calibre3}
-
-[140. Only salvation can be said to
-cure.](#part0042_split_030.html#h1-409){.calibre3}
-
-[Review
-IV](#part0043_split_000.html#190860-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[141. (121-122)](#part0043_split_001.html#h1-410){.calibre3}
-
-[142. (123-124)](#part0043_split_002.html#h1-411){.calibre3}
-
-[143. (125-126)](#part0043_split_003.html#h1-412){.calibre3}
-
-[144. (127-128)](#part0043_split_004.html#h1-413){.calibre3}
-
-[145. (129-130)](#part0043_split_005.html#h1-414){.calibre3}
-
-[146. (131-132)](#part0043_split_006.html#h1-415){.calibre3}
-
-[147. (133-134)](#part0043_split_007.html#h1-416){.calibre3}
-
-[148. (135-136)](#part0043_split_008.html#h1-417){.calibre3}
-
-[149. (137-138)](#part0043_split_009.html#h1-418){.calibre3}
-
-[150. (139-140)](#part0043_split_010.html#h1-419){.calibre3}
-
-[151. All things are echoes of the Voice for
-God.](#part0043_split_011.html#h1-420){.calibre3}
-
-[152. The power of decision is my
-own.](#part0043_split_012.html#h1-421){.calibre3}
-
-[153. In my defenselessness my safety
-lies.](#part0043_split_013.html#h1-422){.calibre3}
-
-[154. I am among the ministers of
-God.](#part0043_split_014.html#h1-423){.calibre3}
-
-[155. I will step back and let Him lead the
-way.](#part0043_split_015.html#h1-424){.calibre3}
-
-[156. I walk with God in perfect
-holiness.](#part0043_split_016.html#h1-425){.calibre3}
-
-[157. Into His Presence would I enter
-now.](#part0043_split_017.html#h1-426){.calibre3}
-
-[158. Today I learn to give as I
-receive.](#part0043_split_018.html#h1-427){.calibre3}
-
-[159. I give the miracles I have
-received.](#part0043_split_019.html#h1-428){.calibre3}
-
-[160. I am at home. Fear is the stranger
-here.](#part0043_split_020.html#h1-429){.calibre3}
-
-[161. Give me your blessing, holy Son of
-God.](#part0043_split_021.html#h1-430){.calibre3}
-
-[162. I am as God created
-me.](#part0043_split_022.html#h1-431){.calibre3}
-
-[163. There is no death. The Son of God is
-free.](#part0043_split_023.html#h1-432){.calibre3}
-
-[164. Now are we one with Him Who is our
-Source.](#part0043_split_024.html#h1-433){.calibre3}
-
-[165. Let not my mind deny the Thought of
-God.](#part0043_split_025.html#h1-434){.calibre3}
-
-[166. I am entrusted with the gifts of
-God.](#part0043_split_026.html#h1-435){.calibre3}
-
-[167. There is one life, and that I share with
-God.](#part0043_split_027.html#h1-436){.calibre3}
-
-[168. Your grace is given me. I claim it
-now.](#part0043_split_028.html#h1-437){.calibre3}
-
-[169. By grace I live. By grace I am
-released.](#part0043_split_029.html#h1-438){.calibre3}
-
-[170. There is no cruelty in God and none in
-me.](#part0043_split_030.html#h1-439){.calibre3}
-
-[Review
-V](#part0044_split_000.html#19UOO0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[171. (151-152)](#part0044_split_001.html#h1-440){.calibre3}
-
-[172. (153-154)](#part0044_split_002.html#h1-441){.calibre3}
-
-[173. (155-156)](#part0044_split_003.html#h1-442){.calibre3}
-
-[174. (l57-158)](#part0044_split_004.html#h1-443){.calibre3}
-
-[175. (159-160)](#part0044_split_005.html#h1-444){.calibre3}
-
-[176. (16l-l62)](#part0044_split_006.html#h1-445){.calibre3}
-
-[177. (163-164)](#part0044_split_007.html#h1-446){.calibre3}
-
-[178. (165-166)](#part0044_split_008.html#h1-447){.calibre3}
-
-[179. (167-168)](#part0044_split_009.html#h1-448){.calibre3}
-
-[180. (169-170)](#part0044_split_010.html#h1-449){.calibre3}
-
-[Introduction to Lessons 181 -
-200](#part0044_split_011.html#h1-450){.calibre3}
-
-[181. I trust my brothers, who are one with
-me.](#part0044_split_012.html#h1-451){.calibre3}
-
-[182. I will be still an instant and go
-home.](#part0044_split_013.html#h1-452){.calibre3}
-
-[183. I call upon God's Name and on my
-own.](#part0044_split_014.html#h1-453){.calibre3}
-
-[184. The Name of God is my
-inheritance.](#part0044_split_015.html#h1-454){.calibre3}
-
-[185. I want the peace of
-God.](#part0044_split_016.html#h1-455){.calibre3}
-
-[186. Salvation of the world depends on
-me.](#part0044_split_017.html#h1-456){.calibre3}
-
-[187. I bless the world because I bless
-myself.](#part0044_split_018.html#h1-457){.calibre3}
-
-[188. The peace of God is shining in me
-now.](#part0044_split_019.html#h1-458){.calibre3}
-
-[189. I feel the Love of God within me
-now.](#part0044_split_020.html#h1-459){.calibre3}
-
-[190. I choose the joy of God instead of
-pain.](#part0044_split_021.html#h1-460){.calibre3}
-
-[191. I am the holy Son of God
-Himself.](#part0044_split_022.html#h1-461){.calibre3}
-
-[192. I have a function God would have me
-fill.](#part0044_split_023.html#h1-462){.calibre3}
-
-[193. All things are lessons God would have me
-learn.](#part0044_split_024.html#h1-463){.calibre3}
-
-[194. I place the future in the Hands of
-God.](#part0044_split_025.html#h1-464){.calibre3}
-
-[195. Love is the way I walk in
-gratitude.](#part0044_split_026.html#h1-465){.calibre3}
-
-[196. It can be but myself I
-crucify.](#part0044_split_027.html#h1-466){.calibre3}
-
-[197. It can be but my gratitude I
-earn.](#part0044_split_028.html#h1-467){.calibre3}
-
-[198. Only my condemnation injures
-me.](#part0044_split_029.html#h1-468){.calibre3}
-
-[199. I am not a body. I am
-free.](#part0044_split_030.html#h1-469){.calibre3}
-
-[200. There is no peace except the peace of
-God.](#part0044_split_031.html#h1-470){.calibre3}
-
-[Review
-VI](#part0045_split_000.html#1AT9A0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[201. (181)](#part0045_split_001.html#h1-471){.calibre3}
-
-[202. (182)](#part0045_split_002.html#h1-472){.calibre3}
-
-[203. (183)](#part0045_split_003.html#h1-473){.calibre3}
-
-[204. (184)](#part0045_split_004.html#h1-474){.calibre3}
-
-[205. (185)](#part0045_split_005.html#h1-475){.calibre3}
-
-[206. (186)](#part0045_split_006.html#h1-476){.calibre3}
-
-[207. (187)](#part0045_split_007.html#h1-477){.calibre3}
-
-[208. (188)](#part0045_split_008.html#h1-478){.calibre3}
-
-[209. (189)](#part0045_split_009.html#h1-479){.calibre3}
-
-[210. (190)](#part0045_split_010.html#h1-480){.calibre3}
-
-[211. (191)](#part0045_split_011.html#h1-481){.calibre3}
-
-[212. (192)](#part0045_split_012.html#h1-482){.calibre3}
-
-[213. (193)](#part0045_split_013.html#h1-483){.calibre3}
-
-[214. (194)](#part0045_split_014.html#h1-484){.calibre3}
-
-[215. (195)](#part0045_split_015.html#h1-485){.calibre3}
-
-[216. (196)](#part0045_split_016.html#h1-486){.calibre3}
-
-[217. (197)](#part0045_split_017.html#h1-487){.calibre3}
-
-[218. (198)](#part0045_split_018.html#h1-488){.calibre3}
-
-[219. (199)](#part0045_split_019.html#h1-489){.calibre3}
-
-[220. (200)](#part0045_split_020.html#h1-490){.calibre3}
-
-[Part
-II](#part0046.html#1BRPS0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Introduction](#part0046.html#1BRPS0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[1. What Is
-Forgiveness?](#part0047_split_000.html#1CQAE0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[221. Peace to my mind. Let all my thoughts be
-still.](#part0047_split_001.html#h1-491){.calibre3}
-
-[222. God is with me. I live and move in
-Him.](#part0047_split_002.html#h1-492){.calibre3}
-
-[223. God is my life. I have no life but
-His.](#part0047_split_003.html#h1-493){.calibre3}
-
-[224. God is my Father, and He loves His
-Son.](#part0047_split_004.html#h1-494){.calibre3}
-
-[225. God is my Father, and His Son loves
-Him.](#part0047_split_005.html#h1-495){.calibre3}
-
-[226. My home awaits me. I will hasten
-there.](#part0047_split_006.html#h1-496){.calibre3}
-
-[227. This is my holy instant of
-release.](#part0047_split_007.html#h1-497){.calibre3}
-
-[228. God has condemned me not. No more do
-I.](#part0047_split_008.html#h1-498){.calibre3}
-
-[229. Love, Which created me, is what I
-am.](#part0047_split_009.html#h1-499){.calibre3}
-
-[230. Now will I seek and find the peace of
-God.](#part0047_split_010.html#h1-500){.calibre3}
-
-[2. What Is
-Salvation?](#part0048_split_000.html#1DOR00-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[231. Father, I will but to remember
-You.](#part0048_split_001.html#h1-501){.calibre3}
-
-[232. Be in my mind, my Father, through the
-day.](#part0048_split_002.html#h1-502){.calibre3}
-
-[233. I give my life to God to guide
-today.](#part0048_split_003.html#h1-503){.calibre3}
-
-[234. Father, today I am Your Son
-again.](#part0048_split_004.html#h1-504){.calibre3}
-
-[235. God in His mercy wills that I be
-saved.](#part0048_split_005.html#h1-505){.calibre3}
-
-[236. I rule my mind, which I alone must
-rule.](#part0048_split_006.html#h1-506){.calibre3}
-
-[237. Now would I be as God created
-me.](#part0048_split_007.html#h1-507){.calibre3}
-
-[238. On my decision all salvation
-rests.](#part0048_split_008.html#h1-508){.calibre3}
-
-[239. The glory of my Father is my
-own.](#part0048_split_009.html#h1-509){.calibre3}
-
-[240. Fear is not justified](#part0048_split_010.html#h1-510){.calibre3}
-
-[3. What Is the
-World?](#part0049_split_000.html#1ENBI0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[241. This holy instant is salvation
-come.](#part0049_split_001.html#h1-511){.calibre3}
-
-[242. This day is God's. It is my gift to
-Him.](#part0049_split_002.html#h1-512){.calibre3}
-
-[243. Today I will judge nothing that
-occurs.](#part0049_split_003.html#h1-513){.calibre3}
-
-[244. I am in danger nowhere in the
-world.](#part0049_split_004.html#h1-514){.calibre3}
-
-[245. Your peace is with me, Father. I am
-safe.](#part0049_split_005.html#h1-515){.calibre3}
-
-[246. To love my Father is to love His
-Son.](#part0049_split_006.html#h1-516){.calibre3}
-
-[247. Without forgiveness I will still be
-blind.](#part0049_split_007.html#h1-517){.calibre3}
-
-[248. Whatever suffers is not part of
-me.](#part0049_split_008.html#h1-518){.calibre3}
-
-[249. Forgiveness ends all suffering and
-loss.](#part0049_split_009.html#h1-519){.calibre3}
-
-[250. Let me not see myself as
-limited.](#part0049_split_010.html#h1-520){.calibre3}
-
-[4. What Is
-Sin?](#part0050_split_000.html#1FLS40-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[251. I am in need of nothing but the
-truth.](#part0050_split_001.html#h1-521){.calibre3}
-
-[252. The Son of God is my
-Identity.](#part0050_split_002.html#h1-522){.calibre3}
-
-[253. My Self is ruler of the
-universe.](#part0050_split_003.html#h1-523){.calibre3}
-
-[254. Let every voice but God's be still in
-me.](#part0050_split_004.html#h1-524){.calibre3}
-
-[255. This day I choose to spend in perfect
-peace.](#part0050_split_005.html#h1-525){.calibre3}
-
-[256. God is the only goal I have
-today.](#part0050_split_006.html#h1-526){.calibre3}
-
-[257. Let me remember what my purpose
-is.](#part0050_split_007.html#h1-527){.calibre3}
-
-[258. Let me remember that my goal is
-God.](#part0050_split_008.html#h1-528){.calibre3}
-
-[259. Let me remember that there is no
-sin.](#part0050_split_009.html#h1-529){.calibre3}
-
-[260. Let me remember God created
-me.](#part0050_split_010.html#h1-530){.calibre3}
-
-[5. What Is the
-Body?](#part0051_split_000.html#1GKCM0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[261. God is my refuge and
-security.](#part0051_split_001.html#h1-531){.calibre3}
-
-[262. Let me perceive no differences
-today.](#part0051_split_002.html#h1-532){.calibre3}
-
-[263. My holy vision sees all things as
-pure.](#part0051_split_003.html#h1-533){.calibre3}
-
-[264. I am surrounded by the Love of
-God.](#part0051_split_004.html#h1-534){.calibre3}
-
-[265. Creation's gentleness is all I
-see.](#part0051_split_005.html#h1-535){.calibre3}
-
-[266. My holy Self abides in you, God's
-Son.](#part0051_split_006.html#h1-536){.calibre3}
-
-[267. My heart is beating in the peace of
-God.](#part0051_split_007.html#h1-537){.calibre3}
-
-[268. Let all things be exactly as they
-are.](#part0051_split_008.html#h1-538){.calibre3}
-
-[269. My sight goes forth to look upon Christ's
-face.](#part0051_split_009.html#h1-539){.calibre3}
-
-[270. I will not use the body's eyes
-today.](#part0051_split_010.html#h1-540){.calibre3}
-
-[6. What Is the
-Christ?](#part0052_split_000.html#1HIT80-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[271. Christ's is the vision I will use
-today.](#part0052_split_001.html#h1-541){.calibre3}
-
-[272. How can illusions satisfy God's
-Son?](#part0052_split_002.html#h1-542){.calibre3}
-
-[273. The stillness of the peace of God is
-mine.](#part0052_split_003.html#h1-543){.calibre3}
-
-[274. Today belongs to Love. Let me not
-fear.](#part0052_split_004.html#h1-544){.calibre3}
-
-[275. God's healing Voice protects all things
-today.](#part0052_split_005.html#h1-545){.calibre3}
-
-[276. The Word of God is given me to
-speak.](#part0052_split_006.html#h1-546){.calibre3}
-
-[277. Let me not bind Your Son with laws I
-made.](#part0052_split_007.html#h1-547){.calibre3}
-
-[278. If I am bound, my Father is not
-free.](#part0052_split_008.html#h1-548){.calibre3}
-
-[279. Creation's freedom promises my
-own.](#part0052_split_009.html#h1-549){.calibre3}
-
-[280. What limits can I lay upon God's
-Son?](#part0052_split_010.html#h1-550){.calibre3}
-
-[7. What Is the Holy
-Spirit?](#part0053_split_000.html#1IHDQ0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[281. I can be hurt by nothing but my
-thoughts.](#part0053_split_001.html#h1-551){.calibre3}
-
-[282. I will not be afraid of love
-today.](#part0053_split_002.html#h1-552){.calibre3}
-
-[283. My true Identity abides in
-You.](#part0053_split_003.html#h1-553){.calibre3}
-
-[284. I can elect to change all thoughts that
-hurt.](#part0053_split_004.html#h1-554){.calibre3}
-
-[285. My holiness shines bright and clear
-today.](#part0053_split_005.html#h1-555){.calibre3}
-
-[286. The hush of Heaven holds my heart
-today.](#part0053_split_006.html#h1-556){.calibre3}
-
-[287. You are my goal, my Father. Only
-You.](#part0053_split_007.html#h1-557){.calibre3}
-
-[288. Let me forget my brother's past
-today.](#part0053_split_008.html#h1-558){.calibre3}
-
-[289. The past is over. It can touch me
-not.](#part0053_split_009.html#h1-559){.calibre3}
-
-[290. My present happiness is all I
-see.](#part0053_split_010.html#h1-560){.calibre3}
-
-[8. What Is the Real
-World?](#part0054_split_000.html#1JFUC0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[291. This is a day of stillness and of
-peace.](#part0054_split_001.html#h1-561){.calibre3}
-
-[292. A happy outcome to all things is
-sure.](#part0054_split_002.html#h1-562){.calibre3}
-
-[293. All fear is past and only love is
-here.](#part0054_split_003.html#h1-563){.calibre3}
-
-[294. My body is a wholly neutral
-thing.](#part0054_split_004.html#h1-564){.calibre3}
-
-[295. The Holy Spirit looks through me
-today.](#part0054_split_005.html#h1-565){.calibre3}
-
-[296. The Holy Spirit speaks through me
-today.](#part0054_split_006.html#h1-566){.calibre3}
-
-[297. Forgiveness is the only gift I
-give.](#part0054_split_007.html#h1-567){.calibre3}
-
-[298. I love You, Father, and I love Your
-Son.](#part0054_split_008.html#h1-568){.calibre3}
-
-[299. Eternal holiness abides in
-me.](#part0054_split_009.html#h1-569){.calibre3}
-
-[300. Only an instant does this world
-endure.](#part0054_split_010.html#h1-570){.calibre3}
-
-[9. What Is the Second
-Coming?](#part0055_split_000.html#1KEEU0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[301. And God Himself shall wipe away all
-tears.](#part0055_split_001.html#h1-571){.calibre3}
-
-[302. Where darkness was I look upon the
-light.](#part0055_split_002.html#h1-572){.calibre3}
-
-[303. The holy Christ is born in me
-today.](#part0055_split_003.html#h1-573){.calibre3}
-
-[304. Let not my world obscure the sight of
-Christ.](#part0055_split_004.html#h1-574){.calibre3}
-
-[305. There is a peace that Christ bestows on
-us.](#part0055_split_005.html#h1-575){.calibre3}
-
-[306. The gift of Christ is all I seek
-today.](#part0055_split_006.html#h1-576){.calibre3}
-
-[307. Conflicting wishes cannot be my
-will.](#part0055_split_007.html#h1-577){.calibre3}
-
-[308. This instant is the only time there
-is.](#part0055_split_008.html#h1-578){.calibre3}
-
-[309. I will not fear to look within
-today.](#part0055_split_009.html#h1-579){.calibre3}
-
-[310. In fearlessness and love I spend
-today.](#part0055_split_010.html#h1-580){.calibre3}
-
-[10. What Is the Last
-Judgment?](#part0056_split_000.html#1LCVG0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[311. I judge all things as I would have them
-be.](#part0056_split_001.html#h1-581){.calibre3}
-
-[312. I see all things as I would have them
-be.](#part0056_split_002.html#h1-582){.calibre3}
-
-[313. Now let a new perception come to
-me.](#part0056_split_003.html#h1-583){.calibre3}
-
-[314. I seek a future different from the
-past.](#part0056_split_004.html#h1-584){.calibre3}
-
-[315. All gifts my brothers give belong to
-me.](#part0056_split_005.html#h1-585){.calibre3}
-
-[316. All gifts I give my brothers are my
-own.](#part0056_split_006.html#h1-586){.calibre3}
-
-[317. I follow in the way appointed
-me.](#part0056_split_007.html#h1-587){.calibre3}
-
-[318. In me salvation's means and end are
-one.](#part0056_split_008.html#h1-588){.calibre3}
-
-[319. I came for the salvation of the
-world.](#part0056_split_009.html#h1-589){.calibre3}
-
-[320. My Father gives all power unto
-me.](#part0056_split_010.html#h1-590){.calibre3}
-
-[11. What Is
-Creation?](#part0057_split_000.html#1MBG20-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[321. Father, my freedom is in You
-alone.](#part0057_split_001.html#h1-591){.calibre3}
-
-[322. I can give up but what was never
-real.](#part0057_split_002.html#h1-592){.calibre3}
-
-[323. I gladly make the "sacrifice" of
-fear.](#part0057_split_003.html#h1-593){.calibre3}
-
-[324. I merely follow, for I would not
-lead.](#part0057_split_004.html#h1-594){.calibre3}
-
-[325. All things I think I see reflect
-ideas.](#part0057_split_005.html#h1-595){.calibre3}
-
-[326. I am forever an Effect of
-God.](#part0057_split_006.html#h1-596){.calibre3}
-
-[327. I need but call and You will answer
-me.](#part0057_split_007.html#h1-597){.calibre3}
-
-[328. I choose the second place to gain the
-first.](#part0057_split_008.html#h1-598){.calibre3}
-
-[329. I have already chosen what You
-will.](#part0057_split_009.html#h1-599){.calibre3}
-
-[330. I will not hurt myself again
-today.](#part0057_split_010.html#h1-600){.calibre3}
-
-[12. What Is the
-Ego?](#part0058_split_000.html#1NA0K0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[331. There is no conflict, for my will is
-Yours.](#part0058_split_001.html#h1-601){.calibre3}
-
-[332. Fear binds the world. Forgiveness sets it
-free.](#part0058_split_002.html#h1-602){.calibre3}
-
-[333. Forgiveness ends the dream of conflict
-here.](#part0058_split_003.html#h1-603){.calibre3}
-
-[334. Today I claim the gifts forgiveness
-gives.](#part0058_split_004.html#h1-604){.calibre3}
-
-[335. I choose to see my brother's
-sinlessness.](#part0058_split_005.html#h1-605){.calibre3}
-
-[336. Forgiveness lets me know that minds are
-joined.](#part0058_split_006.html#h1-606){.calibre3}
-
-[337. My sinlessness protects me from all
-harm.](#part0058_split_007.html#h1-607){.calibre3}
-
-[338. I am affected only by my
-thoughts.](#part0058_split_008.html#h1-608){.calibre3}
-
-[339. I will receive whatever I
-request.](#part0058_split_009.html#h1-609){.calibre3}
-
-[340. I can be free of suffering
-today.](#part0058_split_010.html#h1-610){.calibre3}
-
-[13. What Is a
-Miracle?](#part0059_split_000.html#1O8H60-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[341. I can attack but my own sinlessness, and it is only that which
-keeps me safe.](#part0059_split_001.html#h1-611){.calibre3}
-
-[342. I let forgiveness rest upon all things, for thus forgiveness will
-be given me.](#part0059_split_002.html#h1-612){.calibre3}
-
-[343. I am not asked to make a sacrifice to find the mercy and the peace
-of God.](#part0059_split_003.html#h1-613){.calibre3}
-
-[344. Today I learn the law of love; that what I give my brother is my
-gift to me.](#part0059_split_004.html#h1-614){.calibre3}
-
-[345. I offer only miracles today, for I would have them be returned to
-me.](#part0059_split_005.html#h1-615){.calibre3}
-
-[346. Today the peace of God envelops me, and I forget all things except
-His Love.](#part0059_split_006.html#h1-616){.calibre3}
-
-[347. Anger must come from judgment. Judgment is the weapon I would use
-against myself, to keep the miracle away from
-me.](#part0059_split_007.html#h1-617){.calibre3}
-
-[348. I have no cause for anger or for fear, for You surround me. And in
-every need that I perceive, Your grace suffices
-me.](#part0059_split_008.html#h1-618){.calibre3}
-
-[349. Today I let Christ's vision look upon all things for me and judge
-them not, but give each one a miracle of love
-instead.](#part0059_split_009.html#h1-619){.calibre3}
-
-[350. Miracles mirror God's eternal Love. To offer them is to remember
-Him, and through His memory to save the
-world.](#part0059_split_010.html#h1-620){.calibre3}
-
-[14. What am
-I?](#part0060_split_000.html#1P71O0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[351. My sinless brother is my guide to peace. My sinful brother is my
-guide to pain. And which I choose to see I will
-behold.](#part0060_split_001.html#h1-621){.calibre3}
-
-[352. Judgment and love are opposites. From one come all the sorrows of
-the world. But from the other comes the peace of God
-Himself.](#part0060_split_002.html#h1-622){.calibre3}
-
-[353. My eyes, my tongue, my hands, my feet today have but one purpose;
-to be given Christ to use to bless the world with
-miracles.](#part0060_split_003.html#h1-623){.calibre3}
-
-[354. We stand together, Christ and I, in peace and certainty of
-purpose. And in Him is His Creator, as He is in
-me.](#part0060_split_004.html#h1-624){.calibre3}
-
-[355. There is no end to all the peace and joy, and all the miracles
-that I will give, when I accept God's Word. Why not
-today?](#part0060_split_005.html#h1-625){.calibre3}
-
-[356. Sickness is but another name for sin. Healing is but another name
-for God. The miracle is thus a call to
-Him.](#part0060_split_006.html#h1-626){.calibre3}
-
-[357. Truth answers every call we make to God, responding first with
-miracles, and then returning unto us to be
-itself.](#part0060_split_007.html#h1-627){.calibre3}
-
-[358. No call to God can be unheard nor left unanswered. And of this I
-can be sure; His answer is the one I really
-want.](#part0060_split_008.html#h1-628){.calibre3}
-
-[359. God's answer is some form of peace. All pain is healed; all misery
-replaced with joy. All prison doors are opened. And all sin is
-understood as merely a
-mistake.](#part0060_split_009.html#h1-629){.calibre3}
-
-[360. Peace be to me, the holy Son of God. Peace to my brother, who is
-one with me. Let all the world be blessed with peace through
-us.](#part0060_split_010.html#h1-630){.calibre3}
-
-[Our Final
-Lessons](#part0061_split_000.html#1Q5IA0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[361. This holy instant would I give to
-You.](#part0061_split_001.html#h1-631){.calibre3}
-
-[362. This holy instant would I give to
-You.](#part0061_split_001.html#h1-631){.calibre3}
-
-[363. This holy instant would I give to
-You.](#part0061_split_001.html#h1-631){.calibre3}
-
-[364. This holy instant would I give to
-You.](#part0061_split_001.html#h1-631){.calibre3}
-
-[365. This holy instant would I give to
-You.](#part0061_split_001.html#h1-631){.calibre3}
-
-[Epilogue](#part0062.html#1R42S0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Manual For
-Teachers](#part0063.html#1S2JE0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[Introduction](#part0064.html#1T1400-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[1. Who Are God's
-Teachers?](#part0065.html#1TVKI0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[2. Who Are Their
-Pupils?](#part0066.html#1UU540-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[3. What Are the Levels of
-Teaching?](#part0067.html#1VSLM0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[4. What Are the Characteristics of God's
-Teachers?](#part0068_split_000.html#20R680-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[5. How Is Healing
-Accomplished?](#part0069_split_000.html#21PMQ0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[6. Is Healing
-Certain?](#part0070.html#22O7C0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[7. Should Healing Be
-Repeated?](#part0071.html#23MNU0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[8. How Can Perception of Order of Difficulties Be
-Avoided?](#part0072.html#24L8G0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[9. Are Changes Required in the Life Situation of God's
-Teachers?](#part0073.html#25JP20-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[10. How Is judgment
-Relinquished?](#part0074.html#26I9K0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[11. How Is Peace Possible in This
-World?](#part0075.html#27GQ60-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[12. How Many Teachers of God Are Needed to Save the
-World?](#part0076.html#28FAO0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[13. What Is the Real Meaning of
-Sacrifice?](#part0077.html#29DRA0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[14. How Will the World
-End?](#part0078.html#2ACBS0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[15. Is Each One to Be Judged in the
-End?](#part0079.html#2BASE0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[16. How Should the Teacher of God Spend His
-Day?](#part0080.html#2C9D00-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[17. How Do God's Teachers Deal with Magic
-Thoughts?](#part0081.html#2D7TI0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[18. How Is Correction
-Made?](#part0082.html#2E6E40-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[19. What Is
-Justice?](#part0083.html#2F4UM0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[20. What Is the Peace of
-God?](#part0084.html#2G3F80-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[21. What Is the Role of Words in
-Healing?](#part0085.html#2H1VQ0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[22. How Are Healing and Atonement
-Related?](#part0086.html#2I0GC0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[23. Does Jesus Have a Special Place in
-Healing?](#part0087.html#2IV0U0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[24. Is Reincarnation
-So?](#part0088.html#2JTHG0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[25. Are "Psychic" Powers
-Desirable?](#part0089.html#2KS220-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[26. Can God Be Reached
-Directly?](#part0090.html#2LQIK0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[27. What Is
-Death?](#part0091.html#2MP360-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[28. What Is the
-Resurrection?](#part0092.html#2NNJO0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[29. As for the
-Rest...](#part0093.html#2OM4A0-3d6138c9f07a4bdb8f6df1a59b4b2152){.calibre3}
-
-[]{#part0005.html}
-
-::: {.body}
-# **A Course in Miracles** {#part0005.html#calibre_pb_0 .toc-title}
-
-^I:1^ This is a course in miracles. It is a required course. Only the
+# **A Course in Miracles** 
+This is a course in miracles. It is a required course. Only the
 time you take it is voluntary. Free will does not mean that you can
 establish the curriculum. It means only that you may elect what you want
 to take at a given time.
 
-^2^ The course does not aim at teaching the meaning of love, for that is
+The course does not aim at teaching the meaning of love, for that is
 beyond what can be taught. It does aim, however, at removing the blocks
 to the awareness of love's presence, which is your natural inheritance.
 The opposite of love is fear, but what is all-encompassing can have no
 opposite.
 
-^3^ This course can therefore be summed up very simply in this way:
-
-^4^ Nothing real can be threatened.
-
+This course can therefore be summed up very simply in this way:
+Nothing real can be threatened.
 Nothing unreal exists.
+Herein lies the peace of God.
 
-^5^ Herein lies the peace of God.
-:::
+## Chapter One: Introduction to Miracles
+### I. Principles of Miracles
 
-[]{#part0006_split_000.html}
 
-::: {.body}
-# [**Chapter One**](#part0004.html#chap-1){.calibre3} {#part0006_split_000.html#calibre_pb_0 .chapter-number}
-
-# [**Introduction to Miracles**](#part0004.html#chap-1){.calibre3} {.chapter-title}
-
-# [**I. Principles of Miracles**](#part0004.html#level-1){.calibre3} {#part0006_split_000.html#h1-1 .level}
-
-1\. ^1:1^ There is no order of difficulty among miracles. One is not
+1. There is no order of difficulty among miracles. One is not
 "harder" or "bigger" than another. They are all the same. All
 expressions of love are maximal.
 
-2\. ^2^ Miracles as such do not matter. The only thing that matters is
+2. Miracles as such do not matter. The only thing that matters is
 their Source, which is far beyond human evaluation.
 
-3\. ^3^ Miracles occur naturally as expressions of love. The real
+3. Miracles occur naturally as expressions of love. The real
 miracle is the love that inspires them. In this sense, everything that
 comes from love is a miracle.
 
-4 ^4^ All miracles mean life, and God is the Giver of life. His Voice
+4. All miracles mean life, and God is the Giver of life. His Voice
 will direct you very specifically. You will be told all you need to
 know.
 
-5\. ^5^ Miracles are habits and should be involuntary. They should not
+5. Miracles are habits and should be involuntary. They should not
 be under conscious control. Consciously selected miracles can be
 misguided.
 
-6\. ^6^ Miracles are natural. When they do *not* occur, something has
+6. Miracles are natural. When they do *not* occur, something has
 gone wrong.
 
-7\. ^7^ Miracles are everyone's right, but purification is necessary
+7. Miracles are everyone's right, but purification is necessary
 first.
 
-8\. ^8^ Miracles are healing because they supply a lack in that they are
+8.  Miracles are healing because they supply a lack in that they are
 performed by those who temporarily have more for those who temporarily
 have less.
 
-9\. ^9^ Miracles are a kind of exchange. Like all expressions of love,
+9. Miracles are a kind of exchange. Like all expressions of love,
 which are *always* miraculous in the true sense, the exchange reverses
 the physical laws. They bring *more* love both to the giver *and* the
 receiver.
 
-10\. ^10^ The use of miracles as spectacles to *induce* belief is wrong,
+10.  The use of miracles as spectacles to *induce* belief is wrong,
 or better, is a misunderstanding of their purpose. They are really used
 *for* and *by* believers.
 
-11\. ^11^ Prayer is the medium of miracles. Prayer is the natural
+11. Prayer is the medium of miracles. Prayer is the natural
 communication of the created with the Creator. Through prayer love is
 received, and through miracles love is expressed.
 
-12\. ^12^ Miracles are thoughts. Thoughts can represent lower-order or
+12.  Miracles are thoughts. Thoughts can represent lower-order or
 higher-order reality. This is the basic distinction between
 intellectualizing and thinking. One makes the physical and the other
 creates the spiritual, and we believe in what we make or create.
 
-13\. ^13^ Miracles are both beginnings and endings. They thus alter the
+13. Miracles are both beginnings and endings. They thus alter the
 temporal order. They are always affirmations of rebirth which seem to go
 back but really go forward. They undo the past in the present and thus
 release the future.
 
-14\. ^14^ Miracles bear witness to truth. They are convincing because
+14. Miracles bear witness to truth. They are convincing because
 they arise from conviction. Without conviction they deteriorate into
 magic, which is mindless and therefore destructive, or rather the
 uncreative use of mind.
 
-15\. ^15^ Each day should be devoted to miracles. The purpose of time is
+15. Each day should be devoted to miracles. The purpose of time is
 to enable man to learn to use it constructively. Time is thus a teaching
 device and a means to an end. It will cease when it is no longer useful
 in facilitating learning.
 
-16\. ^16^ Miracles are teaching devices for demonstrating that it is
+16. Miracles are teaching devices for demonstrating that it is
 more blessed to give than to receive. They simultaneously increase the
 strength of the giver and supply strength to the receiver.
 
-17\. ^17^ Miracles are the transcendence of the body. They are sudden
+17. Miracles are the transcendence of the body. They are sudden
 shifts into invisibility, away from a sense of lower-order reality. That
 is why they heal.
 
-18\. ^18^ A miracle is a service. It is the maximal service one
+18. A miracle is a service. It is the maximal service one
 individual can render another. It is a way of loving your neighbor as
 yourself. The doer recognizes his own and his neighbor's inestimable
 worth simultaneously.
 
-19\. ^19^ Miracles make minds one in God. They depend on cooperation
+19. Miracles make minds one in God. They depend on cooperation
 because the Sonship is the sum of all the Souls God created. Miracles
 therefore rest on the laws of eternity, not of time.
 
-20\. ^20^ Miracles reawaken the awareness that the spirit, not the body,
+20. Miracles reawaken the awareness that the spirit, not the body,
 is the altar of truth. This is the recognition that leads to the healing
 power of the miracle.
 
-21\. ^21^ Miracles are natural expressions of total forgiveness. Through
+21. Miracles are natural expressions of total forgiveness. Through
 miracles, man accepts God's forgiveness by extending it to others.
 
-22\. ^22^ Miracles are associated with fear only because of the
+22. Miracles are associated with fear only because of the
 fallacious belief that darkness can *hide.* Man believes that what he
 cannot see does not exist, and his physical eyes cannot see in the dark.
 This is a very primitive solution and has led to a denial of the
 Spiritual eye. \[1\] The escape from darkness involves two stages:
 
-A. ^23^ The recognition that darkness *cannot* hide. This step usually
+A. The recognition that darkness *cannot* hide. This step usually
 entails fear.
 
-B. ^24^ The recognition that there is nothing you *want* to hide, even
+B. The recognition that there is nothing you *want* to hide, even
 if you *could*. This step brings *escape* from fear.
 
-23\. ^25^ Miracles rearrange perception and place the levels of
+23. Miracles rearrange perception and place the levels of
 perception in true perspective. This heals at *all* levels because
 sickness comes from confusing the levels.
 
-^26^ When you have become willing to hide nothing, you will not only be
+24. When you have become willing to hide nothing, you will not only be
 willing to enter into communion but will also understand peace and joy.
 Your commitment is not yet total, and that is why you still have more to
 learn than to teach. When your equilibrium stabilizes, you will be able
@@ -2315,7 +213,7 @@ this, you cannot avail yourselves of *my* efforts, which *are*
 limitless. Only eternity is real. Why not use the illusion of time
 constructively?
 
-24\. ^27^ Miracles enable man to heal the sick and raise the dead
+24. Miracles enable man to heal the sick and raise the dead
 because he made sickness and death himself and can abolish both. *You*
 are a miracle, capable of creating in the likeness of your Creator.
 Everything else is only your own nightmare and does not exist. Only the
@@ -2861,10 +759,8 @@ and the "physical eye" becomes the ego. The emphasis on the two ways of
 seeing, however, remains throughout.
 :::
 
-[]{#part0006_split_001.html}
+### II. Distortions of Miracle Impulses
 
-::: {.body}
-# [**II. Distortions of Miracle Impulses**](#part0004.html#level-2){.calibre3} {#part0006_split_001.html#h1-2 .level1}
 
 ^102^ You are involved in unconscious distortions which are producing a
 dense cover over miracle impulses and which make it hard for them to
@@ -2934,14 +830,10 @@ receiver. And fantasies become totally unnecessary as the wholly
 satisfying nature of reality becomes apparent to both.
 :::
 
-[]{#part0007_split_000.html}
+## Chapter Two: The Illusion of Separation
 
-::: {.body}
-# [**Chapter Two**](#part0004.html#chap-2){.calibre3} {#part0007_split_000.html#calibre_pb_0 .chapter-number}
+### I. Introduction
 
-# [**The Illusion of Separation**](#part0004.html#chap-2){.calibre3} {.chapter-title}
-
-# [**I. Introduction**](#part0004.html#level-3){.calibre3} {#part0007_split_000.html#h1-3 .level}
 
 ^2:1^ This section deals with a fundamental misuse of knowledge,
 referred to in the Bible as the cause of the "fall," or separation.
@@ -3066,13 +958,10 @@ own miracles of correcting the external conditions which proceed from
 lack of love in others.
 :::
 
-[]{#part0007_split_001.html}
 
-::: {.body}
-# [**II. The Reinterpretation of Defenses**](#part0004.html#level-4){.calibre3} {#part0007_split_001.html#h1-4 .level1a}
+### II. The Reinterpretation of Defenses
 
-^18^ When you are afraid of *anything*, you are acknowledging its power
-to hurt you. Remember that where your heart is, there is your treasure
+^18^ When you are afraid of *anything*, you are acknowledging its power to hurt you. Remember that where your heart is, there is your treasure
 also. This means that you believe in what you *value*. If you are
 afraid, you are *valuing wrongly.* Human understanding will inevitably
 value wrongly and, by endowing all human thoughts with equal power, will
@@ -3361,10 +1250,8 @@ without Him. Men must learn to perceive the world as a means of
 will ultimately succeed.
 :::
 
-[]{#part0007_split_002.html}
 
-::: {.body}
-# [**III. Healing as Release from Fear**](#part0004.html#level-5){.calibre3} {#part0007_split_002.html#h1-5 .level1a}
+### III. Healing as Release from Fear
 
 ^52^ The emphasis will now be on healing. The miracle is the means, the
 Atonement is the principle, and healing is the result. Those who speak
@@ -3580,7 +1467,7 @@ progressively.
 []{#part0007_split_003.html}
 
 ::: {.body}
-# [**IV. Fear as Lack of Love**](#part0004.html#level-6){.calibre3} {#part0007_split_003.html#h1-6 .level1a}
+### IV. Fear as Lack of Love
 
 ^72^ You believe that "being afraid" is involuntary, something beyond
 your control. Yet I have told you several times that only *constructive*
@@ -3668,7 +1555,7 @@ corrected by higher *willing*.
 []{#part0007_split_004.html}
 
 ::: {.body}
-# [**V. The Correction for Lack of Love**](#part0004.html#level-7){.calibre3} {#part0007_split_004.html#h1-7 .level1a}
+### V. The Correction for Lack of Love
 
 ^81^ The first corrective step is *know first* that this is an
 expression of fear. Then say to yourself that you must somehow have
@@ -3880,7 +1767,7 @@ directly into the real meaning of the Last Judgment.
 []{#part0007_split_005.html}
 
 ::: {.body}
-# [**VI. The Meaning of the Last Judgment**](#part0004.html#level-8){.calibre3} {#part0007_split_005.html#h1-8 .level1a}
+### VI. The Meaning of the Last Judgment
 
 ^105^ The Last Judgment is one of the greatest threat concepts in man's
 perception. This is only because he does not understand it. Judgment is
@@ -3939,14 +1826,9 @@ there is no reason for fear to remain with him. This *is* his part in
 the Atonement.
 :::
 
-[]{#part0008_split_000.html}
+## Chapter Three: Retraining the Mind
 
-::: {.body}
-# [**Chapter Three**](#part0004.html#chap-3){.calibre3} {#part0008_split_000.html#calibre_pb_0 .chapter-number}
-
-# [**Retraining the Mind**](#part0004.html#chap-3){.calibre3} {.chapter-title}
-
-# [**I. Introduction**](#part0004.html#level-9){.calibre3} {#part0008_split_000.html#h1-9 .level1a1}
+### I. Introduction
 
 ^3:1^ This is a course in *mind training*. All learning involves
 attention and study at some level. Some of the later parts of the course
@@ -3977,10 +1859,8 @@ Revelation may occasionally *reveal* the end to you, but to reach it the
 means are needed.
 :::
 
-[]{#part0008_split_001.html}
 
-::: {.body}
-# [**II. Special Principles For Miracle Workers**](#part0004.html#level-10){.calibre3} {#part0008_split_001.html#h1-10 .level1a}
+### II. Special Principles For Miracle Workers
 
 1\. ^4^ The miracle abolishes the need for lower-order concerns. Since
 it is an out-of-pattern time interval, the ordinary considerations of
@@ -4025,10 +1905,8 @@ belongs to God alone. In time we exist for and with each other. In
 Timelessness we coexist with God.
 :::
 
-[]{#part0008_split_002.html}
 
-::: {.body}
-# [**III. Atonement Without Sacrifice**](#part0004.html#level-11){.calibre3} {#part0008_split_002.html#h1-11 .level1a}
+### III. Atonement Without Sacrifice
 
 ^11^ There is another point which must be perfectly clear before any
 residual fear which may still be associated with miracles becomes
@@ -4167,10 +2045,8 @@ nothing except perfection truly belongs. The understanding of the
 innocent is *truth*. That is why their altars are truly radiant.
 :::
 
-[]{#part0008_split_003.html}
 
-::: {.body}
-# [**IV. Miracles as Accurate Perception**](#part0004.html#level-12){.calibre3} {#part0008_split_003.html#h1-12 .level1a}
+### IV. Miracles as Accurate Perception
 
 ^25^ We have repeatedly stated that the basic concepts referred to in
 this course are *not* matters of degree. Certain fundamental concepts
@@ -4218,10 +2094,8 @@ see them as they are, you offer them your own validation of *their*
 truth. This is the healing which the miracle actively fosters.
 :::
 
-[]{#part0008_split_004.html}
 
-::: {.body}
-# [**V. Perception Versus Knowledge**](#part0004.html#level-13){.calibre3} {#part0008_split_004.html#h1-13 .level1a}
+### V. Perception Versus Knowledge
 
 ^30^ We have been emphasizing perception and have said very little about
 cognition as yet because you are confused about the difference between
@@ -4306,10 +2180,8 @@ them perfectly. When they do not recognize each other, they do not
 recognize Him.
 :::
 
-[]{#part0008_split_005.html}
 
-::: {.body}
-# [**VI. Conflict and the Ego**](#part0004.html#level-14){.calibre3} {#part0008_split_005.html#h1-14 .level1a}
+### VI. Conflict and the Ego
 
 ^38^ The abilities man now possesses are only shadows of his real
 strengths. All of his functions are equivocal and open to question or
@@ -4431,10 +2303,8 @@ is the real meaning of the celestial speed-up. Strong wills can do this
 peace, and this *is* your reality.
 :::
 
-[]{#part0008_split_006.html}
 
-::: {.body}
-# [**VII. The Loss of Certainty**](#part0004.html#level-15){.calibre3} {#part0008_split_006.html#h1-15 .level1a}
+### VII. The Loss of Certainty
 
 ^51^ We said before that the abilities which man possesses are only
 shadows of his real strengths and that the intrusion of the ability to
@@ -4540,10 +2410,8 @@ doubt. Do not perceive yourself in different lights. *Know* yourself in
 the One Light where the miracle that is you is perfectly clear.
 :::
 
-[]{#part0008_split_007.html}
 
-::: {.body}
-# [**VIII. Judgment and the Authority Problem**](#part0004.html#level-16){.calibre3} {#part0008_split_007.html#h1-16 .level1a}
+### VIII. Judgment and the Authority Problem
 
 ^61^ We have already discussed the Last Judgment in some though
 insufficient detail. After the Last Judgment there will be no more. This
@@ -4662,10 +2530,8 @@ is willed. Instead of, "Seek ye first the Kingdom of Heaven" say,
 I am, and I will to accept my own inheritance."
 :::
 
-[]{#part0008_split_008.html}
 
-::: {.body}
-# [**IX. Creating Versus the Self-Image**](#part0004.html#level-17){.calibre3} {#part0008_split_008.html#h1-17 .level1a}
+### IX. Creating Versus the Self-Image
 
 ^72^ Every system of thought must have a starting point. It begins with
 either a making or a creating, a difference which we have discussed
@@ -4764,14 +2630,10 @@ truth, and truth *can* be known by all those for whom the Kingdom was
 created and for whom it waits.
 :::
 
-[]{#part0009_split_000.html}
 
-::: {.body}
-# [**Chapter Four**](#part0004.html#chap-4){.calibre3} {#part0009_split_000.html#calibre_pb_0 .chapter-number}
+## Chapter Four: The Root of all Evil
 
-# [**The Root of all Evil**](#part0004.html#chap-4){.calibre3} {.chapter-title}
-
-# [**I. Introduction**](#part0004.html#level-18){.calibre3} {#part0009_split_000.html#h1-18 .level1a1}
+### I. Introduction
 
 ^4:1^ The Bible says that you should go with a brother twice as far as
 he asks. It certainly does not suggest that you set him back on his
@@ -4812,7 +2674,7 @@ lessons carefully, they will help to prepare you to undertake it.
 []{#part0009_split_001.html}
 
 ::: {.body}
-# [**II. Right Teaching and Right Learning**](#part0004.html#level-19){.calibre3} {#part0009_split_001.html#h1-19 .level1a}
+# [**II. Right Teaching and Right Learning**](#part0004.html#level-19) {#part0009_split_001.html#h1-19 .level1a}
 
 ^5^ We have spoken of many different human symptoms, and at this level
 there is almost endless variation. There is, however, only *one* cause
@@ -4996,7 +2858,7 @@ because I have overcome the world.
 []{#part0009_split_002.html}
 
 ::: {.body}
-# [**III. The Ego and False Autonomy**](#part0004.html#level-20){.calibre3} {#part0009_split_002.html#h1-20 .level1a}
+# [**III. The Ego and False Autonomy**](#part0004.html#level-20) {#part0009_split_002.html#h1-20 .level1a}
 
 ^24^ You have asked lately how the mind could ever have made the ego.
 This is a perfectly reasonable question; in fact, the best question you
@@ -5181,7 +3043,7 @@ God's creations.
 []{#part0009_split_003.html}
 
 ::: {.body}
-# [**IV. Love Without Conflict**](#part0004.html#level-21){.calibre3} {#part0009_split_003.html#h1-21 .level1a}
+# [**IV. Love Without Conflict**](#part0004.html#level-21) {#part0009_split_003.html#h1-21 .level1a}
 
 ^41^ You have never understood what "the Kingdom of Heaven is within
 you" means. The reason you have not understood it is because it is *not*
@@ -5329,7 +3191,7 @@ protect this belief at the *cost* of truth?
 []{#part0009_split_004.html}
 
 ::: {.body}
-# [**V. The Escape From Fear**](#part0004.html#level-22){.calibre3} {#part0009_split_004.html#h1-22 .level1a}
+# [**V. The Escape From Fear**](#part0004.html#level-22) {#part0009_split_004.html#h1-22 .level1a}
 
 ^56^ If you cannot hear the Voice of God, it is because you do not
 choose to listen. The fact that you *do* listen to the voice of your ego
@@ -5451,7 +3313,7 @@ you is as natural as your answer and as inevitable.
 []{#part0009_split_005.html}
 
 ::: {.body}
-# [**VI. The Ego-Body Illusion**](#part0004.html#level-23){.calibre3} {#part0009_split_005.html#h1-23 .level1a}
+# [**VI. The Ego-Body Illusion**](#part0004.html#level-23) {#part0009_split_005.html#h1-23 .level1a}
 
 ^69^ *All* things work together for good. There are *no* exceptions
 except in the ego's judgment. Control is a central factor in what the
@@ -5584,7 +3446,7 @@ to demonstrate that the perception is wrong.
 []{#part0009_split_006.html}
 
 ::: {.body}
-# [**VII. The Constant State**](#part0004.html#level-24){.calibre3} {#part0009_split_006.html#h1-24 .level1a}
+# [**VII. The Constant State**](#part0004.html#level-24) {#part0009_split_006.html#h1-24 .level1a}
 
 ^81^ It cannot be emphasized too often that correcting perception is
 merely a temporary expedient. It is necessary to do so only because
@@ -5717,7 +3579,7 @@ in the presence of the rewards of God?
 []{#part0009_split_007.html}
 
 ::: {.body}
-# [**VIII. Creation and Communication**](#part0004.html#level-25){.calibre3} {#part0009_split_007.html#h1-25 .level1a}
+# [**VIII. Creation and Communication**](#part0004.html#level-25) {#part0009_split_007.html#h1-25 .level1a}
 
 ^94^ It should be clear by now that, while the content of any particular
 ego-illusion does not matter, it is usually more helpful to correct it
@@ -5824,7 +3686,7 @@ whoever can follow my guidance through you.
 []{#part0009_split_008.html}
 
 ::: {.body}
-# [**IX. True Rehabilitation**](#part0004.html#level-26){.calibre3} {#part0009_split_008.html#h1-26 .level1a}
+# [**IX. True Rehabilitation**](#part0004.html#level-26) {#part0009_split_008.html#h1-26 .level1a}
 
 ^103^ Every mind which is split needs rehabilitation. The medical
 orientation to rehabilitation emphasizes the body, while the vocational
@@ -5873,11 +3735,11 @@ I will be healed as I let Him teach me to heal.
 []{#part0010_split_000.html}
 
 ::: {.body}
-# [**Chapter Five**](#part0004.html#chap-5){.calibre3} {#part0010_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Five**](#part0004.html#chap-5) {#part0010_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Healing and Wholeness**](#part0004.html#chap-5){.calibre3} {.chapter-title}
+# [**Healing and Wholeness**](#part0004.html#chap-5) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-27){.calibre3} {#part0010_split_000.html#h1-27 .level1a1}
+# [**I. Introduction**](#part0004.html#level-27) {#part0010_split_000.html#h1-27 .level1a1}
 
 ^5:1^ To heal is to make happy. I have told you before to think how many
 opportunities you have to gladden yourselves and how many you have
@@ -5917,7 +3779,7 @@ healer's prayer is:
 []{#part0010_split_001.html}
 
 ::: {.body}
-# [**II. Healing As Joining**](#part0004.html#level-28){.calibre3} {#part0010_split_001.html#h1-28 .level1a}
+# [**II. Healing As Joining**](#part0004.html#level-28) {#part0010_split_001.html#h1-28 .level1a}
 
 ^5^ Healing is an act of thought by which two minds perceive their
 oneness and become glad. This gladness calls to every part of the
@@ -5987,7 +3849,7 @@ Before that, there was no need for healing and no one was comfortless.
 []{#part0010_split_002.html}
 
 ::: {.body}
-# [**III. The Mind of the Atonement**](#part0004.html#level-29){.calibre3} {#part0010_split_002.html#h1-29 .level1a}
+# [**III. The Mind of the Atonement**](#part0004.html#level-29) {#part0010_split_002.html#h1-29 .level1a}
 
 ^12^ God honored even the miscreations of His Children because they had
 made them, but He also blessed them with a way of thinking that could
@@ -6057,7 +3919,7 @@ again.
 []{#part0010_split_003.html}
 
 ::: {.body}
-# [**IV. The Voice of God**](#part0004.html#level-30){.calibre3} {#part0010_split_003.html#h1-30 .level1a}
+# [**IV. The Voice of God**](#part0004.html#level-30) {#part0010_split_003.html#h1-30 .level1a}
 
 ^20^ It is possible even in this world to hear *only* that Voice and no
 other. It takes effort and great willingness to learn. It is the final
@@ -6181,7 +4043,7 @@ within you.
 []{#part0010_split_004.html}
 
 ::: {.body}
-# [**V. The Guide to Salvation**](#part0004.html#level-31){.calibre3} {#part0010_split_004.html#h1-31 .level1a}
+# [**V. The Guide to Salvation**](#part0004.html#level-31) {#part0010_split_004.html#h1-31 .level1a}
 
 ^32^ The way to learn to know your brother is by perceiving the Holy
 Spirit in him. We have already said that the Holy Spirit is the bridge
@@ -6313,7 +4175,7 @@ in His name by sharing it, to increase His joy in *you*.
 []{#part0010_split_005.html}
 
 ::: {.body}
-# [**VI. Therapy and Teaching**](#part0004.html#level-32){.calibre3} {#part0010_split_005.html#h1-32 .level1a}
+# [**VI. Therapy and Teaching**](#part0004.html#level-32) {#part0010_split_005.html#h1-32 .level1a}
 
 ^44^ You must have noticed how often I have used your own ideas to help
 you. You have learned to be a loving, wise, and very understanding
@@ -6465,7 +4327,7 @@ blessed Sons. The Thoughts of God are with you.
 []{#part0010_split_006.html}
 
 ::: {.body}
-# [**VII. The Two Decisions**](#part0004.html#level-33){.calibre3} {#part0010_split_006.html#h1-33 .level1a}
+# [**VII. The Two Decisions**](#part0004.html#level-33) {#part0010_split_006.html#h1-33 .level1a}
 
 ^59^ Perhaps some of our concepts will become clearer and more
 personally meaningful if the ego's use of guilt is clarified. The ego
@@ -6584,7 +4446,7 @@ underlying *cause* is removed.
 []{#part0010_split_007.html}
 
 ::: {.body}
-# [**VIII. The Eternal Fixation**](#part0004.html#level-34){.calibre3} {#part0010_split_007.html#h1-34 .level1a}
+# [**VIII. The Eternal Fixation**](#part0004.html#level-34) {#part0010_split_007.html#h1-34 .level1a}
 
 ^70^ The *continuing* will to remain separated is the only possible
 reason for continuing guilt feelings. We have said this before, but we
@@ -6720,11 +4582,11 @@ received Him.
 []{#part0011_split_000.html}
 
 ::: {.body}
-# [**Chapter Six**](#part0004.html#chap-6){.calibre3} {#part0011_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Six**](#part0004.html#chap-6) {#part0011_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Attack and Fear**](#part0004.html#chap-6){.calibre3} {.chapter-title}
+# [**Attack and Fear**](#part0004.html#chap-6) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-35){.calibre3} {#part0011_split_000.html#h1-35 .level1a1}
+# [**I. Introduction**](#part0004.html#level-35) {#part0011_split_000.html#h1-35 .level1a1}
 
 ^6:1^ The relationship of anger to attack is obvious, but the inevitable
 association of anger and *fear* is not always so clear. Anger *always*
@@ -6759,7 +4621,7 @@ model if you could accept it.
 []{#part0011_split_001.html}
 
 ::: {.body}
-# [**II. The Message of the Crucifixion**](#part0004.html#level-36){.calibre3} {#part0011_split_001.html#h1-36 .level1a}
+# [**II. The Message of the Crucifixion**](#part0004.html#level-36) {#part0011_split_001.html#h1-36 .level1a}
 
 ^4^ For teaching purposes, let us consider the crucifixion again. We
 have not dwelt on it before because of its fearful connotations. The
@@ -6961,7 +4823,7 @@ must think as He thinks if you are to know Him again.
 []{#part0011_split_002.html}
 
 ::: {.body}
-# [**III. The Uses of Projection**](#part0004.html#level-37){.calibre3} {#part0011_split_002.html#h1-37 .level1a}
+# [**III. The Uses of Projection**](#part0004.html#level-37) {#part0011_split_002.html#h1-37 .level1a}
 
 ^25^ Any split in will *must* involve a rejection of part of it, and
 this *is* the belief in separation. The wholeness of God, which *is* His
@@ -7112,7 +4974,7 @@ one*.
 []{#part0011_split_003.html}
 
 ::: {.body}
-# [**IV. The Relinquishment of Attack**](#part0004.html#level-38){.calibre3} {#part0011_split_003.html#h1-38 .level1a}
+# [**IV. The Relinquishment of Attack**](#part0004.html#level-38) {#part0011_split_003.html#h1-38 .level1a}
 
 ^39^ We have used many words as synonymous which are not ordinarily
 regarded as the same. We began with having and being and more recently
@@ -7176,7 +5038,7 @@ Teach only love, and learn that love is yours, and *you* are love.
 []{#part0011_split_004.html}
 
 ::: {.body}
-# [**V. The Only Answer**](#part0004.html#level-39){.calibre3} {#part0011_split_004.html#h1-39 .level1a}
+# [**V. The Only Answer**](#part0004.html#level-39) {#part0011_split_004.html#h1-39 .level1a}
 
 ^45^ Remember that the Holy Spirit is the *Answer, not* the question.
 The ego always speaks first because it is capricious and does *not* mean
@@ -7307,7 +5169,7 @@ question. He merely gave the Answer. His Answer is your Teacher.
 []{#part0011_split_005.html}
 
 ::: {.body}
-# [**a. To Have, Give All to All**](#part0004.html#level-40){.calibre3} {#part0011_split_005.html#h1-40 .level1a}
+# [**a. To Have, Give All to All**](#part0004.html#level-40) {#part0011_split_005.html#h1-40 .level1a}
 
 ^57^ Like any good teacher, the Holy Spirit does know more than you do
 *now*, but He teaches only to make you *equal* with Him. This is because
@@ -7428,7 +5290,7 @@ longer alone.*
 []{#part0011_split_006.html}
 
 ::: {.body}
-# [**b. To Have Peace, Teach Peace to Learn It**](#part0004.html#level-41){.calibre3} {#part0011_split_006.html#h1-41 .level1a}
+# [**b. To Have Peace, Teach Peace to Learn It**](#part0004.html#level-41) {#part0011_split_006.html#h1-41 .level1a}
 
 ^70^ All the separated ones have a basic fear of retaliation and
 abandonment. This is because they *believe* in attack and rejection, so
@@ -7540,7 +5402,7 @@ growing awareness that the Holy Spirit *will* lead you on.
 []{#part0011_split_007.html}
 
 ::: {.body}
-# [**c. Be Vigilant Only for God and His Kingdom**](#part0004.html#level-42){.calibre3} {#part0011_split_007.html#h1-42 .level1a}
+# [**c. Be Vigilant Only for God and His Kingdom**](#part0004.html#level-42) {#part0011_split_007.html#h1-42 .level1a}
 
 ^82^ For your own salvation you must be critical since your salvation
 *is* critical to the whole Sonship. We said before that the Holy Spirit
@@ -7686,11 +5548,11 @@ inclusion is total and creation is without limit.
 []{#part0012_split_000.html}
 
 ::: {.body}
-# [**Chapter Seven**](#part0004.html#chap-7){.calibre3} {#part0012_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Seven**](#part0004.html#chap-7) {#part0012_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Consistency of the Kingdom**](#part0004.html#chap-7){.calibre3} {.chapter-title}
+# [**The Consistency of the Kingdom**](#part0004.html#chap-7) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-43){.calibre3} {#part0012_split_000.html#h1-43 .level1a1}
+# [**I. Introduction**](#part0004.html#level-43) {#part0012_split_000.html#h1-43 .level1a1}
 
 ^7:1^ The creative power of both God and His creations is limitless, but
 they are not in reciprocal relationship. You *do* communicate fully with
@@ -7727,7 +5589,7 @@ yours because He created you eternal.
 []{#part0012_split_001.html}
 
 ::: {.body}
-# [**II. Bargaining versus Healing**](#part0004.html#level-44){.calibre3} {#part0012_split_001.html#h1-44 .level1a}
+# [**II. Bargaining versus Healing**](#part0004.html#level-44) {#part0012_split_001.html#h1-44 .level1a}
 
 ^4^ The ego demands reciprocal rights because it is competitive rather
 than loving. It is always willing to make a "deal," but it cannot
@@ -7790,7 +5652,7 @@ is. If you obscure the Kingdom, you are perceiving what is *not of God*.
 []{#part0012_split_002.html}
 
 ::: {.body}
-# [**III. The Laws of the Mind**](#part0004.html#level-45){.calibre3} {#part0012_split_002.html#h1-45 .level1a}
+# [**III. The Laws of the Mind**](#part0004.html#level-45) {#part0012_split_002.html#h1-45 .level1a}
 
 ^10^ To heal, then, is to correct perception in your brother *and*
 yourself by sharing the Holy Spirit with him. This places you *both*
@@ -7896,7 +5758,7 @@ therefore *like* Him. That is its reality, and nothing *can* assail it.
 []{#part0012_split_003.html}
 
 ::: {.body}
-# [**IV. The Unified Curriculum**](#part0004.html#level-46){.calibre3} {#part0012_split_003.html#h1-46 .level1a}
+# [**IV. The Unified Curriculum**](#part0004.html#level-46) {#part0012_split_003.html#h1-46 .level1a}
 
 ^19^ To heal is to liberate totally. We once said there is no order of
 difficulty in miracles because they are *all* maximal expressions of
@@ -7975,7 +5837,7 @@ overlooking its *real* and *only* meaning.
 []{#part0012_split_004.html}
 
 ::: {.body}
-# [**V. The Recognition of Truth**](#part0004.html#level-47){.calibre3} {#part0012_split_004.html#h1-47 .level1a}
+# [**V. The Recognition of Truth**](#part0004.html#level-47) {#part0012_split_004.html#h1-47 .level1a}
 
 ^26^ God's meaning waits in the Kingdom because that is where He placed
 it. It does not wait in time. It merely *rests* in the Kingdom because
@@ -8129,7 +5991,7 @@ forgetting what you are *not*. This enables you to remember what you
 []{#part0012_split_005.html}
 
 ::: {.body}
-# [**VI. Healing and the Changelessness of Mind**](#part0004.html#level-48){.calibre3} {#part0012_split_005.html#h1-48 .level1a}
+# [**VI. Healing and the Changelessness of Mind**](#part0004.html#level-48) {#part0012_split_005.html#h1-48 .level1a}
 
 ^39^ The body is nothing more than a framework for developing abilities.
 It is therefore a means for developing *potentials*, which is quite
@@ -8287,7 +6149,7 @@ you to love God *and* His creations. You can appreciate the Sonship
 []{#part0012_split_006.html}
 
 ::: {.body}
-# [**VII. From Vigilance to Peace**](#part0004.html#level-49){.calibre3} {#part0012_split_006.html#h1-49 .level1a}
+# [**VII. From Vigilance to Peace**](#part0004.html#level-49) {#part0012_split_006.html#h1-49 .level1a}
 
 ^54^ Although you can *love* the Sonship only as one, you can *perceive*
 it as fragmented. It is impossible, however, for you to see something in
@@ -8456,7 +6318,7 @@ and its creations, *knowing* they are one.
 []{#part0012_split_007.html}
 
 ::: {.body}
-# [**VIII. The Total Commitment**](#part0004.html#level-50){.calibre3} {#part0012_split_007.html#h1-50 .level1a}
+# [**VIII. The Total Commitment**](#part0004.html#level-50) {#part0012_split_007.html#h1-50 .level1a}
 
 ^70^ Whenever you deny a blessing to a brother, *you* will feel
 deprived. This is because denial is as total as love. It is as
@@ -8584,7 +6446,7 @@ to His beloved Sons who belong to Him. All power and glory are yours
 []{#part0012_split_008.html}
 
 ::: {.body}
-# [**IX. The Defense of Conflict**](#part0004.html#level-51){.calibre3} {#part0012_split_008.html#h1-51 .level1a}
+# [**IX. The Defense of Conflict**](#part0004.html#level-51) {#part0012_split_008.html#h1-51 .level1a}
 
 ^82^ We once said that without projection there can be no anger, but it
 is also true that without projection there can be no love. Projection is
@@ -8680,7 +6542,7 @@ wholeness has no limits because being is in infinity.
 []{#part0012_split_009.html}
 
 ::: {.body}
-# [**X. The Extension of the Kingdom**](#part0004.html#level-52){.calibre3} {#part0012_split_009.html#h1-52 .level1a}
+# [**X. The Extension of the Kingdom**](#part0004.html#level-52) {#part0012_split_009.html#h1-52 .level1a}
 
 ^91^ Only *you* can limit your creative power, but God wills to release
 it. He no more wills you to deprive yourself of your creations than He
@@ -8796,7 +6658,7 @@ says is true, but whether you want to *listen* to what He says.
 []{#part0012_split_010.html}
 
 ::: {.body}
-# [**XI. The Confusion of Strength and Weakness**](#part0004.html#level-53){.calibre3} {#part0012_split_010.html#h1-53 .level1a}
+# [**XI. The Confusion of Strength and Weakness**](#part0004.html#level-53) {#part0012_split_010.html#h1-53 .level1a}
 
 ^101^ You no more recognize what is painful than you know what is joyful
 and are in fact very apt to confuse the two. The Holy Spirit's main
@@ -8868,7 +6730,7 @@ offering truth you are learning the difference between pain and joy.
 []{#part0012_split_011.html}
 
 ::: {.body}
-# [**XII. The State of Grace**](#part0004.html#level-54){.calibre3} {#part0012_split_011.html#h1-54 .level1a}
+# [**XII. The State of Grace**](#part0004.html#level-54) {#part0012_split_011.html#h1-54 .level1a}
 
 ^107^ The Holy Spirit will *always* guide you truly because *your* joy
 is *His*. This is His Will for everyone because He speaks for the
@@ -8950,11 +6812,11 @@ the Father. Know then the Sons of God, and you will know *all* creation.
 []{#part0013_split_000.html}
 
 ::: {.body}
-# [**Chapter Eight**](#part0004.html#chap-8){.calibre3} {#part0013_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Eight**](#part0004.html#chap-8) {#part0013_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Journey Back**](#part0004.html#chap-8){.calibre3} {.chapter-title}
+# [**The Journey Back**](#part0004.html#chap-8) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-55){.calibre3} {#part0013_split_000.html#h1-55 .level1a1}
+# [**I. Introduction**](#part0004.html#level-55) {#part0013_split_000.html#h1-55 .level1a1}
 
 ^8:1^ You are hampered in your progress by your demands to know what you
 do *not* know. This is actually a way of holding on to deprivation. You
@@ -8991,7 +6853,7 @@ the only one you need *ever* make.
 []{#part0013_split_001.html}
 
 ::: {.body}
-# [**II. The Direction of the Curriculum**](#part0004.html#level-56){.calibre3} {#part0013_split_001.html#h1-56 .level1a}
+# [**II. The Direction of the Curriculum**](#part0004.html#level-56) {#part0013_split_001.html#h1-56 .level1a}
 
 ^4^ Those whom you perceive as opponents are *part* of your peace, which
 *you* are giving up by attacking them. How can you *have* what you give
@@ -9035,7 +6897,7 @@ will be split about what your reality *is*.
 []{#part0013_split_002.html}
 
 ::: {.body}
-# [**III. The Rationale For Choice**](#part0004.html#level-57){.calibre3} {#part0013_split_002.html#h1-57 .level1a}
+# [**III. The Rationale For Choice**](#part0004.html#level-57) {#part0013_split_002.html#h1-57 .level1a}
 
 ^8^ There *is* a rationale for choice. Only one Teacher *knows* what
 your reality is. If learning that is the *purpos*e of the curriculum,
@@ -9120,7 +6982,7 @@ because it is the Voice for *his* creations and for *his* own extension.
 []{#part0013_split_003.html}
 
 ::: {.body}
-# [**IV. The Holy Encounter**](#part0004.html#level-58){.calibre3} {#part0013_split_003.html#h1-58 .level1a}
+# [**IV. The Holy Encounter**](#part0004.html#level-58) {#part0013_split_003.html#h1-58 .level1a}
 
 ^16^ Glory be to God in the highest and to *you* because He has so
 willed it. Ask and it shall be given you because it has already *been*
@@ -9217,7 +7079,7 @@ that is what *He* is. See this glory everywhere to learn what *you* are.
 []{#part0013_split_004.html}
 
 ::: {.body}
-# [**V. The Light of the World**](#part0004.html#level-59){.calibre3} {#part0013_split_004.html#h1-59 .level1a}
+# [**V. The Light of the World**](#part0004.html#level-59) {#part0013_split_004.html#h1-59 .level1a}
 
 ^25^ If God's Will for you is complete peace and joy, unless you
 experience *only* this you must be refusing to *acknowledge* His Will.
@@ -9411,7 +7273,7 @@ need me.
 []{#part0013_split_005.html}
 
 ::: {.body}
-# [**VI. The Power of Joint Decision**](#part0004.html#level-60){.calibre3} {#part0013_split_005.html#h1-60 .level1a}
+# [**VI. The Power of Joint Decision**](#part0004.html#level-60) {#part0013_split_005.html#h1-60 .level1a}
 
 ^42^ *We* are the joint will of the Sonship, whose wholeness is for all.
 We begin the journey back by setting out *together* and gather in our
@@ -9522,7 +7384,7 @@ this of me, and free the holy will of all those who are as blessed as
 []{#part0013_split_006.html}
 
 ::: {.body}
-# [**VII. Communication and the Ego-Body Equation**](#part0004.html#level-61){.calibre3} {#part0013_split_006.html#h1-61 .level1a}
+# [**VII. Communication and the Ego-Body Equation**](#part0004.html#level-61) {#part0013_split_006.html#h1-61 .level1a}
 
 ^53^ Attack is *always* physical. When attack in any form enters your
 mind, you are *equating* yourself with a body. This is the ego's
@@ -9695,7 +7557,7 @@ your mind to creation in God.
 []{#part0013_split_007.html}
 
 ::: {.body}
-# [**VIII. The Body as Means or End**](#part0004.html#level-62){.calibre3} {#part0013_split_007.html#h1-62 .level1a}
+# [**VIII. The Body as Means or End**](#part0004.html#level-62) {#part0013_split_007.html#h1-62 .level1a}
 
 ^69^ Attitudes toward the body are attitudes toward *attack*. The ego's
 definitions of *everything* are childish and always based on what it
@@ -9819,7 +7681,7 @@ being the Voice for Life Itself.
 []{#part0013_split_008.html}
 
 ::: {.body}
-# [**IX. Healing as Corrected Perception**](#part0004.html#level-63){.calibre3} {#part0013_split_008.html#h1-63 .level1a}
+# [**IX. Healing as Corrected Perception**](#part0004.html#level-63) {#part0013_split_008.html#h1-63 .level1a}
 
 ^80^ We once said that the Holy Spirit is the *Answer*. He is the Answer
 to everything because He knows what the answer to everything *is*. The
@@ -9926,7 +7788,7 @@ and in all things.
 []{#part0013_split_009.html}
 
 ::: {.body}
-# [**X. The Acceptance of Reality**](#part0004.html#level-64){.calibre3} {#part0013_split_009.html#h1-64 .level1a}
+# [**X. The Acceptance of Reality**](#part0004.html#level-64) {#part0013_split_009.html#h1-64 .level1a}
 
 ^90^ Fear of the Will of God is one of the strangest beliefs that the
 human mind has ever made. This could not possibly have occurred unless
@@ -10096,7 +7958,7 @@ Him.
 []{#part0013_split_010.html}
 
 ::: {.body}
-# [**XI. The Answer to Prayer**](#part0004.html#level-65){.calibre3} {#part0013_split_010.html#h1-65 .level1a}
+# [**XI. The Answer to Prayer**](#part0004.html#level-65) {#part0013_split_010.html#h1-65 .level1a}
 
 ^107^ Everyone who has ever tried to use prayer to request something has
 experienced what appears to be failure. This is not only true in
@@ -10222,11 +8084,11 @@ brother.
 []{#part0014_split_000.html}
 
 ::: {.body}
-# [**Chapter Nine**](#part0004.html#chap-9){.calibre3} {#part0014_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Nine**](#part0004.html#chap-9) {#part0014_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Correction of Error**](#part0004.html#chap-9){.calibre3} {.chapter-title}
+# [**The Correction of Error**](#part0004.html#chap-9) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-66){.calibre3} {#part0014_split_000.html#h1-66 .level1a1}
+# [**I. Introduction**](#part0004.html#level-66) {#part0014_split_000.html#h1-66 .level1a1}
 
 ^9:1^ The alertness of the ego to the errors which other egos make is
 not the kind of vigilance the Holy Spirit would have you maintain. Egos
@@ -10259,7 +8121,7 @@ engenders means anything.
 []{#part0014_split_001.html}
 
 ::: {.body}
-# [**II. Sanity and Perception**](#part0004.html#level-67){.calibre3} {#part0014_split_001.html#h1-67 .level1a}
+# [**II. Sanity and Perception**](#part0004.html#level-67) {#part0014_split_001.html#h1-67 .level1a}
 
 ^4^ When you react *at* all to errors, you are not listening to the Holy
 Spirit. He has merely disregarded them, and if you attend to them, you
@@ -10315,7 +8177,7 @@ errors *will* be forgiven.
 []{#part0014_split_002.html}
 
 ::: {.body}
-# [**III. Atonement as a Lesson in Sharing**](#part0004.html#level-68){.calibre3} {#part0014_split_002.html#h1-68 .level1a}
+# [**III. Atonement as a Lesson in Sharing**](#part0004.html#level-68) {#part0014_split_002.html#h1-68 .level1a}
 
 ^9^ Atonement is for all, because it is the way to *undo* the belief
 that anything is for you alone. To forgive is to *overlook*. Look, then,
@@ -10432,7 +8294,7 @@ truth.
 []{#part0014_split_003.html}
 
 ::: {.body}
-# [**IV. The Unhealed Healer**](#part0004.html#level-69){.calibre3} {#part0014_split_003.html#h1-69 .level1a}
+# [**IV. The Unhealed Healer**](#part0004.html#level-69) {#part0014_split_003.html#h1-69 .level1a}
 
 ^20^ The ego's plan for forgiveness is far more widely used than God's.
 This is because it is undertaken by unhealed healers and is therefore of
@@ -10544,7 +8406,7 @@ and they shall know themselves.
 []{#part0014_split_004.html}
 
 ::: {.body}
-# [**V. The Awareness of the Holy Spirit**](#part0004.html#level-70){.calibre3} {#part0014_split_004.html#h1-70 .level1a}
+# [**V. The Awareness of the Holy Spirit**](#part0004.html#level-70) {#part0014_split_004.html#h1-70 .level1a}
 
 ^31^ How can you become increasingly aware of the Holy Spirit in you
 *except* by His effects? You cannot see Him with your eyes nor hear Him
@@ -10624,7 +8486,7 @@ your brother is a co-creator with *you*.
 []{#part0014_split_005.html}
 
 ::: {.body}
-# [**VI. Salvation and God's Will**](#part0004.html#level-71){.calibre3} {#part0014_split_005.html#h1-71 .level1a}
+# [**VI. Salvation and God's Will**](#part0004.html#level-71) {#part0014_split_005.html#h1-71 .level1a}
 
 ^38^ God's Will is your salvation. Would He not have given you the means
 to find it? If He wills you to *have* it, He must have made it possible
@@ -10722,7 +8584,7 @@ renders Him complete.
 []{#part0014_split_006.html}
 
 ::: {.body}
-# [**VII. Grandeur Versus Grandiosity**](#part0004.html#level-72){.calibre3} {#part0014_split_006.html#h1-72 .level1a}
+# [**VII. Grandeur Versus Grandiosity**](#part0004.html#level-72) {#part0014_split_006.html#h1-72 .level1a}
 
 ^48^ Grandeur is of God and *only* of Him. Therefore, it is in you.
 Whenever you become aware of it, however dimly, you abandon the ego
@@ -10838,7 +8700,7 @@ cease to question it and *know* it for what it *is*.
 []{#part0014_split_007.html}
 
 ::: {.body}
-# [**VIII. The Inclusiveness of Creation**](#part0004.html#level-73){.calibre3} {#part0014_split_007.html#h1-73 .level1a}
+# [**VIII. The Inclusiveness of Creation**](#part0004.html#level-73) {#part0014_split_007.html#h1-73 .level1a}
 
 ^59^ Nothing beyond yourself can make you fearful or loving because
 nothing *is* beyond you. Time and eternity are both in your mind and
@@ -10917,7 +8779,7 @@ will to waken and be glad. Dreams will be impossible because you will
 []{#part0014_split_008.html}
 
 ::: {.body}
-# [**IX. The Decision to Forget**](#part0004.html#level-74){.calibre3} {#part0014_split_008.html#h1-74 .level1a}
+# [**IX. The Decision to Forget**](#part0004.html#level-74) {#part0014_split_008.html#h1-74 .level1a}
 
 ^68^ Unless you *know* something, you *cannot* dissociate it. Knowledge
 therefore *precedes* dissociation, and dissociation is nothing more than
@@ -11098,7 +8960,7 @@ has *everything* to do with reality as you perceive it.
 []{#part0014_split_009.html}
 
 ::: {.body}
-# [**X. Magic versus Miracles**](#part0004.html#level-75){.calibre3} {#part0014_split_009.html#h1-75 .level1a}
+# [**X. Magic versus Miracles**](#part0004.html#level-75) {#part0014_split_009.html#h1-75 .level1a}
 
 ^84^ *All* magic is a form of reconciling the irreconcilable. All
 religion is the recognition that the irreconcilable cannot *be*
@@ -11192,7 +9054,7 @@ your faith in it, and God Himself will answer you.
 []{#part0014_split_010.html}
 
 ::: {.body}
-# [**XI. The Denial of God**](#part0004.html#level-76){.calibre3} {#part0014_split_010.html#h1-76 .level1a}
+# [**XI. The Denial of God**](#part0004.html#level-76) {#part0014_split_010.html#h1-76 .level1a}
 
 ^92^ The rituals of the god of sickness are strange and very demanding.
 Joy is never permitted, for depression is the sign of allegiance to him.
@@ -11342,11 +9204,11 @@ you will begin to understand eternity and make it yours.
 []{#part0015_split_000.html}
 
 ::: {.body}
-# [**Chapter Ten**](#part0004.html#chap-10){.calibre3} {#part0015_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Ten**](#part0004.html#chap-10) {#part0015_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**God and the Ego**](#part0004.html#chap-10){.calibre3} {.chapter-title}
+# [**God and the Ego**](#part0004.html#chap-10) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-77){.calibre3} {#part0015_split_000.html#h1-77 .level1a1}
+# [**I. Introduction**](#part0004.html#level-77) {#part0015_split_000.html#h1-77 .level1a1}
 
 ^10:1^ Either God or the ego is insane. If you will examine the evidence
 on both sides fairly, you will realize that this must be true. Neither
@@ -11375,7 +9237,7 @@ system will not stand.*
 []{#part0015_split_001.html}
 
 ::: {.body}
-# [**II. Projection versus Extension**](#part0004.html#level-78){.calibre3} {#part0015_split_001.html#h1-78 .level1a}
+# [**II. Projection versus Extension**](#part0004.html#level-78) {#part0015_split_001.html#h1-78 .level1a}
 
 ^3^ You have made by projection, but God has created by extension. The
 cornerstone of God's creation is you, for His thought system is light.
@@ -11514,7 +9376,7 @@ beginning of the recognition that your will *is* His.
 []{#part0015_split_002.html}
 
 ::: {.body}
-# [**III. The Willingness for Healing**](#part0004.html#level-79){.calibre3} {#part0015_split_002.html#h1-79 .level1a}
+# [**III. The Willingness for Healing**](#part0004.html#level-79) {#part0015_split_002.html#h1-79 .level1a}
 
 ^16^ If sickness is separation, the will to heal and be healed is the
 first step toward *recognizing* what you truly want. Every attack is a
@@ -11592,7 +9454,7 @@ in you.
 []{#part0015_split_003.html}
 
 ::: {.body}
-# [**IV. From Darkness to Light**](#part0004.html#level-80){.calibre3} {#part0015_split_003.html#h1-80 .level1a}
+# [**IV. From Darkness to Light**](#part0004.html#level-80) {#part0015_split_003.html#h1-80 .level1a}
 
 ^23^ When you are weary, remember you have hurt yourself. Your Comforter
 will rest you, but *you* cannot. You do not know *how*, for if you did
@@ -11675,7 +9537,7 @@ you use it on *behalf* of the eternal.
 []{#part0015_split_004.html}
 
 ::: {.body}
-# [**V. The Inheritance of God's Son**](#part0004.html#level-81){.calibre3} {#part0015_split_004.html#h1-81 .level1a}
+# [**V. The Inheritance of God's Son**](#part0004.html#level-81) {#part0015_split_004.html#h1-81 .level1a}
 
 ^31^ Never forget that the Sonship is your salvation, for the Sonship is
 your Soul. As God's creation, it is yours, and belonging to you, it is
@@ -11755,7 +9617,7 @@ unto you who rest in God and in whom the whole Sonship rests.
 []{#part0015_split_005.html}
 
 ::: {.body}
-# [**VI. The Dynamics of the Ego**](#part0004.html#level-82){.calibre3} {#part0015_split_005.html#h1-82 .level1a}
+# [**VI. The Dynamics of the Ego**](#part0004.html#level-82) {#part0015_split_005.html#h1-82 .level1a}
 
 ^39^ No one can escape from illusions unless he looks at them, for *not*
 looking is the way they are *protected*. There is no need to shrink from
@@ -11955,7 +9817,7 @@ of Christ to you, *you* spoke not of Christ to him. You hear but your
 []{#part0015_split_006.html}
 
 ::: {.body}
-# [**VII. Experience and Perception**](#part0004.html#level-83){.calibre3} {#part0015_split_006.html#h1-83 .level1a}
+# [**VII. Experience and Perception**](#part0004.html#level-83) {#part0015_split_006.html#h1-83 .level1a}
 
 ^59^ It is impossible not to believe what you see, but it is equally
 impossible to see what you do *not* believe. Perceptions are built up on
@@ -12071,7 +9933,7 @@ are possible. And to Christ it is given to be *like* the Father.
 []{#part0015_split_007.html}
 
 ::: {.body}
-# [**VIII. The Problem and the Answer**](#part0004.html#level-84){.calibre3} {#part0015_split_007.html#h1-84 .level1a}
+# [**VIII. The Problem and the Answer**](#part0004.html#level-84) {#part0015_split_007.html#h1-84 .level1a}
 
 ^69^ The world as *you* perceive it cannot have been created by the
 Father, for the world is *not* as you see it. God created *only* the
@@ -12280,11 +10142,11 @@ raising you unto Himself.
 []{#part0016_split_000.html}
 
 ::: {.body}
-# [**Chapter Eleven**](#part0004.html#chap-11){.calibre3} {#part0016_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Eleven**](#part0004.html#chap-11) {#part0016_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**God's Plan for Salvation**](#part0004.html#chap-11){.calibre3} {.chapter-title}
+# [**God's Plan for Salvation**](#part0004.html#chap-11) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-85){.calibre3} {#part0016_split_000.html#h1-85 .level1a1}
+# [**I. Introduction**](#part0004.html#level-85) {#part0016_split_000.html#h1-85 .level1a1}
 
 ^11:1^ You have been told not to make error real, and the way to do this
 is very simple. If you *want* to believe in error, you would *have* to
@@ -12311,7 +10173,7 @@ pitted one level within it against another.
 []{#part0016_split_001.html}
 
 ::: {.body}
-# [**II. The Judgment of the Holy Spirit**](#part0004.html#level-86){.calibre3} {#part0016_split_001.html#h1-86 .level1a}
+# [**II. The Judgment of the Holy Spirit**](#part0004.html#level-86) {#part0016_split_001.html#h1-86 .level1a}
 
 ^3^ There is but one interpretation of all motivation that makes any
 sense. And because it is the Holy Spirit's judgment, it requires no
@@ -12404,7 +10266,7 @@ been denied.
 []{#part0016_split_002.html}
 
 ::: {.body}
-# [**III. The Mechanism of Miracles**](#part0004.html#level-87){.calibre3} {#part0016_split_002.html#h1-87 .level1a}
+# [**III. The Mechanism of Miracles**](#part0004.html#level-87) {#part0016_split_002.html#h1-87 .level1a}
 
 ^11^ Fear is a symptom of your deep sense of loss. If when you perceive
 it in others you learn to *supply* the loss, the basic *cause* of fear
@@ -12540,7 +10402,7 @@ for looking at the cause of fear and letting it go forever?
 []{#part0016_split_003.html}
 
 ::: {.body}
-# [**IV. The Investment in Reality**](#part0004.html#level-88){.calibre3} {#part0016_split_003.html#h1-88 .level1a}
+# [**IV. The Investment in Reality**](#part0004.html#level-88) {#part0016_split_003.html#h1-88 .level1a}
 
 ^24^ I once asked if you were willing to sell all you have and give to
 the poor and follow me. This is what I meant: If you had no investment
@@ -12660,7 +10522,7 @@ world to you from the altar of God.
 []{#part0016_split_004.html}
 
 ::: {.body}
-# [**V. Seeking and Finding**](#part0004.html#level-89){.calibre3} {#part0016_split_004.html#h1-89 .level1a}
+# [**V. Seeking and Finding**](#part0004.html#level-89) {#part0016_split_004.html#h1-89 .level1a}
 
 ^36^ The ego is certain that love is dangerous, and this is always its
 central teaching. It never *puts* it this way; on the contrary, everyone
@@ -12738,7 +10600,7 @@ around you.
 []{#part0016_split_005.html}
 
 ::: {.body}
-# [**VI. The Sane Curriculum**](#part0004.html#level-90){.calibre3} {#part0016_split_005.html#h1-90 .level1a}
+# [**VI. The Sane Curriculum**](#part0004.html#level-90) {#part0016_split_005.html#h1-90 .level1a}
 
 ^43^ Only love is strong because it is *undivided*. The strong do not
 attack because they see no need to do so. *Before* the idea of attack
@@ -12847,7 +10709,7 @@ will of God's Son. His learning is as unlimited as *he* is.
 []{#part0016_split_006.html}
 
 ::: {.body}
-# [**VII. The Vision of Christ**](#part0004.html#level-91){.calibre3} {#part0016_split_006.html#h1-91 .level1a}
+# [**VII. The Vision of Christ**](#part0004.html#level-91) {#part0016_split_006.html#h1-91 .level1a}
 
 ^53^ The ego is trying to teach you how to gain the whole world and lose
 your own Soul. The Holy Spirit teaches that you *cannot* lose your Soul
@@ -12938,7 +10800,7 @@ you.
 []{#part0016_split_007.html}
 
 ::: {.body}
-# [**VIII. The Guide for Miracles**](#part0004.html#level-92){.calibre3} {#part0016_split_007.html#h1-92 .level1a}
+# [**VIII. The Guide for Miracles**](#part0004.html#level-92) {#part0016_split_007.html#h1-92 .level1a}
 
 ^61^ Miracles demonstrate that learning has occurred under the right
 guidance, for learning is invisible, and what has been learned can be
@@ -13106,7 +10968,7 @@ and you will see only the eternal as you look out upon a world that
 []{#part0016_split_008.html}
 
 ::: {.body}
-# [**IX. Reality and Redemption**](#part0004.html#level-93){.calibre3} {#part0016_split_008.html#h1-93 .level1a}
+# [**IX. Reality and Redemption**](#part0004.html#level-93) {#part0016_split_008.html#h1-93 .level1a}
 
 ^77^ Do you *really* believe that you can kill the Son of God? The
 Father has hidden His Son safely within Himself and kept him far away
@@ -13194,7 +11056,7 @@ Son.
 []{#part0016_split_009.html}
 
 ::: {.body}
-# [**X. Guiltlessness and Invulnerability**](#part0004.html#level-94){.calibre3} {#part0016_split_009.html#h1-94 .level1a}
+# [**X. Guiltlessness and Invulnerability**](#part0004.html#level-94) {#part0016_split_009.html#h1-94 .level1a}
 
 ^85^ If you did not feel guilty, you *could* not attack, for
 condemnation is the root of attack. It is the judgment of one mind by
@@ -13350,11 +11212,11 @@ God's Son is guiltless. And being wholly pure, you *are* invulnerable.
 []{#part0017_split_000.html}
 
 ::: {.body}
-# [**Chapter Twelve**](#part0004.html#chap-12){.calibre3} {#part0017_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Twelve**](#part0004.html#chap-12) {#part0017_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Problem of Guilt**](#part0004.html#chap-12){.calibre3} {.chapter-title}
+# [**The Problem of Guilt**](#part0004.html#chap-12) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-95){.calibre3} {#part0017_split_000.html#h1-95 .level1a1}
+# [**I. Introduction**](#part0004.html#level-95) {#part0017_split_000.html#h1-95 .level1a1}
 
 ^12:1^ The ultimate purpose of projection, as the ego uses it, is
 *always* to get rid of guilt. Yet, characteristically, the ego attempts
@@ -13378,7 +11240,7 @@ longer you, you do not realize that you are failing *yourself*.
 []{#part0017_split_001.html}
 
 ::: {.body}
-# [**II. Crucifixion by Guilt**](#part0004.html#level-96){.calibre3} {#part0017_split_001.html#h1-96 .level1a}
+# [**II. Crucifixion by Guilt**](#part0004.html#level-96) {#part0017_split_001.html#h1-96 .level1a}
 
 ^3^ The darkest of your hidden cornerstones holds your belief in guilt
 from your awareness. For in that dark and secret place is the
@@ -13454,7 +11316,7 @@ and to recognize him *is* your redemption.
 []{#part0017_split_002.html}
 
 ::: {.body}
-# [**III. The Fear of Redemption**](#part0004.html#level-97){.calibre3} {#part0017_split_002.html#h1-97 .level1a}
+# [**III. The Fear of Redemption**](#part0004.html#level-97) {#part0017_split_002.html#h1-97 .level1a}
 
 ^10^ You may wonder why it is so crucial that you look upon your hatred
 and realize its full extent. You may also think that it would be easy
@@ -13587,7 +11449,7 @@ back on them and *see* them as insane. But seek *this* place, and you
 []{#part0017_split_003.html}
 
 ::: {.body}
-# [**IV. Healing and Time**](#part0004.html#level-98){.calibre3} {#part0017_split_003.html#h1-98 .level1a}
+# [**IV. Healing and Time**](#part0004.html#level-98) {#part0017_split_003.html#h1-98 .level1a}
 
 ^23^ And now the reason why you are afraid of this course should be
 apparent. For this is a course on love because it is about *you*. You
@@ -13699,7 +11561,7 @@ And time *will* be as you interpret it, for of itself it is *nothing*.
 []{#part0017_split_004.html}
 
 ::: {.body}
-# [**V. The Two Emotions**](#part0004.html#level-99){.calibre3} {#part0017_split_004.html#h1-99 .level1a}
+# [**V. The Two Emotions**](#part0004.html#level-99) {#part0017_split_004.html#h1-99 .level1a}
 
 ^33^ We have said that you have but two emotions, love and fear. One is
 changeless but continually exchanged, being offered *by* the eternal
@@ -13824,7 +11686,7 @@ all the beauty of the world to shine upon them.
 []{#part0017_split_005.html}
 
 ::: {.body}
-# [**VI. Finding the Present**](#part0004.html#level-100){.calibre3} {#part0017_split_005.html#h1-100 .level1a}
+# [**VI. Finding the Present**](#part0004.html#level-100) {#part0017_split_005.html#h1-100 .level1a}
 
 ^45^ To perceive truly is to be aware of *all* reality through the
 awareness of your own. But for this *no* illusions can rise to meet your
@@ -13970,7 +11832,7 @@ that teach him that he never slept.
 []{#part0017_split_006.html}
 
 ::: {.body}
-# [**VII. Attainment of the Real World**](#part0004.html#level-101){.calibre3} {#part0017_split_006.html#h1-101 .level1a}
+# [**VII. Attainment of the Real World**](#part0004.html#level-101) {#part0017_split_006.html#h1-101 .level1a}
 
 ^58^ Sit quietly and look upon the world you see, and tell yourself,
 
@@ -14146,11 +12008,11 @@ his purity.
 []{#part0018_split_000.html}
 
 ::: {.body}
-# [**Chapter Thirteen**](#part0004.html#chap-13){.calibre3} {#part0018_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Thirteen**](#part0004.html#chap-13) {#part0018_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**From Perception to Knowledge**](#part0004.html#chap-13){.calibre3} {.chapter-title}
+# [**From Perception to Knowledge**](#part0004.html#chap-13) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-102){.calibre3} {#part0018_split_000.html#h1-102 .level1a1}
+# [**I. Introduction**](#part0004.html#level-102) {#part0018_split_000.html#h1-102 .level1a1}
 
 ^13:1^ All therapy is release from the past. That is why the Holy Spirit
 is the only therapist. He teaches that the past does not exist, a fact
@@ -14177,7 +12039,7 @@ holy, will last forever.
 []{#part0018_split_001.html}
 
 ::: {.body}
-# [**II. The Role of Healing**](#part0004.html#level-103){.calibre3} {#part0018_split_001.html#h1-103 .level1a}
+# [**II. The Role of Healing**](#part0004.html#level-103) {#part0018_split_001.html#h1-103 .level1a}
 
 ^3^ Perfect perception, then, has many elements in common with
 knowledge, making transfer to it possible. Yet the last step must be
@@ -14259,7 +12121,7 @@ would He leave His own beloved Son outside them and beyond Himself.
 []{#part0018_split_002.html}
 
 ::: {.body}
-# [**III. The Shadow of Guilt**](#part0004.html#level-104){.calibre3} {#part0018_split_002.html#h1-104 .level1a}
+# [**III. The Shadow of Guilt**](#part0004.html#level-104) {#part0018_split_002.html#h1-104 .level1a}
 
 ^11^ Guilt remains the only thing that hides the Father, for guilt is
 the attack upon His Son. The guilty *always* condemn, and having done
@@ -14353,7 +12215,7 @@ feared was there *has been* replaced with love.
 []{#part0018_split_003.html}
 
 ::: {.body}
-# [**IV. Release and Restoration**](#part0004.html#level-105){.calibre3} {#part0018_split_003.html#h1-105 .level1a}
+# [**IV. Release and Restoration**](#part0004.html#level-105) {#part0018_split_003.html#h1-105 .level1a}
 
 ^20^ You are accustomed to the notion that the mind can see the source
 of pain where it is not. The doubtful service of displacement is to hide
@@ -14525,7 +12387,7 @@ are gone as one into the unreality from which they came.
 []{#part0018_split_004.html}
 
 ::: {.body}
-# [**V. The Guarantee of Heaven**](#part0004.html#level-106){.calibre3} {#part0018_split_004.html#h1-106 .level1a}
+# [**V. The Guarantee of Heaven**](#part0004.html#level-106) {#part0018_split_004.html#h1-106 .level1a}
 
 ^37^ When we are all united in Heaven, you will value *nothing* that you
 value here. For nothing that you value here you value wholly, and so you
@@ -14630,7 +12492,7 @@ the peace of Heaven lies.
 []{#part0018_split_005.html}
 
 ::: {.body}
-# [**VI. The Testimony of Miracles**](#part0004.html#level-107){.calibre3} {#part0018_split_005.html#h1-107 .level1a}
+# [**VI. The Testimony of Miracles**](#part0004.html#level-107) {#part0018_split_005.html#h1-107 .level1a}
 
 ^47^ Yes, you are blessed indeed. Yet in this world, you do not know it.
 But you have the means for learning it and seeing it quite clearly. The
@@ -14708,7 +12570,7 @@ encroach upon deception and strike at it.
 []{#part0018_split_006.html}
 
 ::: {.body}
-# [**VII. The Happy Learner**](#part0004.html#level-108){.calibre3} {#part0018_split_006.html#h1-108 .level1a}
+# [**VII. The Happy Learner**](#part0004.html#level-108) {#part0018_split_006.html#h1-108 .level1a}
 
 ^54^ The Holy Spirit needs a happy learner in whom His mission can be
 happily accomplished. You who are steadfastly devoted to misery must
@@ -14807,7 +12669,7 @@ dirge of sorrow when *this* is true?
 []{#part0018_split_007.html}
 
 ::: {.body}
-# [**VIII. The Decision for Guiltlessness**](#part0004.html#level-109){.calibre3} {#part0018_split_007.html#h1-109 .level1a}
+# [**VIII. The Decision for Guiltlessness**](#part0004.html#level-109) {#part0018_split_007.html#h1-109 .level1a}
 
 ^64^ Learning will be commensurate with motivation, and the interference
 in your motivation for learning is exactly the same as that which
@@ -15013,7 +12875,7 @@ which is *already* there.
 []{#part0018_split_008.html}
 
 ::: {.body}
-# [**IX. The Way of Salvation**](#part0004.html#level-110){.calibre3} {#part0018_split_008.html#h1-110 .level1a}
+# [**IX. The Way of Salvation**](#part0004.html#level-110) {#part0018_split_008.html#h1-110 .level1a}
 
 ^86^ When you accept a brother's guiltlessness, you will see the
 Atonement in him. For by proclaiming it in him, you make it *yours,* and
@@ -15091,11 +12953,11 @@ For you can bring your guilt into sleeping but not into this.
 []{#part0019_split_000.html}
 
 ::: {.body}
-# [**Chapter Fourteen**](#part0004.html#chap-14){.calibre3} {#part0019_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Fourteen**](#part0004.html#chap-14) {#part0019_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Bringing Illusions to Truth**](#part0004.html#chap-14){.calibre3} {.chapter-title}
+# [**Bringing Illusions to Truth**](#part0004.html#chap-14) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-111){.calibre3} {#part0019_split_000.html#h1-111 .level1a1}
+# [**I. Introduction**](#part0004.html#level-111) {#part0019_split_000.html#h1-111 .level1a1}
 
 ^14:1^ Unless you are guiltless, you cannot know God, Whose Will is that
 you know Him. Therefore, you *must* be guiltless. Yet if you do not
@@ -15133,7 +12995,7 @@ made, you are remembering nothing. Remembrance of reality is in Him and
 []{#part0019_split_001.html}
 
 ::: {.body}
-# [**II. Guilt and Guiltlessness**](#part0004.html#level-112){.calibre3} {#part0019_split_001.html#h1-112 .level1a}
+# [**II. Guilt and Guiltlessness**](#part0004.html#level-112) {#part0019_split_001.html#h1-112 .level1a}
 
 ^4^ The guiltless and the guilty are totally incapable of understanding
 one another. Each perceives the other as like himself, making them
@@ -15264,7 +13126,7 @@ us, united as one within the cause of peace.
 []{#part0019_split_002.html}
 
 ::: {.body}
-# [**III. Out of the Darkness**](#part0004.html#level-113){.calibre3} {#part0019_split_002.html#h1-113 .level1a}
+# [**III. Out of the Darkness**](#part0004.html#level-113) {#part0019_split_002.html#h1-113 .level1a}
 
 ^16^ The journey that we undertake together is the exchange of dark for
 light, of ignorance for understanding. Nothing you understand is
@@ -15354,7 +13216,7 @@ him if he close not the door himself upon his Father's welcome.
 []{#part0019_split_003.html}
 
 ::: {.body}
-# [**IV. Perception without Deceit**](#part0004.html#level-114){.calibre3} {#part0019_split_003.html#h1-114 .level1a}
+# [**IV. Perception without Deceit**](#part0004.html#level-114) {#part0019_split_003.html#h1-114 .level1a}
 
 ^24^ What do you *want*? Light or darkness, knowledge or ignorance are
 yours, but not both. Opposites must be brought together and not kept
@@ -15519,7 +13381,7 @@ altar where He has placed His Own.
 []{#part0019_split_004.html}
 
 ::: {.body}
-# [**V. The Recognition of Holiness**](#part0004.html#level-115){.calibre3} {#part0019_split_004.html#h1-115 .level1a}
+# [**V. The Recognition of Holiness**](#part0004.html#level-115) {#part0019_split_004.html#h1-115 .level1a}
 
 ^38^ The Atonement does not *make* holy. You were *created* holy. It
 merely brings unholiness *to* holiness, or what you *made* to what you
@@ -15604,7 +13466,7 @@ truth.
 []{#part0019_split_005.html}
 
 ::: {.body}
-# [**VI. The Shift to Miracles**](#part0004.html#level-116){.calibre3} {#part0019_split_005.html#h1-116 .level1a}
+# [**VI. The Shift to Miracles**](#part0004.html#level-116) {#part0019_split_005.html#h1-116 .level1a}
 
 ^46^ When no perception stands between God and His creations, or between
 His Children and their own, the knowledge of creation must continue
@@ -15745,7 +13607,7 @@ How, then, can there be any order of difficulty among them?
 []{#part0019_split_006.html}
 
 ::: {.body}
-# [**VII. The Test of Truth**](#part0004.html#level-117){.calibre3} {#part0019_split_006.html#h1-117 .level1a}
+# [**VII. The Test of Truth**](#part0004.html#level-117) {#part0019_split_006.html#h1-117 .level1a}
 
 ^58^ Yet the essential thing is learning that *you do not know*.
 Knowledge is power, and all power is of God. You who have tried to keep
@@ -15924,11 +13786,11 @@ the test by which you recognize that you have understood.
 []{#part0020_split_000.html}
 
 ::: {.body}
-# [**Chapter Fifteen**](#part0004.html#chap-15){.calibre3} {#part0020_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Fifteen**](#part0004.html#chap-15) {#part0020_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Purpose of Time**](#part0004.html#chap-15){.calibre3} {.chapter-title}
+# [**The Purpose of Time**](#part0004.html#chap-15) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-118){.calibre3} {#part0020_split_000.html#h1-118 .level1a1}
+# [**I. Introduction**](#part0004.html#level-118) {#part0020_split_000.html#h1-118 .level1a1}
 
 ^15:1^ Can you imagine what it means to have no cares, no worries, no
 anxieties, but merely to be perfectly calm and quiet all the time? Yet
@@ -15954,7 +13816,7 @@ its end. But to the Holy Spirit the goal is life, which *has* no end.
 []{#part0020_split_001.html}
 
 ::: {.body}
-# [**II. Uses of Time**](#part0004.html#level-119){.calibre3} {#part0020_split_001.html#h1-119 .level1a}
+# [**II. Uses of Time**](#part0004.html#level-119) {#part0020_split_001.html#h1-119 .level1a}
 
 ^3^ The ego is an ally of time, but not a friend. For it is as
 mistrustful of death as it is of life, and what it wants for you it
@@ -16092,7 +13954,7 @@ through the Holy Spirit and leave His giving it to you to Him.
 []{#part0020_split_002.html}
 
 ::: {.body}
-# [**III. Time and Eternity**](#part0004.html#level-120){.calibre3} {#part0020_split_002.html#h1-120 .level1a}
+# [**III. Time and Eternity**](#part0004.html#level-120) {#part0020_split_002.html#h1-120 .level1a}
 
 ^16^ The Atonement is *in* time but not *for* time. Being in you, it is
 eternal. What holds remembrance of God cannot be bound by time. No more
@@ -16165,7 +14027,7 @@ your doubts *must* disappear.
 []{#part0020_split_003.html}
 
 ::: {.body}
-# [**IV. Littleness versus Magnitude**](#part0004.html#level-121){.calibre3} {#part0020_split_003.html#h1-121 .level1a}
+# [**IV. Littleness versus Magnitude**](#part0004.html#level-121) {#part0020_split_003.html#h1-121 .level1a}
 
 ^22^ Be not content with littleness, but be sure you understand what
 littleness is and why you could never be content with it. Littleness is
@@ -16304,7 +14166,7 @@ reaches even to Heaven because of what is given it.
 []{#part0020_split_004.html}
 
 ::: {.body}
-# [**V. Practicing the Holy Instant**](#part0004.html#level-122){.calibre3} {#part0020_split_004.html#h1-122 .level1a}
+# [**V. Practicing the Holy Instant**](#part0004.html#level-122) {#part0020_split_004.html#h1-122 .level1a}
 
 ^35^ This course is not beyond *immediate* learning unless you prefer to
 believe that what God wills takes time. And this means only that you
@@ -16406,7 +14268,7 @@ nothing.
 []{#part0020_split_005.html}
 
 ::: {.body}
-# [**VI. The Holy Instant and Special Relationships**](#part0004.html#level-123){.calibre3} {#part0020_split_005.html#h1-123 .level1a}
+# [**VI. The Holy Instant and Special Relationships**](#part0004.html#level-123) {#part0020_split_005.html#h1-123 .level1a}
 
 ^45^ The holy instant is the Holy Spirit's most useful learning device
 for teaching you love's meaning. For its purpose is to suspend judgment
@@ -16540,7 +14402,7 @@ love him.
 []{#part0020_split_006.html}
 
 ::: {.body}
-# [**VII. The Holy Instant and the Laws of God**](#part0004.html#level-124){.calibre3} {#part0020_split_006.html#h1-124 .level1a}
+# [**VII. The Holy Instant and the Laws of God**](#part0004.html#level-124) {#part0020_split_006.html#h1-124 .level1a}
 
 ^58^ All separation vanishes as holiness is shared. For holiness is
 power, and by sharing it, it *gains* in strength. If you seek for
@@ -16620,7 +14482,7 @@ what His creation is along with Him.
 []{#part0020_split_007.html}
 
 ::: {.body}
-# [**VIII. The Holy Instant and Communication**](#part0004.html#level-125){.calibre3} {#part0020_split_007.html#h1-125 .level1a}
+# [**VIII. The Holy Instant and Communication**](#part0004.html#level-125) {#part0020_split_007.html#h1-125 .level1a}
 
 ^65^ Beyond the poor attraction of the special love relationship and
 *always* obscured by it is the powerful attraction of the Father for His
@@ -16778,7 +14640,7 @@ experience yourself as you were created and as you *are*.
 []{#part0020_split_008.html}
 
 ::: {.body}
-# [**IX. The Holy Instant and Real Relationships**](#part0004.html#level-126){.calibre3} {#part0020_split_008.html#h1-126 .level1a}
+# [**IX. The Holy Instant and Real Relationships**](#part0004.html#level-126) {#part0020_split_008.html#h1-126 .level1a}
 
 ^79^ The holy instant does not replace the need for learning, for the
 Holy Spirit must not leave you as your Teacher until the holy instant
@@ -16930,7 +14792,7 @@ ever *want*. All truth *is* here.
 []{#part0020_split_009.html}
 
 ::: {.body}
-# [**X. The Time of Christ**](#part0004.html#level-127){.calibre3} {#part0020_split_009.html#h1-127 .level1a}
+# [**X. The Time of Christ**](#part0004.html#level-127) {#part0020_split_009.html#h1-127 .level1a}
 
 ^92^ It *is* in your power in *time* to delay the perfect union of the
 Father and the Son. For in this world, the attraction of guilt *does*
@@ -17042,7 +14904,7 @@ answer---the demand for sacrifice and the peace of God.
 []{#part0020_split_010.html}
 
 ::: {.body}
-# [**XI. The End of Sacrifice**](#part0004.html#level-128){.calibre3} {#part0020_split_010.html#h1-128 .level1a}
+# [**XI. The End of Sacrifice**](#part0004.html#level-128) {#part0020_split_010.html#h1-128 .level1a}
 
 ^101^ Fear not to recognize the whole idea of sacrifice as *solely* of
 your making. And seek not safety by attempting to protect yourself from
@@ -17162,11 +15024,11 @@ Awakening. Make this year different by making it all the *same.* And let
 []{#part0021_split_000.html}
 
 ::: {.body}
-# [**Chapter Sixteen**](#part0004.html#chap-16){.calibre3} {#part0021_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Sixteen**](#part0004.html#chap-16) {#part0021_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Forgiveness of Illusions**](#part0004.html#chap-16){.calibre3} {.chapter-title}
+# [**The Forgiveness of Illusions**](#part0004.html#chap-16) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-129){.calibre3} {#part0021_split_000.html#h1-129 .level1a1}
+# [**I. Introduction**](#part0004.html#level-129) {#part0021_split_000.html#h1-129 .level1a1}
 
 ^16:1^ To empathize does not mean to join in *suffering*, for that is
 what you must *refuse* to understand. That is the *ego's* interpretation
@@ -17211,7 +15073,7 @@ I need do nothing except not to interfere.
 []{#part0021_split_001.html}
 
 ::: {.body}
-# [**II. True Empathy**](#part0004.html#level-130){.calibre3} {#part0021_split_001.html#h1-130 .level1a}
+# [**II. True Empathy**](#part0004.html#level-130) {#part0021_split_001.html#h1-130 .level1a}
 
 ^5^ True empathy is of Him Who knows what it *is*. You will learn His
 interpretation of it if you let Him use your capacity for *strength* and
@@ -17263,7 +15125,7 @@ to enter your relationships and bless them *for* you.
 []{#part0021_split_002.html}
 
 ::: {.body}
-# [**III. The Magnitude of Holiness**](#part0004.html#level-131){.calibre3} {#part0021_split_002.html#h1-131 .level1a}
+# [**III. The Magnitude of Holiness**](#part0004.html#level-131) {#part0021_split_002.html#h1-131 .level1a}
 
 ^10^ You still think holiness is difficult because you cannot see how it
 can be extended to include everyone. And you have learned that it *must*
@@ -17382,7 +15244,7 @@ alone with witnesses like these?
 []{#part0021_split_003.html}
 
 ::: {.body}
-# [**IV. The Reward of Teaching**](#part0004.html#level-132){.calibre3} {#part0021_split_003.html#h1-132 .level1a}
+# [**IV. The Reward of Teaching**](#part0004.html#level-132) {#part0021_split_003.html#h1-132 .level1a}
 
 ^21^ You have taught well, and yet you have not learned how to *accept*
 the comfort of your teaching. If you will consider what you have taught
@@ -17486,7 +15348,7 @@ awaits you.
 []{#part0021_split_004.html}
 
 ::: {.body}
-# [**V. Illusion and Reality of Love**](#part0004.html#level-133){.calibre3} {#part0021_split_004.html#h1-133 .level1a}
+# [**V. Illusion and Reality of Love**](#part0004.html#level-133) {#part0021_split_004.html#h1-133 .level1a}
 
 ^30^ Be not afraid to look upon the special hate relationship, for
 freedom lies in looking at it. It would be impossible not to know the
@@ -17643,7 +15505,7 @@ us together cannot lift. The way to truth is open. Follow it with me.
 []{#part0021_split_005.html}
 
 ::: {.body}
-# [**VI. Specialness and Guilt**](#part0004.html#level-134){.calibre3} {#part0021_split_005.html#h1-134 .level1a}
+# [**VI. Specialness and Guilt**](#part0004.html#level-134) {#part0021_split_005.html#h1-134 .level1a}
 
 ^43^ In looking at the special relationship, it is necessary first to
 realize that it involves a great amount of pain. Anxiety, despair,
@@ -17815,7 +15677,7 @@ impossible *not* to make the natural decision as this is realized.
 []{#part0021_split_006.html}
 
 ::: {.body}
-# [**VII. The Bridge to the Real World**](#part0004.html#level-135){.calibre3} {#part0021_split_006.html#h1-135 .level1a}
+# [**VII. The Bridge to the Real World**](#part0004.html#level-135) {#part0021_split_006.html#h1-135 .level1a}
 
 ^59^ The search for the special relationship is the sign that you equate
 yourself with the ego and not with God. For the special relationship has
@@ -17940,7 +15802,7 @@ willingness is given you. Call upon Him, for Heaven is at His call. And
 []{#part0021_split_007.html}
 
 ::: {.body}
-# [**VIII. The End of Illusions**](#part0004.html#level-136){.calibre3} {#part0021_split_007.html#h1-136 .level1a}
+# [**VIII. The End of Illusions**](#part0004.html#level-136) {#part0021_split_007.html#h1-136 .level1a}
 
 ^70^ It is impossible to let the past go without relinquishing the
 special relationship. For the special relationship is an attempt to
@@ -18069,11 +15931,11 @@ which You created and which You love. Amen.
 []{#part0022_split_000.html}
 
 ::: {.body}
-# [**Chapter Seventeen**](#part0004.html#chap-17){.calibre3} {#part0022_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Seventeen**](#part0004.html#chap-17) {#part0022_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Forgiveness and Healing**](#part0004.html#chap-17){.calibre3} {.chapter-title}
+# [**Forgiveness and Healing**](#part0004.html#chap-17) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-137){.calibre3} {#part0022_split_000.html#h1-137 .level1a1}
+# [**I. Introduction**](#part0004.html#level-137) {#part0022_split_000.html#h1-137 .level1a1}
 
 ^17:1^ The betrayal of the Son of God lies only in illusions, and all
 his "sins" are but his own imagining. His reality is forever sinless. He
@@ -18099,7 +15961,7 @@ is safe from fantasy.
 []{#part0022_split_001.html}
 
 ::: {.body}
-# [**II. Fantasy and Distorted Perception**](#part0004.html#level-138){.calibre3} {#part0022_split_001.html#h1-138 .level1a}
+# [**II. Fantasy and Distorted Perception**](#part0004.html#level-138) {#part0022_split_001.html#h1-138 .level1a}
 
 ^3^ When you maintain that there must be order of difficulty in
 miracles, all you mean is that there are some things you would withhold
@@ -18146,7 +16008,7 @@ where you have given it.
 []{#part0022_split_002.html}
 
 ::: {.body}
-# [**III. The Forgiven World**](#part0004.html#level-139){.calibre3} {#part0022_split_002.html#h1-139 .level1a}
+# [**III. The Forgiven World**](#part0004.html#level-139) {#part0022_split_002.html#h1-139 .level1a}
 
 ^7^ Can you imagine how beautiful those you forgive will look to you? In
 no fantasy have you ever seen anything so lovely. Nothing you see here,
@@ -18225,7 +16087,7 @@ forgiveness.
 []{#part0022_split_003.html}
 
 ::: {.body}
-# [**IV. Shadows of the Past**](#part0004.html#level-140){.calibre3} {#part0022_split_003.html#h1-140 .level1a}
+# [**IV. Shadows of the Past**](#part0004.html#level-140) {#part0022_split_003.html#h1-140 .level1a}
 
 ^14^ To forgive is merely to remember only the *loving* thoughts you
 gave in the past and those that were given you. All the rest must be
@@ -18373,7 +16235,7 @@ that you may offer peace to me.
 []{#part0022_split_004.html}
 
 ::: {.body}
-# [**V. Perception and the Two Worlds**](#part0004.html#level-141){.calibre3} {#part0022_split_004.html#h1-141 .level1a}
+# [**V. Perception and the Two Worlds**](#part0004.html#level-141) {#part0022_split_004.html#h1-141 .level1a}
 
 ^27^ God established His relationship with you to make you happy, and
 nothing you do which does not share His purpose can be real. The purpose
@@ -18545,7 +16407,7 @@ only the perfect and complete can be.
 []{#part0022_split_005.html}
 
 ::: {.body}
-# [**VI. The Healed Relationship**](#part0004.html#level-142){.calibre3} {#part0022_split_005.html#h1-142 .level1a}
+# [**VI. The Healed Relationship**](#part0004.html#level-142) {#part0022_split_005.html#h1-142 .level1a}
 
 ^43^ The holy relationship is the expression of the holy instant in
 living in this world. Like everything about salvation, the holy instant
@@ -18705,7 +16567,7 @@ would extend it through you.
 []{#part0022_split_006.html}
 
 ::: {.body}
-# [**VII. Practical Forgiveness**](#part0004.html#level-143){.calibre3} {#part0022_split_006.html#h1-143 .level1a}
+# [**VII. Practical Forgiveness**](#part0004.html#level-143) {#part0022_split_006.html#h1-143 .level1a}
 
 ^57^ The practical application of the Holy Spirit's purpose is extremely
 simple, but it is unequivocal. In fact in order to be simple, it *must*
@@ -18799,7 +16661,7 @@ yourself from it and make it unsolvable.
 []{#part0022_split_007.html}
 
 ::: {.body}
-# [**VIII. The Need for Faith**](#part0004.html#level-144){.calibre3} {#part0022_split_007.html#h1-144 .level1a}
+# [**VIII. The Need for Faith**](#part0004.html#level-144) {#part0022_split_007.html#h1-144 .level1a}
 
 ^65^ There is no problem in any situation that faith will not solve.
 There is no shift in any aspect of the problem but will make solution
@@ -18899,7 +16761,7 @@ it, for it calls you to salvation and to peace.
 []{#part0022_split_008.html}
 
 ::: {.body}
-# [**IX. The Conditions of Forgiveness**](#part0004.html#level-145){.calibre3} {#part0022_split_008.html#h1-145 .level1a}
+# [**IX. The Conditions of Forgiveness**](#part0004.html#level-145) {#part0022_split_008.html#h1-145 .level1a}
 
 ^74^ The holy instant is nothing more than a special case or an extreme
 example of what every situation is meant to be. The meaning which the
@@ -18964,11 +16826,11 @@ answered.
 []{#part0023_split_000.html}
 
 ::: {.body}
-# [**Chapter Eighteen**](#part0004.html#chap-18){.calibre3} {#part0023_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Eighteen**](#part0004.html#chap-18) {#part0023_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Dream and the Reality**](#part0004.html#chap-18){.calibre3} {.chapter-title}
+# [**The Dream and the Reality**](#part0004.html#chap-18) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-146){.calibre3} {#part0023_split_000.html#h1-146 .level1a1}
+# [**I. Introduction**](#part0004.html#level-146) {#part0023_split_000.html#h1-146 .level1a1}
 
 ^18:1^ To substitute is to accept instead. If you would but consider
 exactly what this entails, you would perceive at once how much at
@@ -19004,7 +16866,7 @@ out a special form of fear.
 []{#part0023_split_001.html}
 
 ::: {.body}
-# [**II. Substitution as a Defense**](#part0004.html#level-147){.calibre3} {#part0023_split_001.html#h1-147 .level1a}
+# [**II. Substitution as a Defense**](#part0004.html#level-147) {#part0023_split_001.html#h1-147 .level1a}
 
 ^4^ You who believe that God is fear made but one substitution. It has
 taken many forms because it was the substitution of illusion for truth,
@@ -19118,7 +16980,7 @@ you together must extend, as you accepted it.
 []{#part0023_split_002.html}
 
 ::: {.body}
-# [**III. The Basis of the Dream**](#part0004.html#level-148){.calibre3} {#part0023_split_002.html#h1-148 .level1a}
+# [**III. The Basis of the Dream**](#part0004.html#level-148) {#part0023_split_002.html#h1-148 .level1a}
 
 ^14^ Does not a world that seems quite real arise in dreams? Yet think
 what this world is. It is clearly not the world you saw before you
@@ -19231,7 +17093,7 @@ accomplished has never *not* been done.
 []{#part0023_split_003.html}
 
 ::: {.body}
-# [**IV. Light in the Dream**](#part0004.html#level-149){.calibre3} {#part0023_split_003.html#h1-149 .level1a}
+# [**IV. Light in the Dream**](#part0004.html#level-149) {#part0023_split_003.html#h1-149 .level1a}
 
 ^24^ You who have spent your lives in bringing truth to illusion,
 reality to fantasy, have walked the way of dreams. For you have gone
@@ -19322,7 +17184,7 @@ which everything is radiant in the light.
 []{#part0023_split_004.html}
 
 ::: {.body}
-# [**V. The Little Willingness**](#part0004.html#level-150){.calibre3} {#part0023_split_004.html#h1-150 .level1a}
+# [**V. The Little Willingness**](#part0004.html#level-150) {#part0023_split_004.html#h1-150 .level1a}
 
 ^32^ The holy instant is the result of your determination to be holy. It
 is the *answer*. The desire and the willingness to let it come precedes
@@ -19421,7 +17283,7 @@ it did, is its undoing needful.
 []{#part0023_split_005.html}
 
 ::: {.body}
-# [**VI. The Happy Dream**](#part0004.html#level-151){.calibre3} {#part0023_split_005.html#h1-151 .level1a}
+# [**VI. The Happy Dream**](#part0004.html#level-151) {#part0023_split_005.html#h1-151 .level1a}
 
 ^41^ Prepare you *now* for the undoing of what never was. If you already
 understood the difference between truth and illusion, the Atonement
@@ -19500,7 +17362,7 @@ That His Blessing may descend on us and keep us both in peace.
 []{#part0023_split_006.html}
 
 ::: {.body}
-# [**VII. Dreams and the Body**](#part0004.html#level-152){.calibre3} {#part0023_split_006.html#h1-152 .level1a}
+# [**VII. Dreams and the Body**](#part0004.html#level-152) {#part0023_split_006.html#h1-152 .level1a}
 
 ^49^ There is *nothing* outside you. That is what you must ultimately
 learn, for it is in that realization that the Kingdom of Heaven is
@@ -19657,7 +17519,7 @@ answer to its gentle call to *be* at peace.
 []{#part0023_split_007.html}
 
 ::: {.body}
-# [**VIII. I Need Do Nothing**](#part0004.html#level-153){.calibre3} {#part0023_split_007.html#h1-153 .level1a}
+# [**VIII. I Need Do Nothing**](#part0004.html#level-153) {#part0023_split_007.html#h1-153 .level1a}
 
 ^63^ You still have too much faith in the body as a source of strength.
 What plans do you make that do not involve its comfort or protection or
@@ -19745,7 +17607,7 @@ the body is absent, that will keep it so in your awareness of it.
 []{#part0023_split_008.html}
 
 ::: {.body}
-# [**IX. The Purpose of the Body**](#part0004.html#level-154){.calibre3} {#part0023_split_008.html#h1-154 .level1a}
+# [**IX. The Purpose of the Body**](#part0004.html#level-154) {#part0023_split_008.html#h1-154 .level1a}
 
 ^71^ It is only the awareness of the body that makes love seem limited.
 For the body *is* a limit on love. The belief in limited love was its
@@ -19875,7 +17737,7 @@ love has prepared for both of you.
 []{#part0023_split_009.html}
 
 ::: {.body}
-# [**X. The Delusional Thought System**](#part0004.html#level-155){.calibre3} {#part0023_split_009.html#h1-155 .level1a}
+# [**X. The Delusional Thought System**](#part0004.html#level-155) {#part0023_split_009.html#h1-155 .level1a}
 
 ^84^ You have been told to bring the darkness to the light and guilt to
 holiness. And you have also been told that error must be corrected at
@@ -19989,7 +17851,7 @@ Source of light-nothing perceived, forgiven, nor transformed, but merely
 []{#part0023_split_010.html}
 
 ::: {.body}
-# [**XI. The Passing of the Dream**](#part0004.html#level-156){.calibre3} {#part0023_split_010.html#h1-156 .level1a}
+# [**XI. The Passing of the Dream**](#part0004.html#level-156) {#part0023_split_010.html#h1-156 .level1a}
 
 ^95^ This course will *lead* to knowledge, but knowledge itself is still
 beyond the scope of our curriculum. Nor is there any need for us to try
@@ -20032,11 +17894,11 @@ your purpose *now*. And it is there that peace awaits you.
 []{#part0024_split_000.html}
 
 ::: {.body}
-# [**Chapter Nineteen**](#part0004.html#chap-19){.calibre3} {#part0024_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Nineteen**](#part0004.html#chap-19) {#part0024_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Beyond the Body**](#part0004.html#chap-19){.calibre3} {.chapter-title}
+# [**Beyond the Body**](#part0004.html#chap-19) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-157){.calibre3} {#part0024_split_000.html#h1-157 .level1a1}
+# [**I. Introduction**](#part0004.html#level-157) {#part0024_split_000.html#h1-157 .level1a1}
 
 ^19:1^ We said before that when a situation has been dedicated wholly to
 truth, peace is inevitable. Its attainment is the criterion by which the
@@ -20061,7 +17923,7 @@ Mind in which all healing rests.
 []{#part0024_split_001.html}
 
 ::: {.body}
-# [**II. Healing and the Mind**](#part0004.html#level-158){.calibre3} {#part0024_split_001.html#h1-158 .level1a}
+# [**II. Healing and the Mind**](#part0004.html#level-158) {#part0024_split_001.html#h1-158 .level1a}
 
 ^3^ The body cannot heal because it cannot make itself sick. It *needs*
 no healing. Its health or sickness depends entirely on how the mind
@@ -20213,7 +18075,7 @@ which it chooses as its purpose for itself.
 []{#part0024_split_002.html}
 
 ::: {.body}
-# [**III. Sin versus Error**](#part0004.html#level-159){.calibre3} {#part0024_split_002.html#h1-159 .level1a}
+# [**III. Sin versus Error**](#part0004.html#level-159) {#part0024_split_002.html#h1-159 .level1a}
 
 ^17^ It is essential that error be not confused with "sin," and it is
 this distinction which makes salvation possible. For error can be
@@ -20295,7 +18157,7 @@ the choice of hell or Heaven.
 []{#part0024_split_003.html}
 
 ::: {.body}
-# [**IV. The Unreality of Sin**](#part0004.html#level-160){.calibre3} {#part0024_split_003.html#h1-160 .level1a}
+# [**IV. The Unreality of Sin**](#part0004.html#level-160) {#part0024_split_003.html#h1-160 .level1a}
 
 ^25^ The attraction of guilt is found in sin, not error. Sin will be
 repeated because of this attraction. Fear can become so acute that the
@@ -20467,9 +18329,9 @@ presence of His gratitude?
 []{#part0024_split_004.html}
 
 ::: {.body}
-# [**V. Obstacles to Peace**](#part0004.html#level-161){.calibre3} {#part0024_split_004.html#h1-161 .level1a}
+# [**V. Obstacles to Peace**](#part0004.html#level-161) {#part0024_split_004.html#h1-161 .level1a}
 
-# [**a. The First Obstacle: The Desire to Get Rid of It**](#part0004.html#level-162){.calibre3} {#part0024_split_004.html#h1-162 .level1a1}
+# [**a. The First Obstacle: The Desire to Get Rid of It**](#part0004.html#level-162) {#part0024_split_004.html#h1-162 .level1a1}
 
 ^40^ The first obstacle that peace must flow across is your desire to
 get *rid* of it. For it cannot extend unless you *keep* it. You are the
@@ -20669,7 +18531,7 @@ completion which goes beyond guilt because it goes beyond the body.
 []{#part0024_split_006.html}
 
 ::: {.body}
-# [**b. The Second Obstacle: The Belief the Body is Valuable for What it Offers**](#part0004.html#level-163){.calibre3} {#part0024_split_006.html#h1-163 .level1a}
+# [**b. The Second Obstacle: The Belief the Body is Valuable for What it Offers**](#part0004.html#level-163) {#part0024_split_006.html#h1-163 .level1a}
 
 ^59^ We said that peace must first surmount the obstacle of your desire
 to get rid of it. Where the attraction of guilt holds sway, peace is not
@@ -20854,7 +18716,7 @@ you.
 []{#part0024_split_008.html}
 
 ::: {.body}
-# [**c. The Third Obstacle: The Attraction of Death**](#part0004.html#level-164){.calibre3} {#part0024_split_008.html#h1-164 .level1a}
+# [**c. The Third Obstacle: The Attraction of Death**](#part0004.html#level-164) {#part0024_split_008.html#h1-164 .level1a}
 
 ^77^ To you in whose special relationship the Holy Spirit entered, it is
 given to release and be released from the dedication to death. For it
@@ -20996,7 +18858,7 @@ But let You use it for me to facilitate its coming.
 []{#part0024_split_010.html}
 
 ::: {.body}
-# [**d. The Fourth Obstacle: The Fear of God**](#part0004.html#level-165){.calibre3} {#part0024_split_010.html#h1-165 .level1a}
+# [**d. The Fourth Obstacle: The Fear of God**](#part0004.html#level-165) {#part0024_split_010.html#h1-165 .level1a}
 
 ^90^ What would you see without the fear of death? What would you feel
 and think if death held no attraction for you? Very simply, you would
@@ -21215,11 +19077,11 @@ your own.
 []{#part0025_split_000.html}
 
 ::: {.body}
-# [**Chapter Twenty**](#part0004.html#chap-20){.calibre3} {#part0025_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter Twenty**](#part0004.html#chap-20) {#part0025_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Promise of the Resurrection**](#part0004.html#chap-20){.calibre3} {.chapter-title}
+# [**The Promise of the Resurrection**](#part0004.html#chap-20) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-166){.calibre3} {#part0025_split_000.html#h1-166 .level1a1}
+# [**I. Introduction**](#part0004.html#level-166) {#part0025_split_000.html#h1-166 .level1a1}
 
 ^20:1^ This is Palm Sunday, the celebration of victory and the
 acceptance of the truth. Let us not spend this holy week brooding on the
@@ -21233,7 +19095,7 @@ whole.
 []{#part0025_split_001.html}
 
 ::: {.body}
-# [**II. Holy Week**](#part0004.html#level-167){.calibre3} {#part0025_split_001.html#h1-167 .level1a}
+# [**II. Holy Week**](#part0004.html#level-167) {#part0025_split_001.html#h1-167 .level1a}
 
 ^2^ This week begins with palms and ends with lilies, the white and holy
 sign the Son of God is innocent. Let no dark sign of crucifixion
@@ -21273,7 +19135,7 @@ with me. For Easter is the time of your salvation, along with mine.
 []{#part0025_split_002.html}
 
 ::: {.body}
-# [**III. Thorns and Lilies**](#part0004.html#level-168){.calibre3} {#part0025_split_002.html#h1-168 .level1a}
+# [**III. Thorns and Lilies**](#part0004.html#level-168) {#part0025_split_002.html#h1-168 .level1a}
 
 ^5^ Look upon all the trinkets made to hang upon the body or to cover it
 or for its use. See all the useless things made for its eyes to see.
@@ -21390,7 +19252,7 @@ each other shall both of you be led past fear to love.
 []{#part0025_split_003.html}
 
 ::: {.body}
-# [**IV. Sin as an Adjustment**](#part0004.html#level-169){.calibre3} {#part0025_split_003.html#h1-169 .level1a}
+# [**IV. Sin as an Adjustment**](#part0004.html#level-169) {#part0025_split_003.html#h1-169 .level1a}
 
 ^16^ The belief in sin is an adjustment. And an adjustment is a change;
 a shift in perception or a belief that what was so before has been made
@@ -21521,7 +19383,7 @@ your immortality. See him as sinless, and there can *be* no fear in you.
 []{#part0025_split_004.html}
 
 ::: {.body}
-# [**V. Entering the Ark**](#part0004.html#level-170){.calibre3} {#part0025_split_004.html#h1-170 .level1a}
+# [**V. Entering the Ark**](#part0004.html#level-170) {#part0025_split_004.html#h1-170 .level1a}
 
 ^28^ Nothing can hurt you unless you give it the power to do so. For you
 give power as the laws of this world interpret giving-as you give you
@@ -21620,7 +19482,7 @@ on *you*. And what can be more certain than a Son of God?
 []{#part0025_split_005.html}
 
 ::: {.body}
-# [**VI. Heralds of Eternity**](#part0004.html#level-171){.calibre3} {#part0025_split_005.html#h1-171 .level1a}
+# [**VI. Heralds of Eternity**](#part0004.html#level-171) {#part0025_split_005.html#h1-171 .level1a}
 
 ^37^ In this world, God's Son comes closest to himself in a holy
 relationship. There he begins to find the certainty his Father has in
@@ -21704,7 +19566,7 @@ confidence of God should be misplaced.
 []{#part0025_split_006.html}
 
 ::: {.body}
-# [**VII. The Temple of the Holy Spirit**](#part0004.html#level-172){.calibre3} {#part0025_split_006.html#h1-172 .level1a}
+# [**VII. The Temple of the Holy Spirit**](#part0004.html#level-172) {#part0025_split_006.html#h1-172 .level1a}
 
 ^45^ The meaning of the Son of God lies solely in his relationship with
 his Creator. If it were elsewhere, it would rest upon contingency, but
@@ -21843,7 +19705,7 @@ awareness?
 []{#part0025_split_007.html}
 
 ::: {.body}
-# [**VIII. The Consistency of Means and End**](#part0004.html#level-173){.calibre3} {#part0025_split_007.html#h1-173 .level1a}
+# [**VIII. The Consistency of Means and End**](#part0004.html#level-173) {#part0025_split_007.html#h1-173 .level1a}
 
 ^58^ We have said much about discrepancies of means and end and how
 these must be brought in line before your holy relationship can bring
@@ -21942,7 +19804,7 @@ him to see, as was the vision which made his seeing possible.
 []{#part0025_split_008.html}
 
 ::: {.body}
-# [**IX. The Vision of Sinlessness**](#part0004.html#level-174){.calibre3} {#part0025_split_008.html#h1-174 .level1a}
+# [**IX. The Vision of Sinlessness**](#part0004.html#level-174) {#part0025_split_008.html#h1-174 .level1a}
 
 ^67^ Vision will come to you at first in glimpses, but they will be
 enough to show you what is given you who see your brother sinless. Truth
@@ -22063,11 +19925,11 @@ there is something else for you to see.
 []{#part0026_split_000.html}
 
 ::: {.body}
-# [**Chapter 21**](#part0004.html#chap-21){.calibre3} {#part0026_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 21**](#part0004.html#chap-21) {#part0026_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Inner Picture**](#part0004.html#chap-21){.calibre3} {.chapter-title}
+# [**The Inner Picture**](#part0004.html#chap-21) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-175){.calibre3} {#part0026_split_000.html#h1-175 .level1a1}
+# [**I. Introduction**](#part0004.html#level-175) {#part0026_split_000.html#h1-175 .level1a1}
 
 ^21:1^ Projection makes perception. The world you see is what you gave
 it, nothing more than that. But though it is no more than that, it is
@@ -22095,7 +19957,7 @@ to accept as *yours*. And if this *is* its meaning, then the power to
 []{#part0026_split_001.html}
 
 ::: {.body}
-# [**II. The Imagined World**](#part0004.html#level-176){.calibre3} {#part0026_split_001.html#h1-176 .level1a}
+# [**II. The Imagined World**](#part0004.html#level-176) {#part0026_split_001.html#h1-176 .level1a}
 
 ^3^ Never forget the world the sightless "see" must be imagined, for
 what it really looks like is unknown to them. They must infer what could
@@ -22190,7 +20052,7 @@ each other, you *are* remembering for everyone.
 []{#part0026_split_002.html}
 
 ::: {.body}
-# [**III. The Responsibility for Sight**](#part0004.html#level-177){.calibre3} {#part0026_split_002.html#h1-177 .level1a}
+# [**III. The Responsibility for Sight**](#part0004.html#level-177) {#part0026_split_002.html#h1-177 .level1a}
 
 ^13^ We have repeated how little is asked of you to learn this course.
 It is the same small willingness you need to have your whole
@@ -22337,7 +20199,7 @@ created and have never left.
 []{#part0026_split_003.html}
 
 ::: {.body}
-# [**IV. Faith, Belief, and Vision**](#part0004.html#level-178){.calibre3} {#part0026_split_003.html#h1-178 .level1a}
+# [**IV. Faith, Belief, and Vision**](#part0004.html#level-178) {#part0026_split_003.html#h1-178 .level1a}
 
 ^29^ All special relationships have sin as their goal. For they are
 bargains with reality, toward which the seeming union is adjusted.
@@ -22461,7 +20323,7 @@ can use them still to save itself from what it made.
 []{#part0026_split_004.html}
 
 ::: {.body}
-# [**V. The Fear to Look Within**](#part0004.html#level-179){.calibre3} {#part0026_split_004.html#h1-179 .level1a}
+# [**V. The Fear to Look Within**](#part0004.html#level-179) {#part0026_split_004.html#h1-179 .level1a}
 
 ^41^ The Holy Spirit will *never* teach you that you are sinful. Errors
 He will correct, but this makes no one fearful. You are indeed afraid to
@@ -22543,7 +20405,7 @@ happily and question not what must be so.
 []{#part0026_split_005.html}
 
 ::: {.body}
-# [**VI. Reason and Perception**](#part0004.html#level-180){.calibre3} {#part0026_split_005.html#h1-180 .level1a}
+# [**VI. Reason and Perception**](#part0004.html#level-180) {#part0026_split_005.html#h1-180 .level1a}
 
 ^49^ Perception selects and makes the world you see. It literally picks
 it out as the mind directs. The laws of size and shape and brightness
@@ -22655,7 +20517,7 @@ purpose which it serves and all the means for its accomplishment.
 []{#part0026_split_006.html}
 
 ::: {.body}
-# [**VII. Reason and Correction**](#part0004.html#level-181){.calibre3} {#part0026_split_006.html#h1-181 .level1a}
+# [**VII. Reason and Correction**](#part0004.html#level-181) {#part0026_split_006.html#h1-181 .level1a}
 
 ^59^ Reason cannot see sin but *can* see errors and leads to their
 correction. It does not value them, but their correction. Reason will
@@ -22773,7 +20635,7 @@ pardon on himself to set him free.
 []{#part0026_split_007.html}
 
 ::: {.body}
-# [**VIII. Perception and Wishes**](#part0004.html#level-182){.calibre3} {#part0026_split_007.html#h1-182 .level1a}
+# [**VIII. Perception and Wishes**](#part0004.html#level-182) {#part0026_split_007.html#h1-182 .level1a}
 
 ^70^ Do you not see that all your misery comes from the strange belief
 that you are powerless? Being helpless is the *cost* of sin.
@@ -22912,7 +20774,7 @@ kill. And none can leave the thinker's mind or leave him unaffected.
 []{#part0026_split_008.html}
 
 ::: {.body}
-# [**IX. The Inner Shift**](#part0004.html#level-183){.calibre3} {#part0026_split_008.html#h1-183 .level1a}
+# [**IX. The Inner Shift**](#part0004.html#level-183) {#part0026_split_008.html#h1-183 .level1a}
 
 ^85^ Are thoughts then dangerous? To bodies, *yes*! The thoughts that
 seem to kill are those which teach the thinker that he *can* be killed.
@@ -22968,11 +20830,11 @@ relationship and your *awareness* of its holiness.
 []{#part0027_split_000.html}
 
 ::: {.body}
-# [**Chapter 22**](#part0004.html#chap-22){.calibre3} {#part0027_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 22**](#part0004.html#chap-22) {#part0027_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Salvation and the Holy Relationship**](#part0004.html#chap-22){.calibre3} {.chapter-title}
+# [**Salvation and the Holy Relationship**](#part0004.html#chap-22) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-184){.calibre3} {#part0027_split_000.html#h1-184 .level1a1}
+# [**I. Introduction**](#part0004.html#level-184) {#part0027_split_000.html#h1-184 .level1a1}
 
 ^22:1^ Take pity on yourselves, so long enslaved. Rejoice whom God hath
 joined have come together and need no longer look on sin apart. No two
@@ -23019,7 +20881,7 @@ of God. For what is born into a holy relationship can *never* end.
 []{#part0027_split_001.html}
 
 ::: {.body}
-# [**II. The Message of the Holy Relationship**](#part0004.html#level-185){.calibre3} {#part0027_split_001.html#h1-185 .level1a}
+# [**II. The Message of the Holy Relationship**](#part0004.html#level-185) {#part0027_split_001.html#h1-185 .level1a}
 
 ^5^ Let reason take another step. If you attack whom God would heal and
 hate the one He loves, then you and your Creator *have* a different
@@ -23148,7 +21010,7 @@ prepared for them as earth is turned to Heaven.
 []{#part0027_split_002.html}
 
 ::: {.body}
-# [**III. Your Brother's Sinlessness**](#part0004.html#level-186){.calibre3} {#part0027_split_002.html#h1-186 .level1a}
+# [**III. Your Brother's Sinlessness**](#part0004.html#level-186) {#part0027_split_002.html#h1-186 .level1a}
 
 ^16^ The opposite of illusions is not disillusionment, but truth. Only
 to the ego, to which truth is meaningless, do they appear to be the only
@@ -23287,7 +21149,7 @@ brother, sinless as yourself, and let him lead you there.
 []{#part0027_split_003.html}
 
 ::: {.body}
-# [**IV. Reason and the Holy Relationship**](#part0004.html#level-187){.calibre3} {#part0027_split_003.html#h1-187 .level1a}
+# [**IV. Reason and the Holy Relationship**](#part0004.html#level-187) {#part0027_split_003.html#h1-187 .level1a}
 
 ^29^ The introduction of reason into the ego's thought system is the
 beginning of its undoing. For reason and the ego are contradictory. Nor
@@ -23387,7 +21249,7 @@ healed as one.
 []{#part0027_split_004.html}
 
 ::: {.body}
-# [**V. The Branching of the Road**](#part0004.html#level-188){.calibre3} {#part0027_split_004.html#h1-188 .level1a}
+# [**V. The Branching of the Road**](#part0004.html#level-188) {#part0027_split_004.html#h1-188 .level1a}
 
 ^38^ When you come to the place where the branch in the road is quite
 apparent, you cannot go ahead. You *must* go either one way or the
@@ -23459,7 +21321,7 @@ an illusion stands between you and the holy Self you share.
 []{#part0027_split_005.html}
 
 ::: {.body}
-# [**VI. Weakness and Defensiveness**](#part0004.html#level-189){.calibre3} {#part0027_split_005.html#h1-189 .level1a}
+# [**VI. Weakness and Defensiveness**](#part0004.html#level-189) {#part0027_split_005.html#h1-189 .level1a}
 
 ^45^ How does one overcome illusions? Surely not by force or anger nor
 by opposing them in any way. Merely by letting reason tell you that they
@@ -23527,7 +21389,7 @@ its immovability.
 []{#part0027_split_006.html}
 
 ::: {.body}
-# [**VII. Freedom and the Holy Spirit**](#part0004.html#level-190){.calibre3} {#part0027_split_006.html#h1-190 .level1a}
+# [**VII. Freedom and the Holy Spirit**](#part0004.html#level-190) {#part0027_split_006.html#h1-190 .level1a}
 
 ^51^ Do you want freedom of the body or of the mind? For both you cannot
 have. Which do you value? Which is your goal? For one you see as means;
@@ -23698,11 +21560,11 @@ different or the same and teach you which *is* true.
 []{#part0028_split_000.html}
 
 ::: {.body}
-# [**Chapter 23**](#part0004.html#chap-23){.calibre3} {#part0028_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 23**](#part0004.html#chap-23) {#part0028_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The War Against Yourself**](#part0004.html#chap-23){.calibre3} {.chapter-title}
+# [**The War Against Yourself**](#part0004.html#chap-23) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-191){.calibre3} {#part0028_split_000.html#h1-191 .level1a1}
+# [**I. Introduction**](#part0004.html#level-191) {#part0028_split_000.html#h1-191 .level1a1}
 
 ^23:1^ Do you not see the opposite of frailty and weakness is
 sinlessness? Innocence is strength, and nothing else is strong. The
@@ -23764,7 +21626,7 @@ and your freedom. And it must be complete if *you* would recognize it.
 []{#part0028_split_001.html}
 
 ::: {.body}
-# [**II. The Irreconcilable Beliefs**](#part0004.html#level-192){.calibre3} {#part0028_split_001.html#h1-192 .level1a}
+# [**II. The Irreconcilable Beliefs**](#part0004.html#level-192) {#part0028_split_001.html#h1-192 .level1a}
 
 ^7^ The memory of God comes to the quiet mind. It cannot come where
 there is conflict, for a mind at war against itself remembers not
@@ -23889,7 +21751,7 @@ war it shines, ready to be remembered when you side with peace.
 []{#part0028_split_002.html}
 
 ::: {.body}
-# [**III. The Laws of Chaos**](#part0004.html#level-193){.calibre3} {#part0028_split_002.html#h1-193 .level1a}
+# [**III. The Laws of Chaos**](#part0004.html#level-193) {#part0028_split_002.html#h1-193 .level1a}
 
 ^19^ The "laws" of chaos can be brought to light, though never
 understood. Chaotic laws are hardly meaningful and therefore out of
@@ -24115,7 +21977,7 @@ Friend to join with you and *give* you certainty of where you go.
 []{#part0028_split_003.html}
 
 ::: {.body}
-# [**IV. Salvation without Compromise**](#part0004.html#level-194){.calibre3} {#part0028_split_003.html#h1-194 .level1a}
+# [**IV. Salvation without Compromise**](#part0004.html#level-194) {#part0028_split_003.html#h1-194 .level1a}
 
 ^41^ Is it not true you do not recognize some of the forms attack can
 take? If it is true attack in any form will hurt you and will do so just
@@ -24188,7 +22050,7 @@ conflict, for there *is* no war without attack.\]
 []{#part0028_split_004.html}
 
 ::: {.body}
-# [**V. The Fear of Life**](#part0004.html#level-195){.calibre3} {#part0028_split_004.html#h1-195 .level1a}
+# [**V. The Fear of Life**](#part0004.html#level-195) {#part0028_split_004.html#h1-195 .level1a}
 
 ^47^ The fear of God is fear of *life* and not of death. Yet He remains
 the only place of safety. In Him is no attack, and no illusion in any
@@ -24284,11 +22146,11 @@ upholding him could find the choice of miracles or murder hard to make?
 []{#part0029_split_000.html}
 
 ::: {.body}
-# [**Chapter 24**](#part0004.html#chap-24){.calibre3} {#part0029_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 24**](#part0004.html#chap-24) {#part0029_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**Specialness and Separation**](#part0004.html#chap-24){.calibre3} {.chapter-title}
+# [**Specialness and Separation**](#part0004.html#chap-24) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-196){.calibre3} {#part0029_split_000.html#h1-196 .level1a1}
+# [**I. Introduction**](#part0004.html#level-196) {#part0029_split_000.html#h1-196 .level1a1}
 
 ^24:1^ Forget not that the motivation for this course is the attainment
 and the keeping of the state of peace. Given this state the mind is
@@ -24316,7 +22178,7 @@ His Mind *because* of what He knows.
 []{#part0029_split_001.html}
 
 ::: {.body}
-# [**II. Specialness as a Substitute for Love**](#part0004.html#level-197){.calibre3} {#part0029_split_001.html#h1-197 .level1a}
+# [**II. Specialness as a Substitute for Love**](#part0004.html#level-197) {#part0029_split_001.html#h1-197 .level1a}
 
 ^3^ Love is extension. To withhold the smallest gift is not to know
 love's purpose. Love offers everything forever. Hold back but one
@@ -24416,7 +22278,7 @@ Never can there be peace among the different. He is your friend
 []{#part0029_split_002.html}
 
 ::: {.body}
-# [**III. The Treachery of Specialness**](#part0004.html#level-198){.calibre3} {#part0029_split_002.html#h1-198 .level1a}
+# [**III. The Treachery of Specialness**](#part0004.html#level-198) {#part0029_split_002.html#h1-198 .level1a}
 
 ^12^ Comparison must be an ego device, for love makes none. Specialness
 *always* makes comparisons. It is established by a lack seen in another
@@ -24563,7 +22425,7 @@ the acceptance of yourself as God created you.
 []{#part0029_split_003.html}
 
 ::: {.body}
-# [**IV. The Forgiveness of Specialness**](#part0004.html#level-199){.calibre3} {#part0029_split_003.html#h1-199 .level1a}
+# [**IV. The Forgiveness of Specialness**](#part0004.html#level-199) {#part0029_split_003.html#h1-199 .level1a}
 
 ^26^ Forgiveness is the end of specialness. Only illusions can be
 forgiven, and then they disappear. Forgiveness is release from *all*
@@ -24649,7 +22511,7 @@ you be crucified.
 []{#part0029_split_004.html}
 
 ::: {.body}
-# [**V. Specialness and Salvation**](#part0004.html#level-200){.calibre3} {#part0029_split_004.html#h1-200 .level1a}
+# [**V. Specialness and Salvation**](#part0004.html#level-200) {#part0029_split_004.html#h1-200 .level1a}
 
 ^34^ Specialness is a lack of trust in anyone except yourself. Faith is
 invested in yourself alone. Everything else becomes your enemy-feared
@@ -24712,7 +22574,7 @@ so is specialness his "enemy" and *yours* as well.
 []{#part0029_split_005.html}
 
 ::: {.body}
-# [**VI. The Resolution of the Dream**](#part0004.html#level-201){.calibre3} {#part0029_split_005.html#h1-201 .level1a}
+# [**VI. The Resolution of the Dream**](#part0004.html#level-201) {#part0029_split_005.html#h1-201 .level1a}
 
 ^40^ The Christ in you is very still. He looks on what He loves and
 knows it as Himself. And thus does He rejoice at what He sees because He
@@ -24808,7 +22670,7 @@ And where is doubt when certainty has come?
 []{#part0029_split_006.html}
 
 ::: {.body}
-# [**VII. Salvation from Fear**](#part0004.html#level-202){.calibre3} {#part0029_split_006.html#h1-202 .level1a}
+# [**VII. Salvation from Fear**](#part0004.html#level-202) {#part0029_split_006.html#h1-202 .level1a}
 
 ^49^ Before your brother's holiness the world is still and peace
 descends on it in gentleness and blessing so complete that not one trace
@@ -24949,7 +22811,7 @@ effortless accomplishment and rest.
 []{#part0029_split_007.html}
 
 ::: {.body}
-# [**VIII. The Meeting Place**](#part0004.html#level-203){.calibre3} {#part0029_split_007.html#h1-203 .level1a}
+# [**VIII. The Meeting Place**](#part0004.html#level-203) {#part0029_split_007.html#h1-203 .level1a}
 
 ^62^ How bitterly does everyone tied to this world defend the
 specialness he wants to be the truth! His wish is law unto him, and he
@@ -25076,11 +22938,11 @@ you.
 []{#part0030_split_000.html}
 
 ::: {.body}
-# [**Chapter 25**](#part0004.html#chap-25){.calibre3} {#part0030_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 25**](#part0004.html#chap-25) {#part0030_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Remedy**](#part0004.html#chap-25){.calibre3} {.chapter-title}
+# [**The Remedy**](#part0004.html#chap-25) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-204){.calibre3} {#part0030_split_000.html#h1-204 .level1a1}
+# [**I. Introduction**](#part0004.html#level-204) {#part0030_split_000.html#h1-204 .level1a1}
 
 ^25:1^ The Christ in you inhabits not a body. Yet He is in you. And thus
 it must be that *you* are not within a body. What is within you cannot
@@ -25113,7 +22975,7 @@ you. And such it must be that your mission is for him.
 []{#part0030_split_001.html}
 
 ::: {.body}
-# [**II. The Appointed Task**](#part0004.html#level-205){.calibre3} {#part0030_split_001.html#h1-205 .level1a}
+# [**II. The Appointed Task**](#part0004.html#level-205) {#part0030_split_001.html#h1-205 .level1a}
 
 ^4^ It cannot be that it is hard to do the task that Christ appointed
 you to do, since it is He Who does it. And in the doing of it will you
@@ -25194,7 +23056,7 @@ have separate parts.
 []{#part0030_split_002.html}
 
 ::: {.body}
-# [**III. The Savior from the Dark**](#part0004.html#level-206){.calibre3} {#part0030_split_002.html#h1-206 .level1a}
+# [**III. The Savior from the Dark**](#part0004.html#level-206) {#part0030_split_002.html#h1-206 .level1a}
 
 ^12^ Is it not evident that what the body's eyes perceive fills you with
 fear? Perhaps you think you find a hope of satisfaction there. Perhaps
@@ -25312,7 +23174,7 @@ never has been separate nor apart from all God's love as given equally.
 []{#part0030_split_003.html}
 
 ::: {.body}
-# [**IV. The Fundamental Law of Perception**](#part0004.html#level-207){.calibre3} {#part0030_split_003.html#h1-207 .level1a}
+# [**IV. The Fundamental Law of Perception**](#part0004.html#level-207) {#part0030_split_003.html#h1-207 .level1a}
 
 ^23^ To the extent to which you value guilt, to that extent will you
 perceive a world in which attack is justified. To the extent to which
@@ -25412,7 +23274,7 @@ chosen and *will* be justified.
 []{#part0030_split_004.html}
 
 ::: {.body}
-# [**V. The Joining of Minds**](#part0004.html#level-208){.calibre3} {#part0030_split_004.html#h1-208 .level1a}
+# [**V. The Joining of Minds**](#part0004.html#level-208) {#part0030_split_004.html#h1-208 .level1a}
 
 ^32^ Minds that are joined and *recognize* they are can feel no guilt.
 For they cannot attack, and they rejoice that this is so, seeing their
@@ -25477,7 +23339,7 @@ walk beyond the world of darkness into light?
 []{#part0030_split_005.html}
 
 ::: {.body}
-# [**VI. The State of Sinlessness**](#part0004.html#level-209){.calibre3} {#part0030_split_005.html#h1-209 .level1a}
+# [**VI. The State of Sinlessness**](#part0004.html#level-209) {#part0030_split_005.html#h1-209 .level1a}
 
 ^37^ The state of sinlessness is merely this: the whole desire to attack
 is gone, and so there is no reason to perceive the Son of God as other
@@ -25550,7 +23412,7 @@ your judgment on yourself.
 []{#part0030_split_006.html}
 
 ::: {.body}
-# [**VII. The Special Function**](#part0004.html#level-210){.calibre3} {#part0030_split_006.html#h1-210 .level1a}
+# [**VII. The Special Function**](#part0004.html#level-210) {#part0030_split_006.html#h1-210 .level1a}
 
 ^43^ The grace of God rests gently on forgiving eyes, and everything
 they look on speaks of Him to the beholder. He can see no evil, nothing
@@ -25629,7 +23491,7 @@ that everything be given you.
 []{#part0030_split_007.html}
 
 ::: {.body}
-# [**VIII. Commuting the Sentence**](#part0004.html#level-211){.calibre3} {#part0030_split_007.html#h1-211 .level1a}
+# [**VIII. Commuting the Sentence**](#part0004.html#level-211) {#part0030_split_007.html#h1-211 .level1a}
 
 ^50^ And if the Holy Spirit can commute each sentence that you laid upon
 yourself into a blessing, then it cannot be a sin. Sin is the one thing
@@ -25779,7 +23641,7 @@ is the truth.
 []{#part0030_split_008.html}
 
 ::: {.body}
-# [**IX. The Principle of Salvation**](#part0004.html#level-212){.calibre3} {#part0030_split_008.html#h1-212 .level1a}
+# [**IX. The Principle of Salvation**](#part0004.html#level-212) {#part0030_split_008.html#h1-212 .level1a}
 
 ^63^ The Holy Spirit can use all that you give to Him for your
 salvation. But He cannot use what you withhold, for He cannot take it
@@ -25948,7 +23810,7 @@ will deprive yourself of what God's justice has allotted you.
 []{#part0030_split_009.html}
 
 ::: {.body}
-# [**X. The Justice of Heaven**](#part0004.html#level-213){.calibre3} {#part0030_split_009.html#h1-213 .level1a}
+# [**X. The Justice of Heaven**](#part0004.html#level-213) {#part0030_split_009.html#h1-213 .level1a}
 
 ^78^ What can it be but arrogance to think your little errors cannot be
 undone by Heaven's justice? And what could this mean except that they
@@ -26060,11 +23922,11 @@ Its offering is universal, and it teaches but one message:
 []{#part0031_split_000.html}
 
 ::: {.body}
-# [**Chapter 26**](#part0004.html#chap-26){.calibre3} {#part0031_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 26**](#part0004.html#chap-26) {#part0031_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Transition**](#part0004.html#chap-26){.calibre3} {.chapter-title}
+# [**The Transition**](#part0004.html#chap-26) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-214){.calibre3} {#part0031_split_000.html#h1-214 .level1a1}
+# [**I. Introduction**](#part0004.html#level-214) {#part0031_split_000.html#h1-214 .level1a1}
 
 ^26:1^ In the "dynamics" of attack is sacrifice a key idea. It is the
 pivot upon which *all* compromise, *all* desperate attempts to strike a
@@ -26082,7 +23944,7 @@ or go a little farther off but *cannot* join.
 []{#part0031_split_001.html}
 
 ::: {.body}
-# [**II. The "Sacrifice" of Oneness**](#part0004.html#level-215){.calibre3} {#part0031_split_001.html#h1-215 .level1a}
+# [**II. The "Sacrifice" of Oneness**](#part0004.html#level-215) {#part0031_split_001.html#h1-215 .level1a}
 
 ^2^ The world you see is based on "sacrifice" of oneness. It is a
 picture of a complete disunity and total lack of joining. Around each
@@ -26165,7 +24027,7 @@ and separate from His Own?
 []{#part0031_split_002.html}
 
 ::: {.body}
-# [**III. The Forms of Error**](#part0004.html#level-216){.calibre3} {#part0031_split_002.html#h1-216 .level1a}
+# [**III. The Forms of Error**](#part0004.html#level-216) {#part0031_split_002.html#h1-216 .level1a}
 
 ^10^ It is not difficult to understand the reasons why you do not ask
 the Holy Spirit to solve *all* problems for you. He has not greater
@@ -26256,7 +24118,7 @@ offer or receive less than He gave when He created you in perfect love.
 []{#part0031_split_003.html}
 
 ::: {.body}
-# [**IV. The Borderland**](#part0004.html#level-217){.calibre3} {#part0031_split_003.html#h1-217 .level1a}
+# [**IV. The Borderland**](#part0004.html#level-217) {#part0031_split_003.html#h1-217 .level1a}
 
 ^18^ Complexity is not of God. How could it be, when all He knows is
 one? He knows of *one* creation, *one* reality, *one* truth, and but
@@ -26329,7 +24191,7 @@ hard to give it up and choose what *must* be true?
 []{#part0031_split_004.html}
 
 ::: {.body}
-# [**V. Where Sin has Left**](#part0004.html#level-218){.calibre3} {#part0031_split_004.html#h1-218 .level1a}
+# [**V. Where Sin has Left**](#part0004.html#level-218) {#part0031_split_004.html#h1-218 .level1a}
 
 ^25^ Forgiveness is this world's equivalent of Heaven's justice. It
 translates the world of sin into a simple world where justice can be
@@ -26392,7 +24254,7 @@ chorus to the love of God!
 []{#part0031_split_005.html}
 
 ::: {.body}
-# [**VI. The Little Hindrance**](#part0004.html#level-219){.calibre3} {#part0031_split_005.html#h1-219 .level1a}
+# [**VI. The Little Hindrance**](#part0004.html#level-219) {#part0031_split_005.html#h1-219 .level1a}
 
 ^30^ A little hindrance can seem large indeed to those who do not
 understand that miracles are all the same. Yet teaching that is what
@@ -26532,7 +24394,7 @@ perception of your hate has been transformed into a world of love.
 []{#part0031_split_006.html}
 
 ::: {.body}
-# [**VII. The Appointed Friend**](#part0004.html#level-220){.calibre3} {#part0031_split_006.html#h1-220 .level1a}
+# [**VII. The Appointed Friend**](#part0004.html#level-220) {#part0031_split_006.html#h1-220 .level1a}
 
 ^43^ Anything in this world that you believe is good and valuable and
 worth striving for can hurt you and will do so. Not because it has the
@@ -26570,7 +24432,7 @@ room for Him on His.
 []{#part0031_split_007.html}
 
 ::: {.body}
-# [**VIII. Review of Principles**](#part0004.html#level-221){.calibre3} {#part0031_split_007.html#h1-221 .level1a}
+# [**VIII. Review of Principles**](#part0004.html#level-221) {#part0031_split_007.html#h1-221 .level1a}
 
 ^46^ This is a course in miracles. And as such, the laws of healing must
 be understood before the purpose of the course can be accomplished. Let
@@ -26772,7 +24634,7 @@ and all creation freed to call upon the Name of God as one.
 []{#part0031_split_008.html}
 
 ::: {.body}
-# [**IX. The Immediacy of Salvation**](#part0004.html#level-222){.calibre3} {#part0031_split_008.html#h1-222 .level1a}
+# [**IX. The Immediacy of Salvation**](#part0004.html#level-222) {#part0031_split_008.html#h1-222 .level1a}
 
 ^67^ The one remaining problem that you have is that you see an interval
 between the time when you forgive and will receive the benefits of
@@ -26869,7 +24731,7 @@ as well?
 []{#part0031_split_009.html}
 
 ::: {.body}
-# [**X. For They Have Come**](#part0004.html#level-223){.calibre3} {#part0031_split_009.html#h1-223 .level1a}
+# [**X. For They Have Come**](#part0004.html#level-223) {#part0031_split_009.html#h1-223 .level1a}
 
 ^76^ Think but how holy you must be from whom the Voice for God calls
 lovingly unto your brother, that you may awake in him the Voice that
@@ -26947,7 +24809,7 @@ last!
 []{#part0031_split_010.html}
 
 ::: {.body}
-# [**XI. The Remaining Task**](#part0004.html#level-224){.calibre3} {#part0031_split_010.html#h1-224 .level1a}
+# [**XI. The Remaining Task**](#part0004.html#level-224) {#part0031_split_010.html#h1-224 .level1a}
 
 ^84^ What then remains to be undone for you to realize Their Presence?
 Only this-you have a differential view of when attack is justified and
@@ -27024,11 +24886,11 @@ which Their Presence shines away.
 []{#part0032_split_000.html}
 
 ::: {.body}
-# [**Chapter 27**](#part0004.html#chap-27){.calibre3} {#part0032_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 27**](#part0004.html#chap-27) {#part0032_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Body and the Dream**](#part0004.html#chap-27){.calibre3} {.chapter-title}
+# [**The Body and the Dream**](#part0004.html#chap-27) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-225){.calibre3} {#part0032_split_000.html#h1-225 .level1a1}
+# [**I. Introduction**](#part0004.html#level-225) {#part0032_split_000.html#h1-225 .level1a1}
 
 ^27:1^ The wish to be unfairly treated is a compromise attempt that
 would combine attack and innocence. Who can *combine* the wholly
@@ -27055,7 +24917,7 @@ for him. But in his *innocence,* you find your own.
 []{#part0032_split_001.html}
 
 ::: {.body}
-# [**II. The Picture of the Crucifixion**](#part0004.html#level-226){.calibre3} {#part0032_split_001.html#h1-226 .level1a}
+# [**II. The Picture of the Crucifixion**](#part0004.html#level-226) {#part0032_split_001.html#h1-226 .level1a}
 
 ^3^ Whenever you consent to suffer pain, to be deprived, unfairly
 treated, or in need of anything, you but accuse your brother of attack
@@ -27173,7 +25035,7 @@ your function both be reconciled at last and seen as one.
 []{#part0032_split_002.html}
 
 ::: {.body}
-# [**III. The Fear of Healing**](#part0004.html#level-227){.calibre3} {#part0032_split_002.html#h1-227 .level1a}
+# [**III. The Fear of Healing**](#part0004.html#level-227) {#part0032_split_002.html#h1-227 .level1a}
 
 ^13^ Is healing frightening? To many, yes. For accusation is a bar to
 love, and damaged bodies are accusers. They stand firmly in the way of
@@ -27356,7 +25218,7 @@ as part of him.
 []{#part0032_split_003.html}
 
 ::: {.body}
-# [**IV. The Symbol of the Impossible**](#part0004.html#level-228){.calibre3} {#part0032_split_003.html#h1-228 .level1a}
+# [**IV. The Symbol of the Impossible**](#part0004.html#level-228) {#part0032_split_003.html#h1-228 .level1a}
 
 ^26^ Power cannot oppose. For opposition would weaken it, and weakened
 power is a contradiction in ideas. Weak strength is meaningless, and
@@ -27436,7 +25298,7 @@ merely *is.*
 []{#part0032_split_004.html}
 
 ::: {.body}
-# [**V. The Quiet Answer**](#part0004.html#level-229){.calibre3} {#part0032_split_004.html#h1-229 .level1a}
+# [**V. The Quiet Answer**](#part0004.html#level-229) {#part0032_split_004.html#h1-229 .level1a}
 
 ^33^ In quietness are all things answered and is every problem quietly
 resolved. In conflict there can *be* no answer and no resolution, for
@@ -27524,7 +25386,7 @@ answer that was made *for* you.
 []{#part0032_split_005.html}
 
 ::: {.body}
-# [**VI. The Healing Example**](#part0004.html#level-230){.calibre3} {#part0032_split_005.html#h1-230 .level1a}
+# [**VI. The Healing Example**](#part0004.html#level-230) {#part0032_split_005.html#h1-230 .level1a}
 
 ^41^ The only way to heal is to be healed. The miracle extends without
 your help, but you *are* needed that it can begin. Accept the miracle of
@@ -27643,7 +25505,7 @@ therefore is it given unto Him.
 []{#part0032_split_006.html}
 
 ::: {.body}
-# [**VII. The Purpose of Pain**](#part0004.html#level-231){.calibre3} {#part0032_split_006.html#h1-231 .level1a}
+# [**VII. The Purpose of Pain**](#part0004.html#level-231) {#part0032_split_006.html#h1-231 .level1a}
 
 ^51^ Pain demonstrates the body must be real. It is a loud, obscuring
 voice whose shrieks would silence what the Holy Spirit says and keep His
@@ -27731,7 +25593,7 @@ love's symbols take the place of sin.
 []{#part0032_split_007.html}
 
 ::: {.body}
-# [**VIII. The Illusion of Suffering**](#part0004.html#level-232){.calibre3} {#part0032_split_007.html#h1-232 .level1a}
+# [**VIII. The Illusion of Suffering**](#part0004.html#level-232) {#part0032_split_007.html#h1-232 .level1a}
 
 ^59^ Suffering is an emphasis upon all that the world has done to injure
 you. Here is the world's demented version of salvation clearly shown.
@@ -27892,7 +25754,7 @@ his gifts to you.
 []{#part0032_split_008.html}
 
 ::: {.body}
-# [**IX. The "Hero" of the Dream**](#part0004.html#level-233){.calibre3} {#part0032_split_008.html#h1-233 .level1a}
+# [**IX. The "Hero" of the Dream**](#part0004.html#level-233) {#part0032_split_008.html#h1-233 .level1a}
 
 ^74^ The body is the central figure in the dreaming of the world. There
 is no dream without it, nor does it exist without the dream in which it
@@ -28037,11 +25899,11 @@ to learn. And it will be no secret you are healed.
 []{#part0033_split_000.html}
 
 ::: {.body}
-# [**Chapter 28**](#part0004.html#chap-28){.calibre3} {#part0033_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 28**](#part0004.html#chap-28) {#part0033_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Undoing of Fear**](#part0004.html#chap-28){.calibre3} {.chapter-title}
+# [**The Undoing of Fear**](#part0004.html#chap-28) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-234){.calibre3} {#part0033_split_000.html#h1-234 .level1a1}
+# [**I. Introduction**](#part0004.html#level-234) {#part0033_split_000.html#h1-234 .level1a1}
 
 ^28:1^ The miracle does nothing. All it does is to *undo*. And thus it
 cancels out the interference to what has been done. It does not add, but
@@ -28074,7 +25936,7 @@ They *await* their use. They have no dedication and no aim.
 []{#part0033_split_001.html}
 
 ::: {.body}
-# [**II. The Present Memory**](#part0004.html#level-235){.calibre3} {#part0033_split_001.html#h1-235 .level1a}
+# [**II. The Present Memory**](#part0004.html#level-235) {#part0033_split_001.html#h1-235 .level1a}
 
 ^4^ The Holy Spirit can indeed make use of memory, for God Himself is
 there. Yet this is not a memory of past events, but only of a present
@@ -28203,7 +26065,7 @@ is for you.
 []{#part0033_split_002.html}
 
 ::: {.body}
-# [**III. Reversing Effect and Cause**](#part0004.html#level-236){.calibre3} {#part0033_split_002.html#h1-236 .level1a}
+# [**III. Reversing Effect and Cause**](#part0004.html#level-236) {#part0033_split_002.html#h1-236 .level1a}
 
 ^16^ Without a cause there can be no effects, and yet without effects
 there is no cause. The cause a cause is *made* by its effects; the
@@ -28336,7 +26198,7 @@ retraced, the ladder gone, and all the dreaming of the world undone.
 []{#part0033_split_003.html}
 
 ::: {.body}
-# [**IV. The Agreement to Join**](#part0004.html#level-237){.calibre3} {#part0033_split_003.html#h1-237 .level1a}
+# [**IV. The Agreement to Join**](#part0004.html#level-237) {#part0033_split_003.html#h1-237 .level1a}
 
 ^28^ What waits in perfect certainty beyond salvation is not our
 concern. For you have barely started to allow your first uncertain steps
@@ -28431,7 +26293,7 @@ your Guests apart from you.
 []{#part0033_split_004.html}
 
 ::: {.body}
-# [**V. The Greater Joining**](#part0004.html#level-238){.calibre3} {#part0033_split_004.html#h1-238 .level1a}
+# [**V. The Greater Joining**](#part0004.html#level-238) {#part0033_split_004.html#h1-238 .level1a}
 
 ^37^ Accepting the Atonement for yourself means not to give support to
 someone's dream of sickness and of death. It means that you share not
@@ -28537,7 +26399,7 @@ but *only* gain.
 []{#part0033_split_005.html}
 
 ::: {.body}
-# [**VI. The Alternate to Dreams of Fear**](#part0004.html#level-239){.calibre3} {#part0033_split_005.html#h1-239 .level1a}
+# [**VI. The Alternate to Dreams of Fear**](#part0004.html#level-239) {#part0033_split_005.html#h1-239 .level1a}
 
 ^47^ What is a sense of sickness but a sense of limitation? Of a
 splitting *off* and separating *from*? A gap perceived between
@@ -28618,7 +26480,7 @@ love.
 []{#part0033_split_006.html}
 
 ::: {.body}
-# [**VII. The Secret Vows**](#part0004.html#level-240){.calibre3} {#part0033_split_006.html#h1-240 .level1a}
+# [**VII. The Secret Vows**](#part0004.html#level-240) {#part0033_split_006.html#h1-240 .level1a}
 
 ^54^ Who punishes the body is insane. For here the little gap is seen,
 and yet it is not here. It has not judged itself nor made itself to be
@@ -28685,7 +26547,7 @@ substitutes is not his will, who has made promise of himself to God.
 []{#part0033_split_007.html}
 
 ::: {.body}
-# [**VIII. The Beautiful Relationship**](#part0004.html#level-241){.calibre3} {#part0033_split_007.html#h1-241 .level1a}
+# [**VIII. The Beautiful Relationship**](#part0004.html#level-241) {#part0033_split_007.html#h1-241 .level1a}
 
 ^60^ God asks for nothing, and His Son, like Him, need ask for nothing.
 For there is no lack in him. An empty space, a little gap, would be a
@@ -28763,11 +26625,11 @@ holiness a little while because it shares your Father's Will with *you.*
 []{#part0034_split_000.html}
 
 ::: {.body}
-# [**Chapter 29**](#part0004.html#chap-29){.calibre3} {#part0034_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 29**](#part0004.html#chap-29) {#part0034_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Awakening**](#part0004.html#chap-29){.calibre3} {.chapter-title}
+# [**The Awakening**](#part0004.html#chap-29) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-242){.calibre3} {#part0034_split_000.html#h1-242 .level1a1}
+# [**I. Introduction**](#part0004.html#level-242) {#part0034_split_000.html#h1-242 .level1a1}
 
 ^29:1^ There is no time, no place, no state where God is absent. There
 is nothing to be feared. There is no way in which a gap could be
@@ -28807,7 +26669,7 @@ to be allowed.
 []{#part0034_split_001.html}
 
 ::: {.body}
-# [**II. The Closing of the Gap**](#part0004.html#level-243){.calibre3} {#part0034_split_001.html#h1-243 .level1a}
+# [**II. The Closing of the Gap**](#part0004.html#level-243) {#part0034_split_001.html#h1-243 .level1a}
 
 ^4^ The gap between you is not one of space between two separate bodies.
 This but seems to be dividing off your separate minds. It is the symbol
@@ -28867,7 +26729,7 @@ in finding God? Yet *can* your Self be lost by being found?
 []{#part0034_split_002.html}
 
 ::: {.body}
-# [**III. The Coming of the Guest**](#part0004.html#level-244){.calibre3} {#part0034_split_002.html#h1-244 .level1a}
+# [**III. The Coming of the Guest**](#part0004.html#level-244) {#part0034_split_002.html#h1-244 .level1a}
 
 ^10^ Why would you not perceive it as release from suffering to learn
 that you are free? Why would you not acclaim the truth, instead of
@@ -28975,7 +26837,7 @@ from death. For what is yours cannot be more nor less than what is his.
 []{#part0034_split_003.html}
 
 ::: {.body}
-# [**IV. God's Witnesses**](#part0004.html#level-245){.calibre3} {#part0034_split_003.html#h1-245 .level1a}
+# [**IV. God's Witnesses**](#part0004.html#level-245) {#part0034_split_003.html#h1-245 .level1a}
 
 ^20^ Condemn your savior not because he thinks he is a body. For beyond
 his dreams is his reality. But he must learn he is a savior first,
@@ -29033,7 +26895,7 @@ and be sure his waking eyes will rest on you. And in his glad salvation,
 []{#part0034_split_004.html}
 
 ::: {.body}
-# [**V. Dream Roles**](#part0004.html#level-246){.calibre3} {#part0034_split_004.html#h1-246 .level1a}
+# [**V. Dream Roles**](#part0004.html#level-246) {#part0034_split_004.html#h1-246 .level1a}
 
 ^25^ Do you believe that truth can be but *some* illusions? They are
 dreams *because* they are not true. Their equal lack of truth becomes
@@ -29104,7 +26966,7 @@ whatever form it takes with love.
 []{#part0034_split_005.html}
 
 ::: {.body}
-# [**VI. The Changeless Dwelling Place**](#part0004.html#level-247){.calibre3} {#part0034_split_005.html#h1-247 .level1a}
+# [**VI. The Changeless Dwelling Place**](#part0004.html#level-247) {#part0034_split_005.html#h1-247 .level1a}
 
 ^31^ There is a place in you where this whole world has been forgotten,
 where no memory of sin and of illusion lingers still. There is a place
@@ -29182,7 +27044,7 @@ finally beyond all dreams unto the peace of everlasting life.
 []{#part0034_split_006.html}
 
 ::: {.body}
-# [**VII. Forgiveness and Peace**](#part0004.html#level-248){.calibre3} {#part0034_split_006.html#h1-248 .level1a}
+# [**VII. Forgiveness and Peace**](#part0004.html#level-248) {#part0034_split_006.html#h1-248 .level1a}
 
 ^38^ How willing are you to forgive your brother? How much do you desire
 peace instead of endless strife and misery and pain? These questions are
@@ -29240,7 +27102,7 @@ timelessness comes quietly to take the place of time.
 []{#part0034_split_007.html}
 
 ::: {.body}
-# [**VIII. The Lingering Illusion**](#part0004.html#level-249){.calibre3} {#part0034_split_007.html#h1-249 .level1a}
+# [**VIII. The Lingering Illusion**](#part0004.html#level-249) {#part0034_split_007.html#h1-249 .level1a}
 
 ^43^ Seek not outside yourself. For it will fail, and you will weep each
 time an idol falls. Heaven cannot be found where it is not, and there
@@ -29332,7 +27194,7 @@ happiness is *not* despair.
 []{#part0034_split_008.html}
 
 ::: {.body}
-# [**IX. Christ and Anti-Christ**](#part0004.html#level-250){.calibre3} {#part0034_split_008.html#h1-250 .level1a}
+# [**IX. Christ and Anti-Christ**](#part0004.html#level-250) {#part0034_split_008.html#h1-250 .level1a}
 
 ^52^ What is an idol? Do you think you know? For idols are unrecognized
 as such and never seen for what they really are. That is the only power
@@ -29435,7 +27297,7 @@ with being *less*.
 []{#part0034_split_009.html}
 
 ::: {.body}
-# [**X. The Forgiving Dream**](#part0004.html#level-251){.calibre3} {#part0034_split_009.html#h1-251 .level1a}
+# [**X. The Forgiving Dream**](#part0004.html#level-251) {#part0034_split_009.html#h1-251 .level1a}
 
 ^61^ The slave of idols is a *willing* slave. For willing he must be to
 let himself bow down in worship to what has no life and seek for power
@@ -29545,11 +27407,11 @@ when judgment seemed to be the way to *save* him from its penalty.
 []{#part0035_split_000.html}
 
 ::: {.body}
-# [**Chapter 30**](#part0004.html#chap-30){.calibre3} {#part0035_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 30**](#part0004.html#chap-30) {#part0035_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The New Beginning**](#part0004.html#chap-30){.calibre3} {.chapter-title}
+# [**The New Beginning**](#part0004.html#chap-30) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-252){.calibre3} {#part0035_split_000.html#h1-252 .level1a1}
+# [**I. Introduction**](#part0004.html#level-252) {#part0035_split_000.html#h1-252 .level1a1}
 
 ^30:1^ The new beginning now becomes the focus of the curriculum. The
 goal is clear, but now you need specific methods for attaining it. The
@@ -29566,7 +27428,7 @@ ready for whatever need.
 []{#part0035_split_001.html}
 
 ::: {.body}
-# [**II. Rules for Decision**](#part0004.html#level-253){.calibre3} {#part0035_split_001.html#h1-253 .level1a}
+# [**II. Rules for Decision**](#part0004.html#level-253) {#part0035_split_001.html#h1-253 .level1a}
 
 ^2^ Decisions are continuous. You do not always know when you are making
 them. But with a little practice with the ones you recognize, a set
@@ -29733,7 +27595,7 @@ received, so must you give.
 []{#part0035_split_002.html}
 
 ::: {.body}
-# [**III. Freedom of Will**](#part0004.html#level-254){.calibre3} {#part0035_split_002.html#h1-254 .level1a}
+# [**III. Freedom of Will**](#part0004.html#level-254) {#part0035_split_002.html#h1-254 .level1a}
 
 ^33^ Do you not understand that to oppose the Holy Spirit is to fight
 *yourself*? He tells you but *your* will; He speaks for *you.* In His
@@ -29791,7 +27653,7 @@ friend.
 []{#part0035_split_003.html}
 
 ::: {.body}
-# [**IV. Beyond All Idols**](#part0004.html#level-255){.calibre3} {#part0035_split_003.html#h1-255 .level1a}
+# [**IV. Beyond All Idols**](#part0004.html#level-255) {#part0035_split_003.html#h1-255 .level1a}
 
 ^38^ Idols are quite specific. But your will is universal, being
 limitless. And so it has no form nor is content for its expression in
@@ -29907,7 +27769,7 @@ reality.
 []{#part0035_split_004.html}
 
 ::: {.body}
-# [**V. The Truth Behind Illusions**](#part0004.html#level-256){.calibre3} {#part0035_split_004.html#h1-256 .level1a}
+# [**V. The Truth Behind Illusions**](#part0004.html#level-256) {#part0035_split_004.html#h1-256 .level1a}
 
 ^49^ You *will* attack what does not satisfy, and thus you will not see
 you made it up. You *always* fight illusions. For the truth behind them
@@ -29997,7 +27859,7 @@ salvation be, except a means to give him to Himself?
 []{#part0035_split_005.html}
 
 ::: {.body}
-# [**VI. The Only Purpose**](#part0004.html#level-257){.calibre3} {#part0035_split_005.html#h1-257 .level1a}
+# [**VI. The Only Purpose**](#part0004.html#level-257) {#part0035_split_005.html#h1-257 .level1a}
 
 ^57^ The real world is the state of mind in which the only purpose of
 the world is seen to be forgiveness. Fear is not its goal, and the
@@ -30111,7 +27973,7 @@ long that it is but their own.
 []{#part0035_split_006.html}
 
 ::: {.body}
-# [**VII. The Justification for Forgiveness**](#part0004.html#level-258){.calibre3} {#part0035_split_006.html#h1-258 .level1a}
+# [**VII. The Justification for Forgiveness**](#part0004.html#level-258) {#part0035_split_006.html#h1-258 .level1a}
 
 ^70^ Anger is *never* justified. Attack has *no* foundation. It is here
 escape from fear begins and will be made complete. Here is the real
@@ -30223,7 +28085,7 @@ salvation and deliverance?
 []{#part0035_split_007.html}
 
 ::: {.body}
-# [**VIII. The New Interpretation**](#part0004.html#level-259){.calibre3} {#part0035_split_007.html#h1-259 .level1a}
+# [**VIII. The New Interpretation**](#part0004.html#level-259) {#part0035_split_007.html#h1-259 .level1a}
 
 ^82^ Would God have left the meaning of the world to your
 interpretation? If He had, it *has* no meaning. For it cannot be that
@@ -30307,7 +28169,7 @@ to us all, and thus we can communicate again.
 []{#part0035_split_008.html}
 
 ::: {.body}
-# [**IX. Changeless Reality**](#part0004.html#level-260){.calibre3} {#part0035_split_008.html#h1-260 .level1a}
+# [**IX. Changeless Reality**](#part0004.html#level-260) {#part0035_split_008.html#h1-260 .level1a}
 
 ^89^ Appearances deceive but can be changed. Reality is changeless. It
 does not deceive at all, and if you fail to see beyond appearances, you
@@ -30380,11 +28242,11 @@ made free of guilt, for his appearance *is* your own to you.
 []{#part0036_split_000.html}
 
 ::: {.body}
-# [**Chapter 31**](#part0004.html#chap-31){.calibre3} {#part0036_split_000.html#calibre_pb_0 .chapter-number}
+# [**Chapter 31**](#part0004.html#chap-31) {#part0036_split_000.html#calibre_pb_0 .chapter-number}
 
-# [**The Simplicity of Salvation**](#part0004.html#chap-31){.calibre3} {.chapter-title}
+# [**The Simplicity of Salvation**](#part0004.html#chap-31) {.chapter-title}
 
-# [**I. Introduction**](#part0004.html#level-261){.calibre3} {#part0036_split_000.html#h1-261 .level1a1}
+# [**I. Introduction**](#part0004.html#level-261) {#part0036_split_000.html#h1-261 .level1a1}
 
 ^31:1^ How simple is salvation! All it says is what was never true is
 not true now and never will be. The impossible has not occurred and can
@@ -30520,7 +28382,7 @@ learning passed away and left a place for truth to be reborn.
 []{#part0036_split_001.html}
 
 ::: {.body}
-# [**II. The Illusion of an Enemy**](#part0004.html#level-262){.calibre3} {#part0036_split_001.html#h1-262 .level1a}
+# [**II. The Illusion of an Enemy**](#part0004.html#level-262) {#part0036_split_001.html#h1-262 .level1a}
 
 ^13^ An ancient lesson is not overcome by the opposing of the new and
 old. It is not vanquished that the truth be known nor fought against to
@@ -30644,7 +28506,7 @@ you *has* the light.
 []{#part0036_split_002.html}
 
 ::: {.body}
-# [**III. The Self-Accused**](#part0004.html#level-263){.calibre3} {#part0036_split_002.html#h1-263 .level1a}
+# [**III. The Self-Accused**](#part0004.html#level-263) {#part0036_split_002.html#h1-263 .level1a}
 
 ^26^ Only the self-accused condemn. As you prepare to make a choice that
 will result in different outcomes, there is first one thing that must be
@@ -30719,7 +28581,7 @@ be asked; there *is* no sacrifice that can be made.
 []{#part0036_split_003.html}
 
 ::: {.body}
-# [**IV. The Real Alternative**](#part0004.html#level-264){.calibre3} {#part0036_split_003.html#h1-264 .level1a}
+# [**IV. The Real Alternative**](#part0004.html#level-264) {#part0036_split_003.html#h1-264 .level1a}
 
 ^33^ There is a tendency to think the world can offer consolation and
 escape from problems which its purpose is to *keep*. Why should this be?
@@ -30834,7 +28696,7 @@ There *is* no path that does not lead to Him.
 []{#part0036_split_004.html}
 
 ::: {.body}
-# [**V. Self-Concept versus Self**](#part0004.html#level-265){.calibre3} {#part0036_split_004.html#h1-265 .level1a}
+# [**V. Self-Concept versus Self**](#part0004.html#level-265) {#part0036_split_004.html#h1-265 .level1a}
 
 ^43^ The learning of the world is built upon a concept of the self
 adjusted to the world's reality. It fits it well. For this an image is
@@ -31023,7 +28885,7 @@ or on myself.
 []{#part0036_split_005.html}
 
 ::: {.body}
-# [**VI. Recognizing the Spirit**](#part0004.html#level-266){.calibre3} {#part0036_split_005.html#h1-266 .level1a}
+# [**VI. Recognizing the Spirit**](#part0004.html#level-266) {#part0036_split_005.html#h1-266 .level1a}
 
 ^62^ You see the flesh or recognize the Spirit. There is no compromise
 between the two. If one is real the other must be false, for what is
@@ -31094,7 +28956,7 @@ Itself. And you *are* worthy that your Will be done!
 []{#part0036_split_006.html}
 
 ::: {.body}
-# [**VII. The Savior's Vision**](#part0004.html#level-267){.calibre3} {#part0036_split_006.html#h1-267 .level1a}
+# [**VII. The Savior's Vision**](#part0004.html#level-267) {#part0036_split_006.html#h1-267 .level1a}
 
 ^68^ Learning is change. Salvation does not seek to use a means as yet
 too alien to your thinking to be helpful nor to make the kinds of change
@@ -31263,7 +29125,7 @@ would teach? And what but this is there for you to learn?
 []{#part0036_split_007.html}
 
 ::: {.body}
-# [**VIII. Choose Once Again**](#part0004.html#level-268){.calibre3} {#part0036_split_007.html#h1-268 .level1a}
+# [**VIII. Choose Once Again**](#part0004.html#level-268) {#part0036_split_007.html#h1-268 .level1a}
 
 ^83^ Temptation has one lesson it would teach in all its forms wherever
 it occurs. It would persuade the holy Son of God he is a body, born in
@@ -31391,7 +29253,7 @@ us are One, and we are home, where You would have us be.
 []{#part0037.html}
 
 ::: {.body}
-# [**Workbook For Students**](#part0004.html#section-1){.calibre3} {#part0037.html#calibre_pb_0 .chapter-number}
+# [**Workbook For Students**](#part0004.html#section-1) {#part0037.html#calibre_pb_0 .chapter-number}
 :::
 
 []{#part0038.html}
@@ -31399,13 +29261,13 @@ us are One, and we are home, where You would have us be.
 ::: {.body}
 Workbook For Students
 
-[Part I](#part0004.html#part-1){.calibre3}
+[Part I](#part0004.html#part-1)
 :::
 
 []{#part0039_split_000.html}
 
 ::: {.body}
-# [**Introduction**](#part0004.html#intr-1){.calibre3} {#part0039_split_000.html#calibre_pb_0 .toc-title}
+# [**Introduction**](#part0004.html#intr-1) {#part0039_split_000.html#calibre_pb_0 .toc-title}
 
 ^1^ A theoretical foundation such as the text is necessary as a
 background to make these exercises meaningful. Yet it is the exercises
@@ -31456,7 +29318,7 @@ required.
 []{#part0039_split_001.html}
 
 ::: {.body}
-# [**Lesson 1 Nothing I see in this room \[on this street, from this window, in this place\] means anything**](#part0004.html#level-269){.calibre3} {#part0039_split_001.html#h1-269 .level1}
+# [**Lesson 1 Nothing I see in this room \[on this street, from this window, in this place\] means anything**](#part0004.html#level-269) {#part0039_split_001.html#h1-269 .level1}
 
 ^1^ Now look slowly around you, and practice applying this idea very
 specifically to whatever you see:
@@ -31489,7 +29351,7 @@ like another as far as the application of the idea is concerned.
 []{#part0039_split_002.html}
 
 ::: {.body}
-# [**Lesson 2 I have given everything I see in this room \[on this street, from this window, in this place\] all the meaning that it has for me**](#part0004.html#level-270){.calibre3} {#part0039_split_002.html#h1-270 .level1}
+# [**Lesson 2 I have given everything I see in this room \[on this street, from this window, in this place\] all the meaning that it has for me**](#part0004.html#level-270) {#part0039_split_002.html#h1-270 .level1}
 
 ^1^ The exercises with this idea are the same as those for the first
 one. Begin with the things that are near you, and apply the idea to
@@ -31512,7 +29374,7 @@ particular, but be sure that nothing is specifically excluded.
 []{#part0039_split_003.html}
 
 ::: {.body}
-# [**Lesson 3 I do not understand anything I see in this room \[on this street, from this window, in this place\]**](#part0004.html#level-271){.calibre3} {#part0039_split_003.html#h1-271 .level1}
+# [**Lesson 3 I do not understand anything I see in this room \[on this street, from this window, in this place\]**](#part0004.html#level-271) {#part0039_split_003.html#h1-271 .level1}
 
 ^1^ Apply this idea in the same way as the previous ones, without making
 distinctions of any kind. Whatever you see becomes a proper subject for
@@ -31534,7 +29396,7 @@ therefore equally useful.
 []{#part0039_split_004.html}
 
 ::: {.body}
-# [**Lesson 4 These thoughts do not mean anything. They are like the things I see in this room \[on this street, from this window, in this place\]**](#part0004.html#level-272){.calibre3} {#part0039_split_004.html#h1-272 .level1}
+# [**Lesson 4 These thoughts do not mean anything. They are like the things I see in this room \[on this street, from this window, in this place\]**](#part0004.html#level-272) {#part0039_split_004.html#h1-272 .level1}
 
 ^1^ Unlike the preceding ones, these exercises do not begin with the
 idea for the day. In these practice periods, begin with noting the
@@ -31582,7 +29444,7 @@ four times during the day. We will return to them later.
 []{#part0039_split_005.html}
 
 ::: {.body}
-# [**Lesson 5 I am never upset for the reason I think**](#part0004.html#level-273){.calibre3} {#part0039_split_005.html#h1-273 .level1}
+# [**Lesson 5 I am never upset for the reason I think**](#part0004.html#level-273) {#part0039_split_005.html#h1-273 .level1}
 
 ^1^ This idea, like the preceding one, can be used with any person,
 situation, or event you think is causing you pain. Apply it specifically
@@ -31641,7 +29503,7 @@ I am not depressed about \_\_\_\_ for the reason I think.*
 []{#part0039_split_006.html}
 
 ::: {.body}
-# [**Lesson 6 I am upset because I see something that is not there**](#part0004.html#level-274){.calibre3} {#part0039_split_006.html#h1-274 .level1}
+# [**Lesson 6 I am upset because I see something that is not there**](#part0004.html#level-274) {#part0039_split_006.html#h1-274 .level1}
 
 ^1^ The exercises with this idea are very similar to the preceding ones.
 Again, it is necessary to name both the form of upset (anger, fear,
@@ -31675,7 +29537,7 @@ them all as the same.*
 []{#part0039_split_007.html}
 
 ::: {.body}
-# [**Lesson 7 I see only the past**](#part0004.html#level-275){.calibre3} {#part0039_split_007.html#h1-275 .level1}
+# [**Lesson 7 I see only the past**](#part0004.html#level-275) {#part0039_split_007.html#h1-275 .level1}
 
 ^1^ This idea is particularly difficult to believe at first. Yet it is
 the rationale for all of the preceding ones.
@@ -31728,7 +29590,7 @@ on to the next.
 []{#part0039_split_008.html}
 
 ::: {.body}
-# [**Lesson 8 My mind is preoccupied with past thoughts**](#part0004.html#level-276){.calibre3} {#part0039_split_008.html#h1-276 .level1}
+# [**Lesson 8 My mind is preoccupied with past thoughts**](#part0004.html#level-276) {#part0039_split_008.html#h1-276 .level1}
 
 ^1^ This idea is, of course, the reason why you see only the past. No
 one really sees anything. He sees only his thoughts projected outward.
@@ -31780,7 +29642,7 @@ searching itself.
 []{#part0039_split_009.html}
 
 ::: {.body}
-# [**Lesson 9 I see nothing as it is now**](#part0004.html#level-277){.calibre3} {#part0039_split_009.html#h1-277 .level1}
+# [**Lesson 9 I see nothing as it is now**](#part0004.html#level-277) {#part0039_split_009.html#h1-277 .level1}
 
 ^1^ This idea obviously follows from the two preceding ones. But while
 you may be able to accept it intellectually, it is unlikely that it will
@@ -31822,7 +29684,7 @@ making this distinction. You may be tempted to obscure it.
 []{#part0039_split_010.html}
 
 ::: {.body}
-# [**Lesson 10 My thoughts do not mean anything**](#part0004.html#level-278){.calibre3} {#part0039_split_010.html#h1-278 .level1}
+# [**Lesson 10 My thoughts do not mean anything**](#part0004.html#level-278) {#part0039_split_010.html#h1-278 .level1}
 
 ^1^ This idea applies to all the thoughts of which you are aware or
 become aware in the practice periods. The reason the idea is applicable
@@ -31876,7 +29738,7 @@ that I now believe.*
 []{#part0039_split_011.html}
 
 ::: {.body}
-# [**Lesson 11 My meaningless thoughts are showing me a meaningless world**](#part0004.html#level-279){.calibre3} {#part0039_split_011.html#h1-279 .level1}
+# [**Lesson 11 My meaningless thoughts are showing me a meaningless world**](#part0004.html#level-279) {#part0039_split_011.html#h1-279 .level1}
 
 ^1^ This is the first idea we have had which is related to a major phase
 of the correction process-the reversal of the thinking of the world. It
@@ -31909,7 +29771,7 @@ many as five may be undertaken. More than this is not recommended.
 []{#part0039_split_012.html}
 
 ::: {.body}
-# [**Lesson 12 I am upset because I see a meaningless world**](#part0004.html#level-280){.calibre3} {#part0039_split_012.html#h1-280 .level1}
+# [**Lesson 12 I am upset because I see a meaningless world**](#part0004.html#level-280) {#part0039_split_012.html#h1-280 .level1}
 
 ^1^ The importance of this idea lies in the fact that it contains a
 correction for a major perceptual distortion. You think that what upsets
@@ -31967,7 +29829,7 @@ strain.
 []{#part0039_split_013.html}
 
 ::: {.body}
-# [**Lesson 13 A meaningless world engenders fear**](#part0004.html#level-281){.calibre3} {#part0039_split_013.html#h1-281 .level1}
+# [**Lesson 13 A meaningless world engenders fear**](#part0004.html#level-281) {#part0039_split_013.html#h1-281 .level1}
 
 ^1^ Today's idea is really another form of the preceding one, except
 that it is more specific as to the emotion aroused. Actually, a
@@ -32020,7 +29882,7 @@ suffice at present.
 []{#part0039_split_014.html}
 
 ::: {.body}
-# [**Lesson 14 God did not create a meaningless world**](#part0004.html#level-282){.calibre3} {#part0039_split_014.html#h1-282 .level1}
+# [**Lesson 14 God did not create a meaningless world**](#part0004.html#level-282) {#part0039_split_014.html#h1-282 .level1}
 
 ^1^ The idea for today is, of course, the reason why a meaningless world
 is impossible. What God did not create does not exist. And everything
@@ -32077,7 +29939,7 @@ which is disturbing you\], and so it is not real.*
 []{#part0039_split_015.html}
 
 ::: {.body}
-# [**Lesson 15 My thoughts are images which I have made**](#part0004.html#level-283){.calibre3} {#part0039_split_015.html#h1-283 .level1}
+# [**Lesson 15 My thoughts are images which I have made**](#part0004.html#level-283) {#part0039_split_015.html#h1-283 .level1}
 
 ^1^ It is because the thoughts you think you think appear as images that
 you do not recognize them as nothing. You think you think them, and so
@@ -32122,7 +29984,7 @@ completely comfortable with it, and do not exceed four.
 []{#part0039_split_016.html}
 
 ::: {.body}
-# [**Lesson 16 I have no neutral thoughts**](#part0004.html#level-284){.calibre3} {#part0039_split_016.html#h1-284 .level1}
+# [**Lesson 16 I have no neutral thoughts**](#part0004.html#level-284) {#part0039_split_016.html#h1-284 .level1}
 
 ^1^ The idea for today is a beginning step in dispelling the belief that
 your thoughts have no effect. Everything you see is the result of your
@@ -32174,7 +30036,7 @@ discomfort.
 []{#part0039_split_017.html}
 
 ::: {.body}
-# [**Lesson 17 I see no neutral things**](#part0004.html#level-285){.calibre3} {#part0039_split_017.html#h1-285 .level1}
+# [**Lesson 17 I see no neutral things**](#part0004.html#level-285) {#part0039_split_017.html#h1-285 .level1}
 
 ^1^ This idea is another step in the direction of identifying cause and
 effect as it really operates. You see no neutral things because you have
@@ -32217,7 +30079,7 @@ reduced to less than the minute or so which is otherwise recommended.
 []{#part0039_split_018.html}
 
 ::: {.body}
-# [**Lesson 18 I am not alone in experiencing the effects of my seeing**](#part0004.html#level-286){.calibre3} {#part0039_split_018.html#h1-286 .level1}
+# [**Lesson 18 I am not alone in experiencing the effects of my seeing**](#part0004.html#level-286) {#part0039_split_018.html#h1-286 .level1}
 
 ^1^ The idea for today is another step in learning that the thoughts
 which give rise to what you see are never neutral or unimportant. It
@@ -32245,7 +30107,7 @@ statement:
 []{#part0039_split_019.html}
 
 ::: {.body}
-# [**Lesson 19 I am not alone in experiencing the effects of my thoughts**](#part0004.html#level-287){.calibre3} {#part0039_split_019.html#h1-287 .level1}
+# [**Lesson 19 I am not alone in experiencing the effects of my thoughts**](#part0004.html#level-287) {#part0039_split_019.html#h1-287 .level1}
 
 ^1^ The idea for today is obviously the reason why your seeing does not
 affect you alone. You will notice that at times the ideas related to
@@ -32288,7 +30150,7 @@ involved if necessary. Do not attempt more than four.
 []{#part0039_split_020.html}
 
 ::: {.body}
-# [**Lesson 20 I am determined to see**](#part0004.html#level-288){.calibre3} {#part0039_split_020.html#h1-288 .level1}
+# [**Lesson 20 I am determined to see**](#part0004.html#level-288) {#part0039_split_020.html#h1-288 .level1}
 
 ^1^ We have been quite casual about our practice periods thus far. There
 has been virtually no attempt to direct the time for undertaking them,
@@ -32332,7 +30194,7 @@ the world.
 []{#part0039_split_021.html}
 
 ::: {.body}
-# [**Lesson 21 I am determined to see things differently**](#part0004.html#level-289){.calibre3} {#part0039_split_021.html#h1-289 .level1}
+# [**Lesson 21 I am determined to see things differently**](#part0004.html#level-289) {#part0039_split_021.html#h1-289 .level1}
 
 ^1^ The idea for today is obviously a continuation and extension of the
 preceding one. This time, however, specific mind searching periods are
@@ -32375,7 +30237,7 @@ attribute\] in \_\_\_\_\_ \[name of person\] differently.*
 []{#part0039_split_022.html}
 
 ::: {.body}
-# [**Lesson 22 What I see is a form of vengeance**](#part0004.html#level-290){.calibre3} {#part0039_split_022.html#h1-290 .level1}
+# [**Lesson 22 What I see is a form of vengeance**](#part0004.html#level-290) {#part0039_split_022.html#h1-290 .level1}
 
 ^1^ Today's idea accurately describes the way anyone who holds attack
 thoughts in his mind must see the world. Having projected his anger onto
@@ -32410,7 +30272,7 @@ What I see is a form of vengeance.*
 []{#part0039_split_023.html}
 
 ::: {.body}
-# [**Lesson 23 I can escape from the world I see by giving up attack thoughts**](#part0004.html#level-291){.calibre3} {#part0039_split_023.html#h1-291 .level1}
+# [**Lesson 23 I can escape from the world I see by giving up attack thoughts**](#part0004.html#level-291) {#part0039_split_023.html#h1-291 .level1}
 
 ^1^ The idea for today contains the only way out of fear that will ever
 succeed. Nothing else will work; everything else is meaningless. But
@@ -32471,7 +30333,7 @@ go.
 []{#part0039_split_024.html}
 
 ::: {.body}
-# [**Lesson 24 I do not perceive my own best interests**](#part0004.html#level-292){.calibre3} {#part0039_split_024.html#h1-292 .level1}
+# [**Lesson 24 I do not perceive my own best interests**](#part0004.html#level-292) {#part0039_split_024.html#h1-292 .level1}
 
 ^1^ In no situation which arises do you realize the outcome that would
 make you happy. Therefore you have no guide to appropriate action, and
@@ -32529,7 +30391,7 @@ each unresolved situation that crosses your mind, say to yourself:
 []{#part0039_split_025.html}
 
 ::: {.body}
-# [**Lesson 25 I do not know what anything is for**](#part0004.html#level-293){.calibre3} {#part0039_split_025.html#h1-293 .level1}
+# [**Lesson 25 I do not know what anything is for**](#part0004.html#level-293) {#part0039_split_025.html#h1-293 .level1}
 
 ^1^ Purpose is meaning. Today's idea explains why nothing you see means
 anything. You do not know what it is for. Therefore it is meaningless to
@@ -32584,7 +30446,7 @@ today's idea as before.
 []{#part0039_split_026.html}
 
 ::: {.body}
-# [**Lesson 26 My attack thoughts are attacking my invulnerability**](#part0004.html#level-294){.calibre3} {#part0039_split_026.html#h1-294 .level1}
+# [**Lesson 26 My attack thoughts are attacking my invulnerability**](#part0004.html#level-294) {#part0039_split_026.html#h1-294 .level1}
 
 ^1^ It is surely obvious that if you can be attacked, you are not
 invulnerable. You see attack as a real threat. That is because you
@@ -32658,7 +30520,7 @@ yourself:
 []{#part0039_split_027.html}
 
 ::: {.body}
-# [**Lesson 27 Above all else I want to see**](#part0004.html#level-295){.calibre3} {#part0039_split_027.html#h1-295 .level1}
+# [**Lesson 27 Above all else I want to see**](#part0004.html#level-295) {#part0039_split_027.html#h1-295 .level1}
 
 ^1^ Today's idea expresses something stronger than mere determination.
 It gives vision priority among your desires. You may feel hesitant about
@@ -32697,7 +30559,7 @@ can be sure that you have saved yourself many years of effort.
 []{#part0039_split_028.html}
 
 ::: {.body}
-# [**Lesson 28 Above all else, I want to see things differently**](#part0004.html#level-296){.calibre3} {#part0039_split_028.html#h1-296 .level1}
+# [**Lesson 28 Above all else, I want to see things differently**](#part0004.html#level-296) {#part0039_split_028.html#h1-296 .level1}
 
 ^1^ Today we are really giving specific application to the idea for
 yesterday. In these practice periods, you will be making a series of
@@ -32763,7 +30625,7 @@ possible. There is no hurry.
 []{#part0039_split_029.html}
 
 ::: {.body}
-# [**Lesson 29 God is in everything I see**](#part0004.html#level-297){.calibre3} {#part0039_split_029.html#h1-297 .level1}
+# [**Lesson 29 God is in everything I see**](#part0004.html#level-297) {#part0039_split_029.html#h1-297 .level1}
 
 ^1^ The idea for today explains why you can see all purpose in anything.
 It explains why nothing is separate, by itself or in itself. And it
@@ -32814,7 +30676,7 @@ experience a sense of restfulness as you do this.
 []{#part0039_split_030.html}
 
 ::: {.body}
-# [**Lesson 30 God is in everything I see, because God is in my mind**](#part0004.html#level-298){.calibre3} {#part0039_split_030.html#h1-298 .level1}
+# [**Lesson 30 God is in everything I see, because God is in my mind**](#part0004.html#level-298) {#part0039_split_030.html#h1-298 .level1}
 
 ^1^ The idea for today is the springboard for vision. From this idea
 will the world open up before you, and you will look upon it and see in
@@ -32850,7 +30712,7 @@ rather than without. Today's idea applies equally to both.
 []{#part0039_split_031.html}
 
 ::: {.body}
-# [**Lesson 31 I am not the victim of the world I see**](#part0004.html#level-299){.calibre3} {#part0039_split_031.html#h1-299 .level1}
+# [**Lesson 31 I am not the victim of the world I see**](#part0004.html#level-299) {#part0039_split_031.html#h1-299 .level1}
 
 ^1^ Today's idea is the introduction to your declaration of release.
 Again, the idea should be applied to both the world you see without and
@@ -32889,7 +30751,7 @@ to it and put yourself in bondage.
 []{#part0039_split_032.html}
 
 ::: {.body}
-# [**Lesson 32 I have invented the world I see**](#part0004.html#level-300){.calibre3} {#part0039_split_032.html#h1-300 .level1}
+# [**Lesson 32 I have invented the world I see**](#part0004.html#level-300) {#part0039_split_032.html#h1-300 .level1}
 
 ^1^ Today we are continuing to develop the theme of cause and effect.
 You are not the victim of the world you see because you invented it. You
@@ -32931,7 +30793,7 @@ situation which may distress you. Apply the idea by telling yourself:
 []{#part0039_split_033.html}
 
 ::: {.body}
-# [**Lesson 33 There is another way of looking at the world**](#part0004.html#level-301){.calibre3} {#part0039_split_033.html#h1-301 .level1}
+# [**Lesson 33 There is another way of looking at the world**](#part0004.html#level-301) {#part0039_split_033.html#h1-301 .level1}
 
 ^1^ Today's idea is an attempt to recognize that you can shift your
 perception of the world in both its outer and inner aspects. A full five
@@ -32962,7 +30824,7 @@ probably help in this form of application.
 []{#part0039_split_034.html}
 
 ::: {.body}
-# [**Lesson 34 I could see peace instead of this**](#part0004.html#level-302){.calibre3} {#part0039_split_034.html#h1-302 .level1}
+# [**Lesson 34 I could see peace instead of this**](#part0004.html#level-302) {#part0039_split_034.html#h1-302 .level1}
 
 ^1^ The idea for today begins to describe the conditions that prevail in
 the other way of seeing. Peace of mind is clearly an internal matter. It
@@ -33016,7 +30878,7 @@ personality, or event\] with peace.
 []{#part0039_split_035.html}
 
 ::: {.body}
-# [**Lesson 35 My mind is part of God's. I am very holy**](#part0004.html#level-303){.calibre3} {#part0039_split_035.html#h1-303 .level1}
+# [**Lesson 35 My mind is part of God's. I am very holy**](#part0004.html#level-303) {#part0039_split_035.html#h1-303 .level1}
 
 ^1^ Today's idea does not describe the way you see yourself now. It
 does, however, describe what vision will show you. It is difficult for
@@ -33092,7 +30954,7 @@ idea to yourself with closed eyes.
 []{#part0039_split_036.html}
 
 ::: {.body}
-# [**Lesson 36 My holiness envelops everything I see**](#part0004.html#level-304){.calibre3} {#part0039_split_036.html#h1-304 .level1}
+# [**Lesson 36 My holiness envelops everything I see**](#part0004.html#level-304) {#part0039_split_036.html#h1-304 .level1}
 
 ^1^ Today's idea extends the idea for yesterday from the perceiver to
 the perceived. You are holy because your mind is part of God's. And
@@ -33131,7 +30993,7 @@ made quite slowly, as effortlessly and unhurriedly as possible.
 []{#part0039_split_037.html}
 
 ::: {.body}
-# [**Lesson 37 My holiness blesses the world**](#part0004.html#level-305){.calibre3} {#part0039_split_037.html#h1-305 .level1}
+# [**Lesson 37 My holiness blesses the world**](#part0004.html#level-305) {#part0039_split_037.html#h1-305 .level1}
 
 ^1^ This idea contains the first glimmerings of your true function in
 the world or why you are here. Your purpose is to see the world through
@@ -33187,7 +31049,7 @@ awareness.
 []{#part0039_split_038.html}
 
 ::: {.body}
-# [**Lesson 38 There is nothing my holiness cannot do**](#part0004.html#level-306){.calibre3} {#part0039_split_038.html#h1-306 .level1}
+# [**Lesson 38 There is nothing my holiness cannot do**](#part0004.html#level-306) {#part0039_split_038.html#h1-306 .level1}
 
 ^1^ Your holiness reverses all the laws of the world. It is beyond every
 restriction of time, space, distance, and limits of any kind. Your
@@ -33243,7 +31105,7 @@ comes to mind. In that event, use the more specific form of application.
 []{#part0039_split_039.html}
 
 ::: {.body}
-# [**Lesson 39 My holiness is my salvation**](#part0004.html#level-307){.calibre3} {#part0039_split_039.html#h1-307 .level1}
+# [**Lesson 39 My holiness is my salvation**](#part0004.html#level-307) {#part0039_split_039.html#h1-307 .level1}
 
 ^1^ If guilt is hell, what is its opposite? Like the text for which this
 workbook was written, the ideas which are used for the exercises are
@@ -33329,7 +31191,7 @@ a particularly helpful form of the idea is:
 []{#part0039_split_040.html}
 
 ::: {.body}
-# [**Lesson 40 I am blessed as a Son of God**](#part0004.html#level-308){.calibre3} {#part0039_split_040.html#h1-308 .level1}
+# [**Lesson 40 I am blessed as a Son of God**](#part0004.html#level-308) {#part0039_split_040.html#h1-308 .level1}
 
 ^1^ Today we will begin to assert some of the happy things to which you
 are entitled, being what you are. No long practice periods are required
@@ -33366,7 +31228,7 @@ you are blessed as a Son of God will do.
 []{#part0039_split_041.html}
 
 ::: {.body}
-# [**Lesson 41 God goes with me wherever I go**](#part0004.html#level-309){.calibre3} {#part0039_split_041.html#h1-309 .level1}
+# [**Lesson 41 God goes with me wherever I go**](#part0004.html#level-309) {#part0039_split_041.html#h1-309 .level1}
 
 ^1^ Today's idea will eventually overcome completely the sense of
 loneliness and abandonment which all the separated ones experience.
@@ -33434,7 +31296,7 @@ God goes with you wherever you go.
 []{#part0039_split_042.html}
 
 ::: {.body}
-# [**Lesson 42 God is my strength. Vision is His gift**](#part0004.html#level-310){.calibre3} {#part0039_split_042.html#h1-310 .level1}
+# [**Lesson 42 God is my strength. Vision is His gift**](#part0004.html#level-310) {#part0039_split_042.html#h1-310 .level1}
 
 ^1^ The idea for today combines two very powerful thoughts, both of
 major importance. It also sets forth a cause and effect relationship
@@ -33498,7 +31360,7 @@ to you, and that you have not forgotten it.
 []{#part0039_split_043.html}
 
 ::: {.body}
-# [**Lesson 43 God is my Source. I cannot see apart from Him**](#part0004.html#level-311){.calibre3} {#part0039_split_043.html#h1-311 .level1}
+# [**Lesson 43 God is my Source. I cannot see apart from Him**](#part0004.html#level-311) {#part0039_split_043.html#h1-311 .level1}
 
 ^1^ Perception is not an attribute of God. His is the realm of
 knowledge. Yet He has created the Holy Spirit as the Mediator between
@@ -33586,7 +31448,7 @@ remembering today's idea and thus remembering your function.
 []{#part0039_split_044.html}
 
 ::: {.body}
-# [**Lesson 44 God is the Light in which I see**](#part0004.html#level-312){.calibre3} {#part0039_split_044.html#h1-312 .level1}
+# [**Lesson 44 God is the Light in which I see**](#part0004.html#level-312) {#part0039_split_044.html#h1-312 .level1}
 
 ^1^ Today we are continuing with the idea for yesterday, adding another
 dimension to it. You cannot see in darkness, and you cannot make light.
@@ -33665,7 +31527,7 @@ determined not to forget today.
 []{#part0039_split_045.html}
 
 ::: {.body}
-# [**Lesson 45 God is the Mind with which I think**](#part0004.html#level-313){.calibre3} {#part0039_split_045.html#h1-313 .level1}
+# [**Lesson 45 God is the Mind with which I think**](#part0004.html#level-313) {#part0039_split_045.html#h1-313 .level1}
 
 ^1^ Today's idea holds the key to what your real thoughts are. They are
 nothing that you think you think, just as nothing that you think you see
@@ -33742,7 +31604,7 @@ you are. And thank Him for the thoughts He is thinking with you.
 []{#part0039_split_046.html}
 
 ::: {.body}
-# [**Lesson 46 God is the Love in which I forgive**](#part0004.html#level-314){.calibre3} {#part0039_split_046.html#h1-314 .level1}
+# [**Lesson 46 God is the Love in which I forgive**](#part0004.html#level-314) {#part0039_split_046.html#h1-314 .level1}
 
 ^1^ God does not forgive because He has never condemned. And there must
 be condemnation before forgiveness is necessary. Forgiveness is the
@@ -33806,7 +31668,7 @@ present or not. In this event, tell him silently,
 []{#part0039_split_047.html}
 
 ::: {.body}
-# [**Lesson 47 God is the Strength in which I trust**](#part0004.html#level-315){.calibre3} {#part0039_split_047.html#h1-315 .level1}
+# [**Lesson 47 God is the Strength in which I trust**](#part0004.html#level-315) {#part0039_split_047.html#h1-315 .level1}
 
 ^1^ If you are trusting your own strength, you have every reason to be
 apprehensive, anxious, and fearful. What can you predict or control?
@@ -33866,7 +31728,7 @@ your trust to the strength of God.
 []{#part0039_split_048.html}
 
 ::: {.body}
-# [**Lesson 48 There is nothing to fear**](#part0004.html#level-316){.calibre3} {#part0039_split_048.html#h1-316 .level1}
+# [**Lesson 48 There is nothing to fear**](#part0004.html#level-316) {#part0039_split_048.html#h1-316 .level1}
 
 ^1^ The idea for today simply states a fact. It is not a fact to those
 who believe in illusions, but illusions are not facts. In truth there is
@@ -33892,7 +31754,7 @@ fear.
 []{#part0039_split_049.html}
 
 ::: {.body}
-# [**Lesson 49 God's Voice speaks to me all through the day**](#part0004.html#level-317){.calibre3} {#part0039_split_049.html#h1-317 .level1}
+# [**Lesson 49 God's Voice speaks to me all through the day**](#part0004.html#level-317) {#part0039_split_049.html#h1-317 .level1}
 
 ^1^ It is quite possible to listen to God's Voice all through the day
 without interrupting your regular activities in any way. The part of
@@ -33934,7 +31796,7 @@ God's Voice to speak to you.
 []{#part0039_split_050.html}
 
 ::: {.body}
-# [**Lesson 50 I am sustained by the Love of God**](#part0004.html#level-318){.calibre3} {#part0039_split_050.html#h1-318 .level1}
+# [**Lesson 50 I am sustained by the Love of God**](#part0004.html#level-318) {#part0039_split_050.html#h1-318 .level1}
 
 ^1^ Here is the answer to every problem that confronts you today and
 tomorrow and throughout time. In this world, you believe you are
@@ -33974,7 +31836,7 @@ Father has placed you forever.
 []{#part0040_split_000.html}
 
 ::: {.body}
-# [**Review I**](#part0004.html#parta-1){.calibre3} {#part0040_split_000.html#calibre_pb_0 .toc-title}
+# [**Review I**](#part0004.html#parta-1) {#part0040_split_000.html#calibre_pb_0 .toc-title}
 
 ^R1:1^ Beginning with today, we will have a series of review periods.
 Each of them will cover five of the ideas already presented, starting
@@ -34023,7 +31885,7 @@ cohesiveness of the thought system to which they are leading you.
 []{#part0040_split_001.html}
 
 ::: {.body}
-# [**Lesson 51**](#part0004.html#level-319){.calibre3} {#part0040_split_001.html#h1-319 .level1}
+# [**Lesson 51**](#part0004.html#level-319) {#part0040_split_001.html#h1-319 .level1}
 
 ^1^ The review for today covers the following ideas:
 
@@ -34080,7 +31942,7 @@ am willing to let it go.
 []{#part0040_split_002.html}
 
 ::: {.body}
-# [**Lesson 52**](#part0004.html#level-320){.calibre3} {#part0040_split_002.html#h1-320 .level1}
+# [**Lesson 52**](#part0004.html#level-320) {#part0040_split_002.html#h1-320 .level1}
 
 ^1^ Today's review covers these ideas:
 
@@ -34132,7 +31994,7 @@ that is really mine with my pitiful and meaningless "private" thoughts?
 []{#part0040_split_003.html}
 
 ::: {.body}
-# [**Lesson 53**](#part0004.html#level-321){.calibre3} {#part0040_split_003.html#h1-321 .level1}
+# [**Lesson 53**](#part0004.html#level-321) {#part0040_split_003.html#h1-321 .level1}
 
 ^1^ Today we will review the following:
 
@@ -34189,7 +32051,7 @@ gods before Him.
 []{#part0040_split_004.html}
 
 ::: {.body}
-# [**Lesson 54**](#part0004.html#level-322){.calibre3} {#part0040_split_004.html#h1-322 .level1}
+# [**Lesson 54**](#part0004.html#level-322) {#part0040_split_004.html#h1-322 .level1}
 
 ^1^ These are the review ideas for today:
 
@@ -34241,7 +32103,7 @@ world, and let it teach me that my will and the Will of God are one.
 []{#part0040_split_005.html}
 
 ::: {.body}
-# [**Lesson 55**](#part0004.html#level-323){.calibre3} {#part0040_split_005.html#h1-323 .level1}
+# [**Lesson 55**](#part0004.html#level-323) {#part0040_split_005.html#h1-323 .level1}
 
 ^1^ Today's review includes the following:
 
@@ -34294,7 +32156,7 @@ about it.
 []{#part0040_split_006.html}
 
 ::: {.body}
-# [**Lesson 56**](#part0004.html#level-324){.calibre3} {#part0040_split_006.html#h1-324 .level1}
+# [**Lesson 56**](#part0004.html#level-324) {#part0040_split_006.html#h1-324 .level1}
 
 ^1^ Our review for today covers the following:
 
@@ -34347,7 +32209,7 @@ among them, am one with them and one with Him.
 []{#part0040_split_007.html}
 
 ::: {.body}
-# [**Lesson 57**](#part0004.html#level-325){.calibre3} {#part0040_split_007.html#h1-325 .level1}
+# [**Lesson 57**](#part0004.html#level-325) {#part0040_split_007.html#h1-325 .level1}
 
 ^1^ Today let us review these ideas:
 
@@ -34401,7 +32263,7 @@ living things including myself, and their oneness with me.
 []{#part0040_split_008.html}
 
 ::: {.body}
-# [**Lesson 58**](#part0004.html#level-326){.calibre3} {#part0040_split_008.html#h1-326 .level1}
+# [**Lesson 58**](#part0004.html#level-326) {#part0040_split_008.html#h1-326 .level1}
 
 ^1^ These ideas are for review today:
 
@@ -34453,7 +32315,7 @@ Son.
 []{#part0040_split_009.html}
 
 ::: {.body}
-# [**Lesson 59**](#part0004.html#level-327){.calibre3} {#part0040_split_009.html#h1-327 .level1}
+# [**Lesson 59**](#part0004.html#level-327) {#part0040_split_009.html#h1-327 .level1}
 
 ^1^ The following ideas are for review today:
 
@@ -34502,7 +32364,7 @@ thoughts are His and His Thoughts are mine.
 []{#part0040_split_010.html}
 
 ::: {.body}
-# [**Lesson 60**](#part0004.html#level-328){.calibre3} {#part0040_split_010.html#h1-328 .level1}
+# [**Lesson 60**](#part0004.html#level-328) {#part0040_split_010.html#h1-328 .level1}
 
 ^1^ These ideas are for today's review:
 
@@ -34553,7 +32415,7 @@ the vision He has given me, I remember that I am His Son.
 []{#part0040_split_011.html}
 
 ::: {.body}
-# [**Lesson 61 I am the light of the world**](#part0004.html#level-329){.calibre3} {#part0040_split_011.html#h1-329 .level1}
+# [**Lesson 61 I am the light of the world**](#part0004.html#level-329) {#part0040_split_011.html#h1-329 .level1}
 
 ^1^ Who is the light of the world except God's Son? This, then, is
 merely a statement of the truth about yourself. It is the opposite of a
@@ -34615,7 +32477,7 @@ salvation of His Son on you
 []{#part0040_split_012.html}
 
 ::: {.body}
-# [**Lesson 62 Forgiveness is my function as the light of the world**](#part0004.html#level-330){.calibre3} {#part0040_split_012.html#h1-330 .level1}
+# [**Lesson 62 Forgiveness is my function as the light of the world**](#part0004.html#level-330) {#part0040_split_012.html#h1-330 .level1}
 
 ^1^ It is your forgiveness that will bring the world of darkness to the
 light. It is your forgiveness that lets you recognize the light in which
@@ -34661,7 +32523,7 @@ Should your attention wander, repeat the idea and add:
 []{#part0040_split_013.html}
 
 ::: {.body}
-# [**Lesson 63 The light of the world brings peace to every mind through my forgiveness**](#part0004.html#level-331){.calibre3} {#part0040_split_013.html#h1-331 .level1}
+# [**Lesson 63 The light of the world brings peace to every mind through my forgiveness**](#part0004.html#level-331) {#part0040_split_013.html#h1-331 .level1}
 
 ^1^ How holy are you who have the power to bring peace to every mind!
 How blessed are you who can learn to recognize the means for letting
@@ -34696,7 +32558,7 @@ your Self must be His Son?
 []{#part0040_split_014.html}
 
 ::: {.body}
-# [**Lesson 64 Let me not forget my function**](#part0004.html#level-332){.calibre3} {#part0040_split_014.html#h1-332 .level1}
+# [**Lesson 64 Let me not forget my function**](#part0004.html#level-332) {#part0040_split_014.html#h1-332 .level1}
 
 ^1^ Today's idea is merely another way of saying, "Let me not wander
 into temptation." The purpose of the world you see is to obscure your
@@ -34767,7 +32629,7 @@ telling yourself:
 []{#part0040_split_015.html}
 
 ::: {.body}
-# [**Lesson 65 My only function is the one God gave me**](#part0004.html#level-333){.calibre3} {#part0040_split_015.html#h1-333 .level1}
+# [**Lesson 65 My only function is the one God gave me**](#part0004.html#level-333) {#part0040_split_015.html#h1-333 .level1}
 
 ^1^ The idea for today reaffirms your commitment to salvation. It also
 reminds you that you have no function other than this. Both of these
@@ -34842,7 +32704,7 @@ changed when you accept today's idea completely.
 []{#part0040_split_016.html}
 
 ::: {.body}
-# [**Lesson 66 My happiness and my function are one**](#part0004.html#level-334){.calibre3} {#part0040_split_016.html#h1-334 .level1}
+# [**Lesson 66 My happiness and my function are one**](#part0004.html#level-334) {#part0040_split_016.html#h1-334 .level1}
 
 ^1^ You have surely noticed an emphasis throughout our recent lessons on
 the connection between fulfilling your function and achieving happiness.
@@ -34937,7 +32799,7 @@ these words slowly and think about them a little as you say them.
 []{#part0040_split_017.html}
 
 ::: {.body}
-# [**Lesson 67 Love created me like Itself**](#part0004.html#level-335){.calibre3} {#part0040_split_017.html#h1-335 .level1}
+# [**Lesson 67 Love created me like Itself**](#part0004.html#level-335) {#part0040_split_017.html#h1-335 .level1}
 
 ^1^ Today's idea is a complete and accurate statement of what you are.
 This is why you are the light of the world. This is why God appointed
@@ -34994,7 +32856,7 @@ Itself.
 []{#part0040_split_018.html}
 
 ::: {.body}
-# [**Lesson 68 Love holds no grievances**](#part0004.html#level-336){.calibre3} {#part0040_split_018.html#h1-336 .level1}
+# [**Lesson 68 Love holds no grievances**](#part0004.html#level-336) {#part0040_split_018.html#h1-336 .level1}
 
 ^1^ You who were created by Love like Itself can hold no grievances and
 know your Self. To hold a grievance is to forget who you are. To hold a
@@ -35071,7 +32933,7 @@ grievances aside and wakening in Him.*
 []{#part0040_split_019.html}
 
 ::: {.body}
-# [**Lesson 69 My grievances hide the light of the world in me**](#part0004.html#level-337){.calibre3} {#part0040_split_019.html#h1-337 .level1}
+# [**Lesson 69 My grievances hide the light of the world in me**](#part0004.html#level-337) {#part0040_split_019.html#h1-337 .level1}
 
 ^1^ No one can look upon what your grievances conceal. Because your
 grievances are hiding the light of the world in you, everyone stands in
@@ -35155,7 +33017,7 @@ will be hidden from me,*
 []{#part0040_split_020.html}
 
 ::: {.body}
-# [**Lesson 70 My salvation comes from me**](#part0004.html#level-338){.calibre3} {#part0040_split_020.html#h1-338 .level1}
+# [**Lesson 70 My salvation comes from me**](#part0004.html#level-338) {#part0040_split_020.html#h1-338 .level1}
 
 ^1^ All temptation is nothing more than some form of the basic
 temptation not to believe the idea for today. Salvation seems to come
@@ -35246,7 +33108,7 @@ Within me is the world's salvation and my own**.***
 []{#part0040_split_021.html}
 
 ::: {.body}
-# [**Lesson 71 Only God's plan for salvation will work**](#part0004.html#level-339){.calibre3} {#part0040_split_021.html#h1-339 .level1}
+# [**Lesson 71 Only God's plan for salvation will work**](#part0004.html#level-339) {#part0040_split_021.html#h1-339 .level1}
 
 ^1^ You may not realize that the ego has set up a plan for salvation in
 opposition to God's. It is this plan in which you believe. Since it is
@@ -35339,7 +33201,7 @@ remember the Source of your salvation, and to see It where It is.
 []{#part0040_split_022.html}
 
 ::: {.body}
-# [**Lesson 72 Holding grievances is an attack on God's plan for salvation**](#part0004.html#level-340){.calibre3} {#part0040_split_022.html#h1-340 .level1}
+# [**Lesson 72 Holding grievances is an attack on God's plan for salvation**](#part0004.html#level-340) {#part0040_split_022.html#h1-340 .level1}
 
 ^1^ While we have recognized that the ego's plan for salvation is the
 opposite of God's, we have not yet emphasized that it is an active
@@ -35458,7 +33320,7 @@ closed, and listen for His answer.
 []{#part0040_split_023.html}
 
 ::: {.body}
-# [**Lesson 73 I will there be light**](#part0004.html#level-341){.calibre3} {#part0040_split_023.html#h1-341 .level1}
+# [**Lesson 73 I will there be light**](#part0004.html#level-341) {#part0040_split_023.html#h1-341 .level1}
 
 ^1^ Today we are considering the will you share with God. This is not
 the same as the ego's idle wishes, out of which darkness and nothingness
@@ -35558,7 +33420,7 @@ darkness.
 []{#part0040_split_024.html}
 
 ::: {.body}
-# [**Lesson 74 There is no will but God's**](#part0004.html#level-342){.calibre3} {#part0040_split_024.html#h1-342 .level1}
+# [**Lesson 74 There is no will but God's**](#part0004.html#level-342) {#part0040_split_024.html#h1-342 .level1}
 
 ^1^ The idea for today can be regarded as the central thought toward
 which all our exercises are directed. God's is the only will. When you
@@ -35630,7 +33492,7 @@ today.
 []{#part0040_split_025.html}
 
 ::: {.body}
-# [**Lesson 75 The light has come**](#part0004.html#level-343){.calibre3} {#part0040_split_025.html#h1-343 .level1}
+# [**Lesson 75 The light has come**](#part0004.html#level-343) {#part0040_split_025.html#h1-343 .level1}
 
 ^1^ The light has come. You are healed and you can heal. The light has
 come. You are saved, and you can save. You are at peace, and you bring
@@ -35684,7 +33546,7 @@ forgiven the world.
 []{#part0040_split_026.html}
 
 ::: {.body}
-# [**Lesson 76 I am under no laws but God's**](#part0004.html#level-344){.calibre3} {#part0040_split_026.html#h1-344 .level1}
+# [**Lesson 76 I am under no laws but God's**](#part0004.html#level-344) {#part0040_split_026.html#h1-344 .level1}
 
 ^1^ We have observed before how many senseless things have seemed to you
 to be salvation. Each has imprisoned you with laws as senseless as
@@ -35776,7 +33638,7 @@ acknowledgment that God is our Father, and that His Son is saved.
 []{#part0040_split_027.html}
 
 ::: {.body}
-# [**Lesson 77 I am entitled to miracles**](#part0004.html#level-345){.calibre3} {#part0040_split_027.html#h1-345 .level1}
+# [**Lesson 77 I am entitled to miracles**](#part0004.html#level-345) {#part0040_split_027.html#h1-345 .level1}
 
 ^1^ You are entitled to miracles because of what you are. You will
 receive miracles because of what God is. And you will offer miracles
@@ -35839,7 +33701,7 @@ God has established miracles as my right.*
 []{#part0040_split_028.html}
 
 ::: {.body}
-# [**Lesson 78 Let miracles replace all grievances**](#part0004.html#level-346){.calibre3} {#part0040_split_028.html#h1-346 .level1}
+# [**Lesson 78 Let miracles replace all grievances**](#part0004.html#level-346) {#part0040_split_028.html#h1-346 .level1}
 
 ^1^ Perhaps it is not yet quite clear to you that each decision that you
 make is one between a grievance and a miracle. Each grievance stands
@@ -35925,7 +33787,7 @@ ones as well, we pray:
 []{#part0040_split_029.html}
 
 ::: {.body}
-# [**Lesson 79 Let me recognize the problem so it can be solved**](#part0004.html#level-347){.calibre3} {#part0040_split_029.html#h1-347 .level1}
+# [**Lesson 79 Let me recognize the problem so it can be solved**](#part0004.html#level-347) {#part0040_split_029.html#h1-347 .level1}
 
 ^1^ A problem cannot be solved if you do not know what it is. Even if it
 is really solved already, you will still have the problem because you
@@ -36004,7 +33866,7 @@ heard and you will be answered.
 []{#part0040_split_030.html}
 
 ::: {.body}
-# [**Lesson 80 Let me recognize my problems have been solved**](#part0004.html#level-348){.calibre3} {#part0040_split_030.html#h1-348 .level1}
+# [**Lesson 80 Let me recognize my problems have been solved**](#part0004.html#level-348) {#part0040_split_030.html#h1-348 .level1}
 
 ^1^ If you are willing to recognize your problems, you will recognize
 that you have no problems. Your one central problem has been answered,
@@ -36058,7 +33920,7 @@ recognize it has been solved.
 []{#part0041_split_000.html}
 
 ::: {.body}
-# [**Review II**](#part0004.html#parta-2){.calibre3} {#part0041_split_000.html#calibre_pb_0 .toc-title}
+# [**Review II**](#part0004.html#parta-2) {#part0041_split_000.html#calibre_pb_0 .toc-title}
 
 ^R2:1^ We are now ready for another review. We will begin where our last
 review left off and cover two ideas each day. The earlier part of each
@@ -36097,7 +33959,7 @@ particular words you use that matter.
 []{#part0041_split_001.html}
 
 ::: {.body}
-# [**Lesson 81**](#part0004.html#level-349){.calibre3} {#part0041_split_001.html#h1-349 .level1}
+# [**Lesson 81**](#part0004.html#level-349) {#part0041_split_001.html#h1-349 .level1}
 
 ^1^ Our ideas for review today are:
 
@@ -36134,7 +33996,7 @@ I would not use this for an alien purpose.*
 []{#part0041_split_002.html}
 
 ::: {.body}
-# [**Lesson 82**](#part0004.html#level-350){.calibre3} {#part0041_split_002.html#h1-350 .level1}
+# [**Lesson 82**](#part0004.html#level-350) {#part0041_split_002.html#h1-350 .level1}
 
 ^1^ We will review these ideas today:
 
@@ -36173,7 +34035,7 @@ This may threaten my ego but cannot change my function in any way**.***
 []{#part0041_split_003.html}
 
 ::: {.body}
-# [**Lesson 83**](#part0004.html#level-351){.calibre3} {#part0041_split_003.html#h1-351 .level1}
+# [**Lesson 83**](#part0004.html#level-351) {#part0041_split_003.html#h1-351 .level1}
 
 ^1^ Today let us review these ideas:
 
@@ -36212,7 +34074,7 @@ apart from my function.*
 []{#part0041_split_004.html}
 
 ::: {.body}
-# [**Lesson 84**](#part0004.html#level-352){.calibre3} {#part0041_split_004.html#h1-352 .level1}
+# [**Lesson 84**](#part0004.html#level-352) {#part0041_split_004.html#h1-352 .level1}
 
 ^1^ These are the ideas for today's review:
 
@@ -36249,7 +34111,7 @@ Let this not tempt me to attack myself.*
 []{#part0041_split_005.html}
 
 ::: {.body}
-# [**Lesson 85**](#part0004.html#level-353){.calibre3} {#part0041_split_005.html#h1-353 .level1}
+# [**Lesson 85**](#part0004.html#level-353) {#part0041_split_005.html#h1-353 .level1}
 
 ^1^ Today's review will cover these ideas:
 
@@ -36290,7 +34152,7 @@ This has no power to remove salvation from me.*
 []{#part0041_split_006.html}
 
 ::: {.body}
-# [**Lesson 86**](#part0004.html#level-354){.calibre3} {#part0041_split_006.html#h1-354 .level1}
+# [**Lesson 86**](#part0004.html#level-354) {#part0041_split_006.html#h1-354 .level1}
 
 ^1^ These ideas are for review today:
 
@@ -36330,7 +34192,7 @@ not attack.*
 []{#part0041_split_007.html}
 
 ::: {.body}
-# [**Lesson 87**](#part0004.html#level-355){.calibre3} {#part0041_split_007.html#h1-355 .level1}
+# [**Lesson 87**](#part0004.html#level-355) {#part0041_split_007.html#h1-355 .level1}
 
 ^1^ Our review today will cover these ideas:
 
@@ -36368,7 +34230,7 @@ This is part of God's Will for me, however I may see it.*
 []{#part0041_split_008.html}
 
 ::: {.body}
-# [**Lesson 88**](#part0004.html#level-356){.calibre3} {#part0041_split_008.html#h1-356 .level1}
+# [**Lesson 88**](#part0004.html#level-356) {#part0041_split_008.html#h1-356 .level1}
 
 ^1^ Today we will review these ideas:
 
@@ -36409,7 +34271,7 @@ Let me allow God's laws to work in this and not my own.*
 []{#part0041_split_009.html}
 
 ::: {.body}
-# [**Lesson 89**](#part0004.html#level-357){.calibre3} {#part0041_split_009.html#h1-357 .level1}
+# [**Lesson 89**](#part0004.html#level-357) {#part0041_split_009.html#h1-357 .level1}
 
 ^1^ These are our review ideas for today:
 
@@ -36451,7 +34313,7 @@ Beyond this is the miracle by which all my grievances are replaced.*
 []{#part0041_split_010.html}
 
 ::: {.body}
-# [**Lesson 90**](#part0004.html#level-358){.calibre3} {#part0041_split_010.html#h1-358 .level1}
+# [**Lesson 90**](#part0004.html#level-358) {#part0041_split_010.html#h1-358 .level1}
 
 ^1^ For this review we will use these ideas:
 
@@ -36495,7 +34357,7 @@ Time cannot separate this problem from its solution.*
 []{#part0041_split_011.html}
 
 ::: {.body}
-# [**Lesson 91 Miracles are seen in light**](#part0004.html#level-359){.calibre3} {#part0041_split_011.html#h1-359 .level1}
+# [**Lesson 91 Miracles are seen in light**](#part0004.html#level-359) {#part0041_split_011.html#h1-359 .level1}
 
 ^1^ It is important to remember that miracles and vision necessarily go
 together. This needs repeating and frequent repeating. It is a central
@@ -36596,7 +34458,7 @@ this.*
 []{#part0041_split_012.html}
 
 ::: {.body}
-# [**Lesson 92 Miracles are seen in light, and light and strength are one**](#part0004.html#level-360){.calibre3} {#part0041_split_012.html#h1-360 .level1}
+# [**Lesson 92 Miracles are seen in light, and light and strength are one**](#part0004.html#level-360) {#part0041_split_012.html#h1-360 .level1}
 
 ^1^ The idea for today is an extension of the previous one. You do not
 think of light in terms of strength and darkness in terms of weakness.
@@ -36684,7 +34546,7 @@ only miracles can be perceived.
 []{#part0041_split_013.html}
 
 ::: {.body}
-# [**Lesson 93 Light and joy and peace abide in me**](#part0004.html#level-361){.calibre3} {#part0041_split_013.html#h1-361 .level1}
+# [**Lesson 93 Light and joy and peace abide in me**](#part0004.html#level-361) {#part0041_split_013.html#h1-361 .level1}
 
 ^1^ You think you are the home of evil, darkness, and sin. You think if
 anyone could see the truth about you he would be repelled, recoiling
@@ -36781,7 +34643,7 @@ your mind that the idea for the day is true indeed.
 []{#part0041_split_014.html}
 
 ::: {.body}
-# [**Lesson 94 I am as God created me**](#part0004.html#level-362){.calibre3} {#part0041_split_014.html#h1-362 .level1}
+# [**Lesson 94 I am as God created me**](#part0004.html#level-362) {#part0041_split_014.html#h1-362 .level1}
 
 ^1^ Today we continue with the one idea which brings complete salvation;
 the one statement which makes all forms of temptation powerless; the one
@@ -36838,7 +34700,7 @@ the thought system which this course sets forth.
 []{#part0041_split_015.html}
 
 ::: {.body}
-# [**Lesson 95 I am One Self, united with my Creator**](#part0004.html#level-363){.calibre3} {#part0041_split_015.html#h1-363 .level1}
+# [**Lesson 95 I am One Self, united with my Creator**](#part0004.html#level-363) {#part0041_split_015.html#h1-363 .level1}
 
 ^1^ Today's idea accurately describes you as God created you. You are
 one within yourself and one with Him. Yours is the unity of all
@@ -36972,7 +34834,7 @@ And what He is, Who loves us both as one.*
 []{#part0041_split_016.html}
 
 ::: {.body}
-# [**Lesson 96 Salvation comes from my One Self**](#part0004.html#level-364){.calibre3} {#part0041_split_016.html#h1-364 .level1}
+# [**Lesson 96 Salvation comes from my One Self**](#part0004.html#level-364) {#part0041_split_016.html#h1-364 .level1}
 
 ^1^ Although you are One Self, you experience yourself as two-as both
 good and evil, loving and hating, mind and body. This sense of being
@@ -37072,7 +34934,7 @@ then, how much is given unto you to give this day, that it be given you!
 []{#part0041_split_017.html}
 
 ::: {.body}
-# [**Lesson 97 I am Spirit**](#part0004.html#level-365){.calibre3} {#part0041_split_017.html#h1-365 .level1}
+# [**Lesson 97 I am Spirit**](#part0004.html#level-365) {#part0041_split_017.html#h1-365 .level1}
 
 ^1^ Today's idea identifies you with your One Self. It accepts no split
 identity, nor tries to weave opposing factors into unity. It simply
@@ -37147,7 +35009,7 @@ gives you peace today. Receive His words, and offer them to Him.
 []{#part0041_split_018.html}
 
 ::: {.body}
-# [**Lesson 98 I will accept my part in God's plan for salvation**](#part0004.html#level-366){.calibre3} {#part0041_split_018.html#h1-366 .level1}
+# [**Lesson 98 I will accept my part in God's plan for salvation**](#part0004.html#level-366) {#part0041_split_018.html#h1-366 .level1}
 
 ^1^ Today is a day of special dedication. We take a stand on but one
 side today. We side with truth and let illusions go. We will not
@@ -37237,7 +35099,7 @@ which He has made with you and you with Him.
 []{#part0041_split_019.html}
 
 ::: {.body}
-# [**Lesson 99 Salvation is my only function here**](#part0004.html#level-367){.calibre3} {#part0041_split_019.html#h1-367 .level1}
+# [**Lesson 99 Salvation is my only function here**](#part0004.html#level-367) {#part0041_split_019.html#h1-367 .level1}
 
 ^1^ Salvation and forgiveness are the same. They both imply that
 something has gone wrong-something you need to be saved from or forgiven
@@ -37347,7 +35209,7 @@ that you are the Son of God.
 []{#part0041_split_020.html}
 
 ::: {.body}
-# [**Lesson 100 My part is essential to God's plan for salvation**](#part0004.html#level-368){.calibre3} {#part0041_split_020.html#h1-368 .level1}
+# [**Lesson 100 My part is essential to God's plan for salvation**](#part0004.html#level-368) {#part0041_split_020.html#h1-368 .level1}
 
 ^1^ Just as God's Son completes his Father, so your part in it completes
 your Father's plan. Salvation must reverse the mad belief in separate
@@ -37424,7 +35286,7 @@ the salvation of the world.
 []{#part0041_split_021.html}
 
 ::: {.body}
-# [**Lesson 101 God's Will for me is perfect happiness**](#part0004.html#level-369){.calibre3} {#part0041_split_021.html#h1-369 .level1}
+# [**Lesson 101 God's Will for me is perfect happiness**](#part0004.html#level-369) {#part0041_split_021.html#h1-369 .level1}
 
 ^1^ Today we will continue with the theme of happiness. This is a key
 idea in understanding what salvation means. You still believe it asks
@@ -37489,7 +35351,7 @@ This is the truth because there is no sin.*
 []{#part0041_split_022.html}
 
 ::: {.body}
-# [**Lesson 102 I share God's Will for happiness for me**](#part0004.html#level-370){.calibre3} {#part0041_split_022.html#h1-370 .level1}
+# [**Lesson 102 I share God's Will for happiness for me**](#part0004.html#level-370) {#part0041_split_022.html#h1-370 .level1}
 
 ^1^ You do not want to suffer. You may think it buys you something and
 may still believe a little that it buys you what you want. Yet this
@@ -37532,7 +35394,7 @@ this.
 []{#part0041_split_023.html}
 
 ::: {.body}
-# [**Lesson 103 God, being Love, is also happiness**](#part0004.html#level-371){.calibre3} {#part0041_split_023.html#h1-371 .level1}
+# [**Lesson 103 God, being Love, is also happiness**](#part0004.html#level-371) {#part0041_split_023.html#h1-371 .level1}
 
 ^1^ Happiness is an attribute of love. It cannot be apart from it, nor
 can it be experienced where love is not. Love has no limits, being
@@ -37572,7 +35434,7 @@ I cannot fail because I seek the truth.*
 []{#part0041_split_024.html}
 
 ::: {.body}
-# [**Lesson 104 I seek but what belongs to me in truth**](#part0004.html#level-372){.calibre3} {#part0041_split_024.html#h1-372 .level1}
+# [**Lesson 104 I seek but what belongs to me in truth**](#part0004.html#level-372) {#part0041_split_024.html#h1-372 .level1}
 
 ^1^ Today's idea continues with the thought that joy and peace are not
 but idle dreams. They are your right because of what you are. They come
@@ -37623,7 +35485,7 @@ God's gifts of joy and peace are all I want.*
 []{#part0041_split_025.html}
 
 ::: {.body}
-# [**Lesson 105 God's peace and joy are mine**](#part0004.html#level-373){.calibre3} {#part0041_split_025.html#h1-373 .level1}
+# [**Lesson 105 God's peace and joy are mine**](#part0004.html#level-373) {#part0041_split_025.html#h1-373 .level1}
 
 ^1^ God's peace and joy are yours. Today we will accept them, knowing
 they belong to us. And we will try to understand these gifts increase as
@@ -37704,7 +35566,7 @@ That I may have God's peace and joy as mine.*
 []{#part0041_split_026.html}
 
 ::: {.body}
-# [**Lesson 106 Let me be still and listen to the truth**](#part0004.html#level-374){.calibre3} {#part0041_split_026.html#h1-374 .level1}
+# [**Lesson 106 Let me be still and listen to the truth**](#part0004.html#level-374) {#part0041_split_026.html#h1-374 .level1}
 
 ^1^ If you will lay aside the ego's voice, however loudly it may seem to
 call; if you will not accept its petty gifts which give you nothing that
@@ -37786,7 +35648,7 @@ My voice is His, to give what I receive.*
 []{#part0041_split_027.html}
 
 ::: {.body}
-# [**Lesson 107 Truth will correct the errors in my mind**](#part0004.html#level-375){.calibre3} {#part0041_split_027.html#h1-375 .level1}
+# [**Lesson 107 Truth will correct the errors in my mind**](#part0004.html#level-375) {#part0041_split_027.html#h1-375 .level1}
 
 ^1^ What can correct illusions but the truth? And what are errors but
 illusions that remain unrecognized for what they are? Where truth has
@@ -37879,7 +35741,7 @@ you free.
 []{#part0041_split_028.html}
 
 ::: {.body}
-# [**Lesson 108 To give and to receive are one in truth**](#part0004.html#level-376){.calibre3} {#part0041_split_028.html#h1-376 .level1}
+# [**Lesson 108 To give and to receive are one in truth**](#part0004.html#level-376) {#part0041_split_028.html#h1-376 .level1}
 
 ^1^ Vision depends upon today's idea. The light is in it, for it
 reconciles all seeming opposites. And what is light except the
@@ -37959,7 +35821,7 @@ say:
 []{#part0041_split_029.html}
 
 ::: {.body}
-# [**Lesson 109 I rest in God**](#part0004.html#level-377){.calibre3} {#part0041_split_029.html#h1-377 .level1}
+# [**Lesson 109 I rest in God**](#part0004.html#level-377) {#part0041_split_029.html#h1-377 .level1}
 
 ^1^ We ask for rest today and quietness unshaken by the world's
 appearances. We ask for peace and stillness in the midst of all the
@@ -38037,7 +35899,7 @@ tell ourselves,
 []{#part0041_split_030.html}
 
 ::: {.body}
-# [**Lesson 110 I am as God created me**](#part0004.html#level-378){.calibre3} {#part0041_split_030.html#h1-378 .level1}
+# [**Lesson 110 I am as God created me**](#part0004.html#level-378) {#part0041_split_030.html#h1-378 .level1}
 
 ^1^We will repeat today's idea from time to time. For this one thought
 would be enough to save you and the world if you believed that it is
@@ -38111,7 +35973,7 @@ Heaven, and which lets you enter in the peace of God and His eternity.
 []{#part0042_split_000.html}
 
 ::: {.body}
-# [**Review III**](#part0004.html#parta-3){.calibre3} {#part0042_split_000.html#calibre_pb_0 .toc-title}
+# [**Review III**](#part0004.html#parta-3) {#part0042_split_000.html#calibre_pb_0 .toc-title}
 
 ^R3:1^ Our third review begins today. We will review two of the last 20
 ideas each day until we have reviewed them all. We will observe a
@@ -38211,7 +36073,7 @@ these thoughts He gave to you.
 []{#part0042_split_001.html}
 
 ::: {.body}
-# [**Lesson 111**](#part0004.html#level-379){.calibre3} {#part0042_split_001.html#h1-379 .level1}
+# [**Lesson 111**](#part0004.html#level-379) {#part0042_split_001.html#h1-379 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38243,7 +36105,7 @@ By giving me His strength to take its place.*
 []{#part0042_split_002.html}
 
 ::: {.body}
-# [**Lesson 112**](#part0004.html#level-380){.calibre3} {#part0042_split_002.html#h1-380 .level1}
+# [**Lesson 112**](#part0004.html#level-380) {#part0042_split_002.html#h1-380 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38275,7 +36137,7 @@ And I am one with Him, and He with me.*
 []{#part0042_split_003.html}
 
 ::: {.body}
-# [**Lesson 113**](#part0004.html#level-381){.calibre3} {#part0042_split_003.html#h1-381 .level1}
+# [**Lesson 113**](#part0004.html#level-381) {#part0042_split_003.html#h1-381 .level1}
 
 ^1^For morning and evening review:
 
@@ -38307,7 +36169,7 @@ For my salvation perfectly fulfilled.*
 []{#part0042_split_004.html}
 
 ::: {.body}
-# [**Lesson 114**](#part0004.html#level-382){.calibre3} {#part0042_split_004.html#h1-382 .level1}
+# [**Lesson 114**](#part0004.html#level-382) {#part0042_split_004.html#h1-382 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38339,7 +36201,7 @@ For what I am and will forever be?*
 []{#part0042_split_005.html}
 
 ::: {.body}
-# [**Lesson 115**](#part0004.html#level-383){.calibre3} {#part0042_split_005.html#h1-383 .level1}
+# [**Lesson 115**](#part0004.html#level-383) {#part0042_split_005.html#h1-383 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38369,7 +36231,7 @@ Gave me His plan that I might save the world.*
 []{#part0042_split_006.html}
 
 ::: {.body}
-# [**Lesson 116**](#part0004.html#level-384){.calibre3} {#part0042_split_006.html#h1-384 .level1}
+# [**Lesson 116**](#part0004.html#level-384) {#part0042_split_006.html#h1-384 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38403,7 +36265,7 @@ What He has given me is all there is.*
 []{#part0042_split_007.html}
 
 ::: {.body}
-# [**Lesson 117**](#part0004.html#level-385){.calibre3} {#part0042_split_007.html#h1-385 .level1}
+# [**Lesson 117**](#part0004.html#level-385) {#part0042_split_007.html#h1-385 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38437,7 +36299,7 @@ I would accept all that is mine in truth.*
 []{#part0042_split_008.html}
 
 ::: {.body}
-# [**Lesson 118**](#part0004.html#level-386){.calibre3} {#part0042_split_008.html#h1-386 .level1}
+# [**Lesson 118**](#part0004.html#level-386) {#part0042_split_008.html#h1-386 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38467,7 +36329,7 @@ Assure me that I am God's perfect Son.*
 []{#part0042_split_009.html}
 
 ::: {.body}
-# [**Lesson 119**](#part0004.html#level-387){.calibre3} {#part0042_split_009.html#h1-387 .level1}
+# [**Lesson 119**](#part0004.html#level-387) {#part0042_split_009.html#h1-387 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38499,7 +36361,7 @@ And come to recognize my sinlessness.*
 []{#part0042_split_010.html}
 
 ::: {.body}
-# [**Lesson 120**](#part0004.html#level-388){.calibre3} {#part0042_split_010.html#h1-388 .level1}
+# [**Lesson 120**](#part0004.html#level-388) {#part0042_split_010.html#h1-388 .level1}
 
 ^1^ For morning and evening review:
 
@@ -38531,7 +36393,7 @@ My Father tell me Who I really am.*
 []{#part0042_split_011.html}
 
 ::: {.body}
-# [**Lesson 121 Forgiveness is the key to happiness**](#part0004.html#level-389){.calibre3} {#part0042_split_011.html#h1-389 .level1}
+# [**Lesson 121 Forgiveness is the key to happiness**](#part0004.html#level-389) {#part0042_split_011.html#h1-389 .level1}
 
 ^1^ Here is the answer to your search for peace. Here is the key to
 meaning in a world which seems to make no sense. Here is the way to
@@ -38632,7 +36494,7 @@ And know I am the perfect Son of God.*
 []{#part0042_split_012.html}
 
 ::: {.body}
-# [**Lesson 122 Forgiveness offers everything I want**](#part0004.html#level-390){.calibre3} {#part0042_split_012.html#h1-390 .level1}
+# [**Lesson 122 Forgiveness offers everything I want**](#part0004.html#level-390) {#part0042_split_012.html#h1-390 .level1}
 
 ^1^ What could you want forgiveness cannot give? Do you want peace?
 Forgiveness offers it. Do you want happiness, a quiet mind, a certainty
@@ -38735,7 +36597,7 @@ Today I have received the gifts of God.*
 []{#part0042_split_013.html}
 
 ::: {.body}
-# [**Lesson 123 I thank my Father for His gifts to me**](#part0004.html#level-391){.calibre3} {#part0042_split_013.html#h1-391 .level1}
+# [**Lesson 123 I thank my Father for His gifts to me**](#part0004.html#level-391) {#part0042_split_013.html#h1-391 .level1}
 
 ^1^ Today let us be thankful. We have come to gentler pathways and to
 smoother roads. There is no thought of turning back and no implacable
@@ -38795,7 +36657,7 @@ world remembering his Father and his Self.
 []{#part0042_split_014.html}
 
 ::: {.body}
-# [**Lesson 124 Let me remember I am one with God**](#part0004.html#level-392){.calibre3} {#part0042_split_014.html#h1-392 .level1}
+# [**Lesson 124 Let me remember I am one with God**](#part0004.html#level-392) {#part0042_split_014.html#h1-392 .level1}
 
 ^1^ Today we will again give thanks for our identity in God. Our home is
 safe, protection guaranteed in all we do, power and strength available
@@ -38887,7 +36749,7 @@ In everlasting holiness and peace.*
 []{#part0042_split_015.html}
 
 ::: {.body}
-# [**Lesson 125 In quiet I receive God's Word today**](#part0004.html#level-393){.calibre3} {#part0042_split_015.html#h1-393 .level1}
+# [**Lesson 125 In quiet I receive God's Word today**](#part0004.html#level-393) {#part0042_split_015.html#h1-393 .level1}
 
 ^1^ Let this day be a day of stillness and of quiet listening. Your
 Father wills you hear His Word today. He calls to you from deep within
@@ -38956,7 +36818,7 @@ Word of God.
 []{#part0042_split_016.html}
 
 ::: {.body}
-# [**Lesson 126 All that I give is given to myself**](#part0004.html#level-394){.calibre3} {#part0042_split_016.html#h1-394 .level1}
+# [**Lesson 126 All that I give is given to myself**](#part0004.html#level-394) {#part0042_split_016.html#h1-394 .level1}
 
 ^1^ Today's idea, completely alien to the ego and the thinking of the
 world, is crucial to the thought reversal which this course will bring
@@ -39050,7 +36912,7 @@ will be received by you.
 []{#part0042_split_017.html}
 
 ::: {.body}
-# [**Lesson 127 There is no love but God's**](#part0004.html#level-395){.calibre3} {#part0042_split_017.html#h1-395 .level1}
+# [**Lesson 127 There is no love but God's**](#part0004.html#level-395) {#part0042_split_017.html#h1-395 .level1}
 
 ^1^ Perhaps you think that different kinds of love are possible. Perhaps
 you think there is a kind of love for this, a kind for that; a way of
@@ -39144,7 +37006,7 @@ But God's and yours and mine and everyone's.*
 []{#part0042_split_018.html}
 
 ::: {.body}
-# [**Lesson 128 The world I see has nothing that I want**](#part0004.html#level-396){.calibre3} {#part0042_split_018.html#h1-396 .level1}
+# [**Lesson 128 The world I see has nothing that I want**](#part0004.html#level-396) {#part0042_split_018.html#h1-396 .level1}
 
 ^1^ The world you see has nothing that you need to offer you, nothing
 that you can use in any way, nor anything at all that serves to give you
@@ -39207,7 +37069,7 @@ The world I see has nothing that I want.*
 []{#part0042_split_019.html}
 
 ::: {.body}
-# [**Lesson 129 Beyond this world there is a world I want**](#part0004.html#level-397){.calibre3} {#part0042_split_019.html#h1-397 .level1}
+# [**Lesson 129 Beyond this world there is a world I want**](#part0004.html#level-397) {#part0042_split_019.html#h1-397 .level1}
 
 ^1^ This is the thought which follows from the one we practiced
 yesterday. You cannot stop with the idea the world is worthless, for
@@ -39284,7 +37146,7 @@ Beyond this world there is a world I want.*
 []{#part0042_split_020.html}
 
 ::: {.body}
-# [**Lesson 130 It is impossible to see two worlds**](#part0004.html#level-398){.calibre3} {#part0042_split_020.html#h1-398 .level1}
+# [**Lesson 130 It is impossible to see two worlds**](#part0004.html#level-398) {#part0042_split_020.html#h1-398 .level1}
 
 ^1^ Perception is consistent. What you see reflects your thinking. And
 your thinking but reflects your choice of what you want to see. Your
@@ -39370,7 +37232,7 @@ And this is not a part of what I want.*
 []{#part0042_split_021.html}
 
 ::: {.body}
-# [**Lesson 131 No one can fail who asks to reach the truth**](#part0004.html#level-399){.calibre3} {#part0042_split_021.html#h1-399 .level1}
+# [**Lesson 131 No one can fail who asks to reach the truth**](#part0004.html#level-399) {#part0042_split_021.html#h1-399 .level1}
 
 ^1^ Failure is all about you while you seek for goals that cannot be
 achieved. You look for permanence in the impermanent, for love where
@@ -39498,7 +37360,7 @@ No one can fail who asks to reach the truth.*
 []{#part0042_split_022.html}
 
 ::: {.body}
-# [**Lesson 132 I loosen the world from all I thought it was**](#part0004.html#level-400){.calibre3} {#part0042_split_022.html#h1-400 .level1}
+# [**Lesson 132 I loosen the world from all I thought it was**](#part0004.html#level-400) {#part0042_split_022.html#h1-400 .level1}
 
 ^1^ What keeps the world in chains but your beliefs? And what can save
 the world except your Self? Belief is powerful indeed. The thoughts you
@@ -39633,7 +37495,7 @@ And choose my own reality instead.*
 []{#part0042_split_023.html}
 
 ::: {.body}
-# [**Lesson 133 I will not value what is valueless**](#part0004.html#level-402){.calibre3} {#part0042_split_023.html#h1-402 .level1}
+# [**Lesson 133 I will not value what is valueless**](#part0004.html#level-402) {#part0042_split_023.html#h1-402 .level1}
 
 ^1^ Sometimes in teaching there is benefit, particularly after you have
 gone through what seems theoretical and quite remote from what the
@@ -39747,7 +37609,7 @@ For what is valuable belongs to me.*
 []{#part0042_split_024.html}
 
 ::: {.body}
-# [**Lesson 134 Let me perceive forgiveness as it is**](#part0004.html#level-403){.calibre3} {#part0042_split_024.html#h1-403 .level1}
+# [**Lesson 134 Let me perceive forgiveness as it is**](#part0004.html#level-403) {#part0042_split_024.html#h1-403 .level1}
 
 ^1^ Let us review the meaning of "forgive," for it is apt to be
 distorted and to be perceived as something which entails an unfair
@@ -39887,7 +37749,7 @@ No one can enter Heaven by himself.*
 []{#part0042_split_025.html}
 
 ::: {.body}
-# [**Lesson 135 If I defend myself, I am attacked**](#part0004.html#level-404){.calibre3} {#part0042_split_025.html#h1-404 .level1}
+# [**Lesson 135 If I defend myself, I am attacked**](#part0004.html#level-404) {#part0042_split_025.html#h1-404 .level1}
 
 ^1^ Who would defend himself unless he thought he was attacked, that the
 attack is real, and that his own defense can save himself? And herein
@@ -40090,7 +37952,7 @@ Against the truth of his reality.*
 []{#part0042_split_026.html}
 
 ::: {.body}
-# [**Lesson 136 Sickness is a defense against the truth**](#part0004.html#level-405){.calibre3} {#part0042_split_026.html#h1-405 .level1}
+# [**Lesson 136 Sickness is a defense against the truth**](#part0004.html#level-405) {#part0042_split_026.html#h1-405 .level1}
 
 ^1^ No one can heal unless he understands what purpose sickness seems to
 serve. For then he understands as well its purpose has no meaning. Being
@@ -40248,7 +38110,7 @@ Cannot attack. So I can not be sick.*
 []{#part0042_split_027.html}
 
 ::: {.body}
-# [**Lesson 137 When I am healed, I am not healed alone**](#part0004.html#level-406){.calibre3} {#part0042_split_027.html#h1-406 .level1}
+# [**Lesson 137 When I am healed, I am not healed alone**](#part0004.html#level-406) {#part0042_split_027.html#h1-406 .level1}
 
 ^1^ Today's idea remains the central thought on which salvation rests.
 For healing is the opposite of all the world's ideas which dwell on
@@ -40368,7 +38230,7 @@ Be healed with them as they are healed with me.*
 []{#part0042_split_028.html}
 
 ::: {.body}
-# [**Lesson 138 Heaven is the decision I must make**](#part0004.html#level-407){.calibre3} {#part0042_split_028.html#h1-407 .level1}
+# [**Lesson 138 Heaven is the decision I must make**](#part0004.html#level-407) {#part0042_split_028.html#h1-407 .level1}
 
 ^1^ In this world, Heaven is a choice because here we believe there are
 alternatives to choose between. We think that all things have an
@@ -40473,7 +38335,7 @@ Because it is the only thing I want.*
 []{#part0042_split_029.html}
 
 ::: {.body}
-# [**Lesson 139 I will accept Atonement for myself**](#part0004.html#level-408){.calibre3} {#part0042_split_029.html#h1-408 .level1}
+# [**Lesson 139 I will accept Atonement for myself**](#part0004.html#level-408) {#part0042_split_029.html#h1-408 .level1}
 
 ^1^ Here is the end of choice. For here we come to a decision to accept
 ourselves as God created us. And what is choice except uncertainty of
@@ -40571,7 +38433,7 @@ For I remain as God created me.*
 []{#part0042_split_030.html}
 
 ::: {.body}
-# [**Lesson 140 Only salvation can be said to cure**](#part0004.html#level-409){.calibre3} {#part0042_split_030.html#h1-409 .level1}
+# [**Lesson 140 Only salvation can be said to cure**](#part0004.html#level-409) {#part0042_split_030.html#h1-409 .level1}
 
 ^1^ Cure is a word that cannot be applied to any remedy the world
 accepts as beneficial. What the world perceives as therapeutic is but
@@ -40675,7 +38537,7 @@ separation ends and we remember Who we really are.
 []{#part0043_split_000.html}
 
 ::: {.body}
-# [**Review IV**](#part0004.html#parta-4){.calibre3} {#part0043_split_000.html#calibre_pb_0 .toc-title}
+# [**Review IV**](#part0004.html#parta-4) {#part0043_split_000.html#calibre_pb_0 .toc-title}
 
 ^R4:1^ Now we review again, this time aware we are preparing for the
 second part of learning how the truth can be applied. Today we will
@@ -40758,7 +38620,7 @@ inheritance.
 []{#part0043_split_001.html}
 
 ::: {.body}
-# [**Lesson 141**](#part0004.html#level-410){.calibre3} {#part0043_split_001.html#h1-410 .level1}
+# [**Lesson 141**](#part0004.html#level-410) {#part0043_split_001.html#h1-410 .level1}
 
 \[121\] Forgiveness is the key to happiness.
 
@@ -40768,7 +38630,7 @@ inheritance.
 []{#part0043_split_002.html}
 
 ::: {.body}
-# [**Lesson 142**](#part0004.html#level-411){.calibre3} {#part0043_split_002.html#h1-411 .level1}
+# [**Lesson 142**](#part0004.html#level-411) {#part0043_split_002.html#h1-411 .level1}
 
 \[123\] I thank my Father for His gifts to me.
 
@@ -40778,7 +38640,7 @@ inheritance.
 []{#part0043_split_003.html}
 
 ::: {.body}
-# [**Lesson 143**](#part0004.html#level-412){.calibre3} {#part0043_split_003.html#h1-412 .level1}
+# [**Lesson 143**](#part0004.html#level-412) {#part0043_split_003.html#h1-412 .level1}
 
 \[125\] In quiet I receive God's Word today.
 
@@ -40788,7 +38650,7 @@ inheritance.
 []{#part0043_split_004.html}
 
 ::: {.body}
-# [**Lesson 144**](#part0004.html#level-413){.calibre3} {#part0043_split_004.html#h1-413 .level1}
+# [**Lesson 144**](#part0004.html#level-413) {#part0043_split_004.html#h1-413 .level1}
 
 \[127\] There is no love but God's.
 
@@ -40798,7 +38660,7 @@ inheritance.
 []{#part0043_split_005.html}
 
 ::: {.body}
-# [**Lesson 145**](#part0004.html#level-414){.calibre3} {#part0043_split_005.html#h1-414 .level1}
+# [**Lesson 145**](#part0004.html#level-414) {#part0043_split_005.html#h1-414 .level1}
 
 \[129\] Beyond this world there is a world I want.
 
@@ -40808,7 +38670,7 @@ inheritance.
 []{#part0043_split_006.html}
 
 ::: {.body}
-# [**Lesson 146**](#part0004.html#level-415){.calibre3} {#part0043_split_006.html#h1-415 .level1}
+# [**Lesson 146**](#part0004.html#level-415) {#part0043_split_006.html#h1-415 .level1}
 
 \[131\] No one can fail who asks to reach the truth.
 
@@ -40818,7 +38680,7 @@ inheritance.
 []{#part0043_split_007.html}
 
 ::: {.body}
-# [**Lesson 147**](#part0004.html#level-416){.calibre3} {#part0043_split_007.html#h1-416 .level1}
+# [**Lesson 147**](#part0004.html#level-416) {#part0043_split_007.html#h1-416 .level1}
 
 \[133\] I will not value what is valueless.
 
@@ -40828,7 +38690,7 @@ inheritance.
 []{#part0043_split_008.html}
 
 ::: {.body}
-# [**Lesson 148**](#part0004.html#level-417){.calibre3} {#part0043_split_008.html#h1-417 .level1}
+# [**Lesson 148**](#part0004.html#level-417) {#part0043_split_008.html#h1-417 .level1}
 
 \[135\] If I defend myself, I am attacked.
 
@@ -40838,7 +38700,7 @@ inheritance.
 []{#part0043_split_009.html}
 
 ::: {.body}
-# [**Lesson 149**](#part0004.html#level-418){.calibre3} {#part0043_split_009.html#h1-418 .level1}
+# [**Lesson 149**](#part0004.html#level-418) {#part0043_split_009.html#h1-418 .level1}
 
 \[137\] When I am healed, I am not healed alone.
 
@@ -40848,7 +38710,7 @@ inheritance.
 []{#part0043_split_010.html}
 
 ::: {.body}
-# [**Lesson 150**](#part0004.html#level-419){.calibre3} {#part0043_split_010.html#h1-419 .level1}
+# [**Lesson 150**](#part0004.html#level-419) {#part0043_split_010.html#h1-419 .level1}
 
 \[139\] I will accept Atonement for myself.
 
@@ -40858,7 +38720,7 @@ inheritance.
 []{#part0043_split_011.html}
 
 ::: {.body}
-# [**Lesson 151 All things are echoes of the Voice of God**](#part0004.html#level-420){.calibre3} {#part0043_split_011.html#h1-420 .level1}
+# [**Lesson 151 All things are echoes of the Voice of God**](#part0004.html#level-420) {#part0043_split_011.html#h1-420 .level1}
 
 ^1^ No one can judge on partial evidence. That is not judgment. It is
 merely an opinion based on ignorance and doubt. Its seeming certainty is
@@ -40989,7 +38851,7 @@ no illusions and the peace of God, through us, belongs to everyone.
 []{#part0043_split_012.html}
 
 ::: {.body}
-# [**Lesson 152 The power of decision is my own**](#part0004.html#level-421){.calibre3} {#part0043_split_012.html#h1-421 .level1}
+# [**Lesson 152 The power of decision is my own**](#part0004.html#level-421) {#part0043_split_012.html#h1-421 .level1}
 
 ^1^ No one can suffer loss unless it be his own decision. No one suffers
 pain except his choice elects this state for him. No one can grieve nor
@@ -41093,7 +38955,7 @@ for your illusions of yourself.
 []{#part0043_split_013.html}
 
 ::: {.body}
-# [**Lesson 153 In my defenselessness my safety lies**](#part0004.html#level-422){.calibre3} {#part0043_split_013.html#h1-422 .level1}
+# [**Lesson 153 In my defenselessness my safety lies**](#part0004.html#level-422) {#part0043_split_013.html#h1-422 .level1}
 
 ^1^ You who feel threatened by this changing world, its twists of
 fortune and its bitter jests, its brief relationships and all the
@@ -41255,7 +39117,7 @@ Christ and see His sinlessness.
 []{#part0043_split_014.html}
 
 ::: {.body}
-# [**Lesson 154 I am among the ministers of God**](#part0004.html#level-423){.calibre3} {#part0043_split_014.html#h1-423 .level1}
+# [**Lesson 154 I am among the ministers of God**](#part0004.html#level-423) {#part0043_split_014.html#h1-423 .level1}
 
 ^1^ Let us today be neither arrogant nor falsely humble. We have gone
 beyond such foolishness. We cannot judge ourselves, nor need we do so.
@@ -41363,7 +39225,7 @@ into our hands, and we will recognize what we received.
 []{#part0043_split_015.html}
 
 ::: {.body}
-# [**Lesson 155 I will step back and let Him lead the way**](#part0004.html#level-424){.calibre3} {#part0043_split_015.html#h1-424 .level1}
+# [**Lesson 155 I will step back and let Him lead the way**](#part0004.html#level-424) {#part0043_split_015.html#h1-424 .level1}
 
 ^1^ There is a way of living in the world that is not here, although it
 seems to be. You do not change appearance, though you smile more
@@ -41471,7 +39333,7 @@ For I would walk along the road to Him.*
 []{#part0043_split_016.html}
 
 ::: {.body}
-# [**Lesson 156 I walk with God in perfect holiness**](#part0004.html#level-425){.calibre3} {#part0043_split_016.html#h1-425 .level1}
+# [**Lesson 156 I walk with God in perfect holiness**](#part0004.html#level-425) {#part0043_split_016.html#h1-425 .level1}
 
 ^1^ Today's idea but states the simple truth that makes the thought of
 sin impossible. It promises there is no cause for guilt, and being
@@ -41535,7 +39397,7 @@ The minds which God created one with me.*
 []{#part0043_split_017.html}
 
 ::: {.body}
-# [**Lesson 157 Into His Presence would I enter now**](#part0004.html#level-426){.calibre3} {#part0043_split_017.html#h1-426 .level1}
+# [**Lesson 157 Into His Presence would I enter now**](#part0004.html#level-426) {#part0043_split_017.html#h1-426 .level1}
 
 ^1^ This is a day of silence and of trust. It is a special time of
 promise in your calendar of days. It is a time Heaven has set apart to
@@ -41604,7 +39466,7 @@ remembrance of what you knew that instant and will surely know again.
 []{#part0043_split_018.html}
 
 ::: {.body}
-# [**Lesson 158 Today I learn to give as I receive**](#part0004.html#level-427){.calibre3} {#part0043_split_018.html#h1-427 .level1}
+# [**Lesson 158 Today I learn to give as I receive**](#part0004.html#level-427) {#part0043_split_018.html#h1-427 .level1}
 
 ^1^ What has been given you? The knowledge that you are a mind, in Mind
 and purely mind, sinless forever, wholly unafraid because you were
@@ -41690,7 +39552,7 @@ ourselves as well.
 []{#part0043_split_019.html}
 
 ::: {.body}
-# [**Lesson 159 I give the miracles I have received**](#part0004.html#level-428){.calibre3} {#part0043_split_019.html#h1-428 .level1}
+# [**Lesson 159 I give the miracles I have received**](#part0004.html#level-428) {#part0043_split_019.html#h1-428 .level1}
 
 ^1^ No one can give what he has not received. To give a thing requires
 first you have it in your own possession. Here the laws of Heaven and
@@ -41770,7 +39632,7 @@ means for a return to our unlost and everlasting sanctity in God.
 []{#part0043_split_020.html}
 
 ::: {.body}
-# [**Lesson 160 I am at home. Fear is the stranger here**](#part0004.html#level-429){.calibre3} {#part0043_split_020.html#h1-429 .level1}
+# [**Lesson 160 I am at home. Fear is the stranger here**](#part0004.html#level-429) {#part0043_split_020.html#h1-429 .level1}
 
 ^1^ Fear is a stranger to the ways of love. Identify with fear, and you
 will be a stranger to yourself. And thus you are unknown to you. What is
@@ -41846,7 +39708,7 @@ home remembered, and salvation come.
 []{#part0043_split_021.html}
 
 ::: {.body}
-# [**Lesson 161 Give me your blessing, holy Son of God**](#part0004.html#level-430){.calibre3} {#part0043_split_021.html#h1-430 .level1}
+# [**Lesson 161 Give me your blessing, holy Son of God**](#part0004.html#level-430) {#part0043_split_021.html#h1-430 .level1}
 
 ^1^ Today we practice differently and take a stand against our anger
 that our fears may disappear and offer room to love. Here is salvation
@@ -41954,7 +39816,7 @@ transformed from enemy to savior, from the devil into Christ.
 []{#part0043_split_022.html}
 
 ::: {.body}
-# [**Lesson 162 I am as God created me**](#part0004.html#level-431){.calibre3} {#part0043_split_022.html#h1-431 .level1}
+# [**Lesson 162 I am as God created me**](#part0004.html#level-431) {#part0043_split_022.html#h1-431 .level1}
 
 ^1^ This single thought, held firmly in the mind, would save the world.
 From time to time we will repeat it, as we reach another stage in
@@ -42005,7 +39867,7 @@ of God, and in your recognition is the world's.
 []{#part0043_split_023.html}
 
 ::: {.body}
-# [**Lesson 163 There is no death. The Son of God is free**](#part0004.html#level-432){.calibre3} {#part0043_split_023.html#h1-432 .level1}
+# [**Lesson 163 There is no death. The Son of God is free**](#part0004.html#level-432) {#part0043_split_023.html#h1-432 .level1}
 
 ^1^ Death is a thought which takes on many forms, often unrecognized. It
 may appear as sadness, fear, anxiety, or doubt; as anger, faithlessness,
@@ -42077,7 +39939,7 @@ Your Thoughts as ours, and our will is one with Yours eternally. Amen.
 []{#part0043_split_024.html}
 
 ::: {.body}
-# [**Lesson 164 Now are we one with Him Who is our Source**](#part0004.html#level-433){.calibre3} {#part0043_split_024.html#h1-433 .level1}
+# [**Lesson 164 Now are we one with Him Who is our Source**](#part0004.html#level-433) {#part0043_split_024.html#h1-433 .level1}
 
 ^1^ What time but now can truth be recognized? The present is the only
 time there is. And so today, this instant, now, we come to look upon
@@ -42152,7 +40014,7 @@ complete salvation to His Son?
 []{#part0043_split_025.html}
 
 ::: {.body}
-# [**Lesson 165 Let not my mind deny the Thought of God**](#part0004.html#level-434){.calibre3} {#part0043_split_025.html#h1-434 .level1}
+# [**Lesson 165 Let not my mind deny the Thought of God**](#part0004.html#level-434) {#part0043_split_025.html#h1-434 .level1}
 
 ^1^ What makes this world seem real except your own denial of the truth
 which lies beyond? What but your thoughts of misery and death obscure
@@ -42214,7 +40076,7 @@ according to His Will.
 []{#part0043_split_026.html}
 
 ::: {.body}
-# [**Lesson 166 I am entrusted with the gifts of God**](#part0004.html#level-435){.calibre3} {#part0043_split_026.html#h1-435 .level1}
+# [**Lesson 166 I am entrusted with the gifts of God**](#part0004.html#level-435) {#part0043_split_026.html#h1-435 .level1}
 
 ^1^ All things are given you. God's trust in you is limitless. He knows
 His Son. He gives without exception, holding nothing back that can
@@ -42332,7 +40194,7 @@ world.
 []{#part0043_split_027.html}
 
 ::: {.body}
-# [**Lesson 167 There is one life, and that I share with God**](#part0004.html#level-436){.calibre3} {#part0043_split_027.html#h1-436 .level1}
+# [**Lesson 167 There is one life, and that I share with God**](#part0004.html#level-436) {#part0043_split_027.html#h1-436 .level1}
 
 ^1^ There are not different kinds of life, for life is like the truth.
 It does not have degrees. It is the one condition in which all that God
@@ -42427,7 +40289,7 @@ wakened mind is one that knows its Source, its Self, its holiness.
 []{#part0043_split_028.html}
 
 ::: {.body}
-# [**Lesson 168 Your grace is given me. I claim it now**](#part0004.html#level-437){.calibre3} {#part0043_split_028.html#h1-437 .level1}
+# [**Lesson 168 Your grace is given me. I claim it now**](#part0004.html#level-437) {#part0043_split_028.html#h1-437 .level1}
 
 ^1^ God speaks to us. Shall we not speak to Him? He is not distant. He
 makes no attempt to hide from us. We try to hide from Him and suffer
@@ -42479,7 +40341,7 @@ To me who asks. I am the Son You love.*
 []{#part0043_split_029.html}
 
 ::: {.body}
-# [**Lesson 169 By grace I live. By grace I am released**](#part0004.html#level-438){.calibre3} {#part0043_split_029.html#h1-438 .level1}
+# [**Lesson 169 By grace I live. By grace I am released**](#part0004.html#level-438) {#part0043_split_029.html#h1-438 .level1}
 
 ^1^ Grace is an aspect of the Love of God which is most like the state
 prevailing in the unity of truth. It is the world's most lofty
@@ -42590,7 +40452,7 @@ By grace I give. By grace I will release.*
 []{#part0043_split_030.html}
 
 ::: {.body}
-# [**Lesson 170 There is no cruelty in God and none in me**](#part0004.html#level-439){.calibre3} {#part0043_split_030.html#h1-439 .level1}
+# [**Lesson 170 There is no cruelty in God and none in me**](#part0004.html#level-439) {#part0043_split_030.html#h1-439 .level1}
 
 ^1^ No one attacks without intent to hurt. This can have no exception.
 When you think that you attack in self defense, you mean that to be
@@ -42695,7 +40557,7 @@ are we because Your holiness has set us free. And we give thanks. Amen.*
 []{#part0044_split_000.html}
 
 ::: {.body}
-# [**Review V**](#part0004.html#parta-5){.calibre3} {#part0044_split_000.html#calibre_pb_0 .toc-title}
+# [**Review V**](#part0004.html#parta-5) {#part0044_split_000.html#calibre_pb_0 .toc-title}
 
 ^R5:1^ We now review again. This time we are ready to give more effort
 and more time to what we undertake. We recognize we are preparing for
@@ -42806,7 +40668,7 @@ here that we find rest.
 []{#part0044_split_001.html}
 
 ::: {.body}
-# [**Lesson 171**](#part0004.html#level-440){.calibre3} {#part0044_split_001.html#h1-440 .level1}
+# [**Lesson 171**](#part0004.html#level-440) {#part0044_split_001.html#h1-440 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42822,7 +40684,7 @@ here that we find rest.
 []{#part0044_split_002.html}
 
 ::: {.body}
-# [**Lesson 172**](#part0004.html#level-441){.calibre3} {#part0044_split_002.html#h1-441 .level1}
+# [**Lesson 172**](#part0004.html#level-441) {#part0044_split_002.html#h1-441 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42838,7 +40700,7 @@ here that we find rest.
 []{#part0044_split_003.html}
 
 ::: {.body}
-# [**Lesson 173**](#part0004.html#level-442){.calibre3} {#part0044_split_003.html#h1-442 .level1}
+# [**Lesson 173**](#part0004.html#level-442) {#part0044_split_003.html#h1-442 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42854,7 +40716,7 @@ here that we find rest.
 []{#part0044_split_004.html}
 
 ::: {.body}
-# [**Lesson 174**](#part0004.html#level-443){.calibre3} {#part0044_split_004.html#h1-443 .level1}
+# [**Lesson 174**](#part0004.html#level-443) {#part0044_split_004.html#h1-443 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42870,7 +40732,7 @@ here that we find rest.
 []{#part0044_split_005.html}
 
 ::: {.body}
-# [**Lesson 175**](#part0004.html#level-444){.calibre3} {#part0044_split_005.html#h1-444 .level1}
+# [**Lesson 175**](#part0004.html#level-444) {#part0044_split_005.html#h1-444 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42886,7 +40748,7 @@ here that we find rest.
 []{#part0044_split_006.html}
 
 ::: {.body}
-# [**Lesson 176**](#part0004.html#level-445){.calibre3} {#part0044_split_006.html#h1-445 .level1}
+# [**Lesson 176**](#part0004.html#level-445) {#part0044_split_006.html#h1-445 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42902,7 +40764,7 @@ here that we find rest.
 []{#part0044_split_007.html}
 
 ::: {.body}
-# [**Lesson 177**](#part0004.html#level-446){.calibre3} {#part0044_split_007.html#h1-446 .level1}
+# [**Lesson 177**](#part0004.html#level-446) {#part0044_split_007.html#h1-446 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42918,7 +40780,7 @@ here that we find rest.
 []{#part0044_split_008.html}
 
 ::: {.body}
-# [**Lesson 178**](#part0004.html#level-447){.calibre3} {#part0044_split_008.html#h1-447 .level1}
+# [**Lesson 178**](#part0004.html#level-447) {#part0044_split_008.html#h1-447 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42934,7 +40796,7 @@ here that we find rest.
 []{#part0044_split_009.html}
 
 ::: {.body}
-# [**Lesson 179**](#part0004.html#level-448){.calibre3} {#part0044_split_009.html#h1-448 .level1}
+# [**Lesson 179**](#part0004.html#level-448) {#part0044_split_009.html#h1-448 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42950,7 +40812,7 @@ here that we find rest.
 []{#part0044_split_010.html}
 
 ::: {.body}
-# [**Lesson 180**](#part0004.html#level-449){.calibre3} {#part0044_split_010.html#h1-449 .level1}
+# [**Lesson 180**](#part0004.html#level-449) {#part0044_split_010.html#h1-449 .level1}
 
 **God is but Love, and therefore so am I.**
 
@@ -42966,7 +40828,7 @@ here that we find rest.
 []{#part0044_split_011.html}
 
 ::: {.body}
-# [**Introduction to Lessons 181-200**](#part0004.html#level-450){.calibre3} {#part0044_split_011.html#h1-450 .level1}
+# [**Introduction to Lessons 181-200**](#part0004.html#level-450) {#part0044_split_011.html#h1-450 .level1}
 
 ^I181:1^ Our next few lessons make a special point of firming up your
 willingness to make your weak commitment strong, your scattered goals
@@ -42999,7 +40861,7 @@ rest will come.
 []{#part0044_split_012.html}
 
 ::: {.body}
-# [**Lesson 181 I trust my brothers, who are one with me**](#part0004.html#level-451){.calibre3} {#part0044_split_012.html#h1-451 .level1}
+# [**Lesson 181 I trust my brothers, who are one with me**](#part0004.html#level-451) {#part0044_split_012.html#h1-451 .level1}
 
 ^1^ Trusting your brothers is essential to establishing and holding up
 your faith in your ability to transcend doubt and lack of sure
@@ -43078,7 +40940,7 @@ instant is our willing one with His.
 []{#part0044_split_013.html}
 
 ::: {.body}
-# [**Lesson 182 I will be still a moment and go home**](#part0004.html#level-452){.calibre3} {#part0044_split_013.html#h1-452 .level1}
+# [**Lesson 182 I will be still a moment and go home**](#part0004.html#level-452) {#part0044_split_013.html#h1-452 .level1}
 
 ^1^ This world you seem to live in is not home to you. And somewhere in
 your mind you know that this is true. A memory of home keeps haunting
@@ -43183,7 +41045,7 @@ with Him, and be at peace a while.
 []{#part0044_split_014.html}
 
 ::: {.body}
-# [**Lesson 183 I call upon God's Name and on my own**](#part0004.html#level-453){.calibre3} {#part0044_split_014.html#h1-453 .level1}
+# [**Lesson 183 I call upon God's Name and on my own**](#part0004.html#level-453) {#part0044_split_014.html#h1-453 .level1}
 
 ^1^ God's Name is holy, but no holier than yours. To call upon His Name
 is but to call upon your own. A father gives his son his name, and thus
@@ -43275,7 +41137,7 @@ today. And in His Name it shall be given us.
 []{#part0044_split_015.html}
 
 ::: {.body}
-# [**Lesson 184 The Name of God is my inheritance**](#part0004.html#level-454){.calibre3} {#part0044_split_015.html#h1-454 .level1}
+# [**Lesson 184 The Name of God is my inheritance**](#part0004.html#level-454) {#part0044_split_015.html#h1-454 .level1}
 
 ^1^ You live by symbols. You have made up names for everything you see.
 Each one becomes a separate entity, identified by its own name. By this
@@ -43398,7 +41260,7 @@ unites us in the oneness which is our inheritance and peace. Amen.*
 []{#part0044_split_016.html}
 
 ::: {.body}
-# [**Lesson 185 I want the peace of God**](#part0004.html#level-455){.calibre3} {#part0044_split_016.html#h1-455 .level1}
+# [**Lesson 185 I want the peace of God**](#part0004.html#level-455) {#part0044_split_016.html#h1-455 .level1}
 
 ^1^ To say these words is nothing. But to mean these words is
 everything. If you could but mean them for just an instant, there would
@@ -43510,7 +41372,7 @@ given us?
 []{#part0044_split_017.html}
 
 ::: {.body}
-# [**Lesson 186 Salvation of the world depends on me**](#part0004.html#level-456){.calibre3} {#part0044_split_017.html#h1-456 .level1}
+# [**Lesson 186 Salvation of the world depends on me**](#part0004.html#level-456) {#part0044_split_017.html#h1-456 .level1}
 
 ^1^ Here is the statement that will one day take all arrogance away from
 every mind. Here is the thought of true humility which holds no function
@@ -43625,7 +41487,7 @@ forgive. Such is your function here.
 []{#part0044_split_018.html}
 
 ::: {.body}
-# [**Lesson 187 I bless the world because I bless myself**](#part0004.html#level-457){.calibre3} {#part0044_split_018.html#h1-457 .level1}
+# [**Lesson 187 I bless the world because I bless myself**](#part0004.html#level-457) {#part0044_split_018.html#h1-457 .level1}
 
 ^1^ No one can give unless he has. In fact, giving is proof of having.
 We have made this point before. What seems to make it hard to credit is
@@ -43715,7 +41577,7 @@ as ours.
 []{#part0044_split_019.html}
 
 ::: {.body}
-# [**Lesson 188 The peace of God is shining in me now**](#part0004.html#level-458){.calibre3} {#part0044_split_019.html#h1-458 .level1}
+# [**Lesson 188 The peace of God is shining in me now**](#part0004.html#level-458) {#part0044_split_019.html#h1-458 .level1}
 
 ^1^ Why wait for Heaven? Those who seek the light are merely covering
 their eyes. The light is in them now. Enlightenment is but a
@@ -43796,7 +41658,7 @@ Let all things shine upon me in*
 []{#part0044_split_020.html}
 
 ::: {.body}
-# [**Lesson 189 I feel the Love of God within me now**](#part0004.html#level-459){.calibre3} {#part0044_split_020.html#h1-459 .level1}
+# [**Lesson 189 I feel the Love of God within me now**](#part0004.html#level-459) {#part0044_split_020.html#h1-459 .level1}
 
 ^1^ There is a light in you the world can not perceive. And with your
 eyes you will not see this light, for you are blinded by the world. Yet
@@ -43883,7 +41745,7 @@ becomes a part of Heaven now. Amen.*
 []{#part0044_split_021.html}
 
 ::: {.body}
-# [**Lesson 190 I choose the joy of God instead of pain**](#part0004.html#level-460){.calibre3} {#part0044_split_021.html#h1-460 .level1}
+# [**Lesson 190 I choose the joy of God instead of pain**](#part0004.html#level-460) {#part0044_split_021.html#h1-460 .level1}
 
 ^1^ Pain is a wrong perspective. When it is experienced in any form, it
 is a proof of self-deception. It is not a fact at all. There is no form
@@ -43971,7 +41833,7 @@ darkness of the world.
 []{#part0044_split_022.html}
 
 ::: {.body}
-# [**Lesson 191 I am the holy Son of God Himself**](#part0004.html#level-461){.calibre3} {#part0044_split_022.html#h1-461 .level1}
+# [**Lesson 191 I am the holy Son of God Himself**](#part0004.html#level-461) {#part0044_split_022.html#h1-461 .level1}
 
 ^1^ Here is your declaration of release from bondage of the world. And
 here as well is all the world released. You do not see what you have
@@ -44061,7 +41923,7 @@ earth and Heaven are one.
 []{#part0044_split_023.html}
 
 ::: {.body}
-# [**Lesson 192 I have a function God would have me fill**](#part0004.html#level-462){.calibre3} {#part0044_split_023.html#h1-462 .level1}
+# [**Lesson 192 I have a function God would have me fill**](#part0004.html#level-462) {#part0044_split_023.html#h1-462 .level1}
 
 ^1^ It is your Father's holy Will that you complete Himself and that
 your Self shall be His sacred Son, forever pure as He, of love created
@@ -44141,7 +42003,7 @@ will see that you are one with him.
 []{#part0044_split_024.html}
 
 ::: {.body}
-# [**Lesson 193 All things are lessons God would have me learn**](#part0004.html#level-463){.calibre3} {#part0044_split_024.html#h1-463 .level1}
+# [**Lesson 193 All things are lessons God would have me learn**](#part0004.html#level-463) {#part0044_split_024.html#h1-463 .level1}
 
 ^1^ God does not know of learning. Yet His Will extends to what He does
 not understand in that He wills the happiness His Son inherited of Him
@@ -44272,7 +42134,7 @@ Do not deny the little steps He asks you take to Him.
 []{#part0044_split_025.html}
 
 ::: {.body}
-# [**Lesson 194 I place the future in the Hands of God**](#part0004.html#level-464){.calibre3} {#part0044_split_025.html#h1-464 .level1}
+# [**Lesson 194 I place the future in the Hands of God**](#part0004.html#level-464) {#part0044_split_025.html#h1-464 .level1}
 
 ^1^ Today's idea takes another step toward quick salvation, and a giant
 stride it is indeed! So great the distance is that it encompasses, it
@@ -44349,7 +42211,7 @@ be its friends.
 []{#part0044_split_026.html}
 
 ::: {.body}
-# [**Lesson 195 Love is the way I walk in gratitude**](#part0004.html#level-465){.calibre3} {#part0044_split_026.html#h1-465 .level1}
+# [**Lesson 195 Love is the way I walk in gratitude**](#part0004.html#level-465) {#part0044_split_026.html#h1-465 .level1}
 
 ^1^ Gratitude is a lesson hard to learn for those who look upon the
 world amiss. The most that they can do is see themselves as better off
@@ -44432,7 +42294,7 @@ thus we go who walk the way to God.
 []{#part0044_split_027.html}
 
 ::: {.body}
-# [**Lesson 196 It can be but myself I crucify**](#part0004.html#level-466){.calibre3} {#part0044_split_027.html#h1-466 .level1}
+# [**Lesson 196 It can be but myself I crucify**](#part0004.html#level-466) {#part0044_split_027.html#h1-466 .level1}
 
 ^1^ When this is firmly understood and kept in full awareness, you will
 not attempt to harm yourself nor make your body slave to vengeance. You
@@ -44530,7 +42392,7 @@ too, will come from you.
 []{#part0044_split_028.html}
 
 ::: {.body}
-# [**Lesson 197 It can be but my gratitude I earn**](#part0004.html#level-467){.calibre3} {#part0044_split_028.html#h1-467 .level1}
+# [**Lesson 197 It can be but my gratitude I earn**](#part0004.html#level-467) {#part0044_split_028.html#h1-467 .level1}
 
 ^1^ Here is the second step we take to free your mind from the belief in
 outside force pitted against your own. You make attempts at kindness and
@@ -44601,7 +42463,7 @@ you.
 []{#part0044_split_029.html}
 
 ::: {.body}
-# [**Lesson 198 Only my condemnation injures me**](#part0004.html#level-468){.calibre3} {#part0044_split_029.html#h1-468 .level1}
+# [**Lesson 198 Only my condemnation injures me**](#part0004.html#level-468) {#part0044_split_029.html#h1-468 .level1}
 
 ^1^ Injury is impossible. And yet illusion makes illusion. If you can
 condemn, you can be injured. For you have believed that you can injure,
@@ -44710,7 +42572,7 @@ time has come today.
 []{#part0044_split_030.html}
 
 ::: {.body}
-# [**Lesson 199 I am not a body. I am free**](#part0004.html#level-469){.calibre3} {#part0044_split_030.html#h1-469 .level1}
+# [**Lesson 199 I am not a body. I am free**](#part0004.html#level-469) {#part0044_split_030.html#h1-469 .level1}
 
 ^1^ Freedom must be impossible as long as you perceive a body as
 yourself. The body is a limit. Who would seek for freedom in a body
@@ -44779,7 +42641,7 @@ And it is only this my mind obeys.*
 []{#part0044_split_031.html}
 
 ::: {.body}
-# [**Lesson 200 There is no peace except the peace of God**](#part0004.html#level-470){.calibre3} {#part0044_split_031.html#h1-470 .level1}
+# [**Lesson 200 There is no peace except the peace of God**](#part0004.html#level-470) {#part0044_split_031.html#h1-470 .level1}
 
 ^1^ Seek you no further. You will not find peace except the peace of
 God. Accept this fact, and save yourself the agony of yet more bitter
@@ -44868,7 +42730,7 @@ And I am glad and thankful it is so.*
 []{#part0045_split_000.html}
 
 ::: {.body}
-# [**Review VI**](#part0004.html#parta-6){.calibre3} {#part0045_split_000.html#calibre_pb_0 .toc-title}
+# [**Review VI**](#part0004.html#parta-6) {#part0045_split_000.html#calibre_pb_0 .toc-title}
 
 ^R6:1^ For this review, we take but one idea each day and practice it as
 often as is possible. Besides the time you give morning and evening,
@@ -44938,7 +42800,7 @@ best become a loving gift of freedom to the world.
 []{#part0045_split_001.html}
 
 ::: {.body}
-# [**Lesson 201 I am not a body. I am free. For I am still as God created me**](#part0004.html#level-471){.calibre3} {#part0045_split_001.html#h1-471 .level1}
+# [**Lesson 201 I am not a body. I am free. For I am still as God created me**](#part0004.html#level-471) {#part0045_split_001.html#h1-471 .level1}
 
 \[181\] I trust my brothers, who are one with me.
 
@@ -44951,7 +42813,7 @@ that is my Self, forever one with me.*
 []{#part0045_split_002.html}
 
 ::: {.body}
-# [**Lesson 202**](#part0004.html#level-472){.calibre3} {#part0045_split_002.html#h1-472 .level1}
+# [**Lesson 202**](#part0004.html#level-472) {#part0045_split_002.html#h1-472 .level1}
 
 \[182\] I will be still a moment and go home.
 
@@ -44963,7 +42825,7 @@ has given me His Voice to call me home?*
 []{#part0045_split_003.html}
 
 ::: {.body}
-# [**Lesson 203**](#part0004.html#level-473){.calibre3} {#part0045_split_003.html#h1-473 .level1}
+# [**Lesson 203**](#part0004.html#level-473) {#part0045_split_003.html#h1-473 .level1}
 
 \[183\] I call upon God's Name and on my own.
 
@@ -44975,7 +42837,7 @@ because it is my own as well as His.*
 []{#part0045_split_004.html}
 
 ::: {.body}
-# [**Lesson 204**](#part0004.html#level-474){.calibre3} {#part0045_split_004.html#h1-474 .level1}
+# [**Lesson 204**](#part0004.html#level-474) {#part0045_split_004.html#h1-474 .level1}
 
 \[184\] The Name of God is my inheritance.
 
@@ -44988,7 +42850,7 @@ forever and forever one with Him.*
 []{#part0045_split_005.html}
 
 ::: {.body}
-# [**Lesson 205**](#part0004.html#level-475){.calibre3} {#part0045_split_005.html#h1-475 .level1}
+# [**Lesson 205**](#part0004.html#level-475) {#part0045_split_005.html#h1-475 .level1}
 
 \[185\] I want the peace of God.
 
@@ -45002,7 +42864,7 @@ while I abide where I am not at home.*
 []{#part0045_split_006.html}
 
 ::: {.body}
-# [**Lesson 206**](#part0004.html#level-476){.calibre3} {#part0045_split_006.html#h1-476 .level1}
+# [**Lesson 206**](#part0004.html#level-476) {#part0045_split_006.html#h1-476 .level1}
 
 \[186\] Salvation of the world depends on me.
 
@@ -45014,7 +42876,7 @@ His gifts where He intended them to be.*
 []{#part0045_split_007.html}
 
 ::: {.body}
-# [**Lesson 207**](#part0004.html#level-477){.calibre3} {#part0045_split_007.html#h1-477 .level1}
+# [**Lesson 207**](#part0004.html#level-477) {#part0045_split_007.html#h1-477 .level1}
 
 \[187\] I bless the world because I bless myself.
 
@@ -45027,7 +42889,7 @@ as I accept His boundless Love for me.*
 []{#part0045_split_008.html}
 
 ::: {.body}
-# [**Lesson 208**](#part0004.html#level-478){.calibre3} {#part0045_split_008.html#h1-478 .level1}
+# [**Lesson 208**](#part0004.html#level-478) {#part0045_split_008.html#h1-478 .level1}
 
 \[188\] The peace of God is shining in me now.
 
@@ -45040,7 +42902,7 @@ my heart, which witnesses to God Himself.*
 []{#part0045_split_009.html}
 
 ::: {.body}
-# [**Lesson 209**](#part0004.html#level-479){.calibre3} {#part0045_split_009.html#h1-479 .level1}
+# [**Lesson 209**](#part0004.html#level-479) {#part0045_split_009.html#h1-479 .level1}
 
 \[189\] I feel the Love of God within me now.
 
@@ -45053,7 +42915,7 @@ The Love of God within me sets me free.*
 []{#part0045_split_010.html}
 
 ::: {.body}
-# [**Lesson 210**](#part0004.html#level-480){.calibre3} {#part0045_split_010.html#h1-480 .level1}
+# [**Lesson 210**](#part0004.html#level-480) {#part0045_split_010.html#h1-480 .level1}
 
 \[190\] I choose the joy of God instead of pain.
 
@@ -45067,7 +42929,7 @@ And that I choose instead of what I made.*
 []{#part0045_split_011.html}
 
 ::: {.body}
-# [**Lesson 211**](#part0004.html#level-481){.calibre3} {#part0045_split_011.html#h1-481 .level1}
+# [**Lesson 211**](#part0004.html#level-481) {#part0045_split_011.html#h1-481 .level1}
 
 \[191\] I am the holy Son of God Himself.
 
@@ -45079,7 +42941,7 @@ the Son whom He created as my Self.*
 []{#part0045_split_012.html}
 
 ::: {.body}
-# [**Lesson 212**](#part0004.html#level-482){.calibre3} {#part0045_split_012.html#h1-482 .level1}
+# [**Lesson 212**](#part0004.html#level-482) {#part0045_split_012.html#h1-482 .level1}
 
 \[192\] I have a function God would have me fill.
 
@@ -45093,7 +42955,7 @@ and only this will I accept as mine.*
 []{#part0045_split_013.html}
 
 ::: {.body}
-# [**Lesson 213**](#part0004.html#level-483){.calibre3} {#part0045_split_013.html#h1-483 .level1}
+# [**Lesson 213**](#part0004.html#level-483) {#part0045_split_013.html#h1-483 .level1}
 
 \[193\] All things are lessons God would have me learn.
 
@@ -45107,7 +42969,7 @@ to learn His lessons and forget my own.*
 []{#part0045_split_014.html}
 
 ::: {.body}
-# [**Lesson 214**](#part0004.html#level-484){.calibre3} {#part0045_split_014.html#h1-484 .level1}
+# [**Lesson 214**](#part0004.html#level-484) {#part0045_split_014.html#h1-484 .level1}
 
 \[194\] I place the future in the hands of God.
 
@@ -45120,7 +42982,7 @@ but what He gives as what belongs to me.*
 []{#part0045_split_015.html}
 
 ::: {.body}
-# [**Lesson 215**](#part0004.html#level-485){.calibre3} {#part0045_split_015.html#h1-485 .level1}
+# [**Lesson 215**](#part0004.html#level-485) {#part0045_split_015.html#h1-485 .level1}
 
 \[195\] Love is the way I walk in gratitude.
 
@@ -45132,7 +42994,7 @@ to Him for showing me the way to go.*
 []{#part0045_split_016.html}
 
 ::: {.body}
-# [**Lesson 216**](#part0004.html#level-486){.calibre3} {#part0045_split_016.html#h1-486 .level1}
+# [**Lesson 216**](#part0004.html#level-486) {#part0045_split_016.html#h1-486 .level1}
 
 \[196\] It can be but myself I crucify.
 
@@ -45144,7 +43006,7 @@ forgive, salvation will be given me.*
 []{#part0045_split_017.html}
 
 ::: {.body}
-# [**Lesson 217**](#part0004.html#level-487){.calibre3} {#part0045_split_017.html#h1-487 .level1}
+# [**Lesson 217**](#part0004.html#level-487) {#part0045_split_017.html#h1-487 .level1}
 
 \[197\] It can be but my gratitude I earn.
 
@@ -45156,7 +43018,7 @@ I find the Self to Whom my thanks are due?*
 []{#part0045_split_018.html}
 
 ::: {.body}
-# [**Lesson 218**](#part0004.html#level-488){.calibre3} {#part0045_split_018.html#h1-488 .level1}
+# [**Lesson 218**](#part0004.html#level-488) {#part0045_split_018.html#h1-488 .level1}
 
 \[198\] Only my condemnation injures me.
 
@@ -45169,7 +43031,7 @@ I can behold this glory and be glad.*
 []{#part0045_split_019.html}
 
 ::: {.body}
-# [**Lesson 219**](#part0004.html#level-489){.calibre3} {#part0045_split_019.html#h1-489 .level1}
+# [**Lesson 219**](#part0004.html#level-489) {#part0045_split_019.html#h1-489 .level1}
 
 \[199\] I am not a body. I am free.
 
@@ -45182,7 +43044,7 @@ my Father loves forever as His Son.*
 []{#part0045_split_020.html}
 
 ::: {.body}
-# [**Lesson 220**](#part0004.html#level-490){.calibre3} {#part0045_split_020.html#h1-490 .level1}
+# [**Lesson 220**](#part0004.html#level-490) {#part0045_split_020.html#h1-490 .level1}
 
 I am not a body. I am free.\
 For I am still as God created me.
@@ -45198,7 +43060,7 @@ and peace is certain as the Love of God.*
 []{#part0046.html}
 
 ::: {.body}
-# [**PART II**](#part0004.html#part-2){.calibre3} {#part0046.html#Rpart-2 .toc-title}
+# [**PART II**](#part0004.html#part-2) {#part0046.html#Rpart-2 .toc-title}
 
 ^IP2:1^ Words will mean little now. We use them but as guides on which
 we do not now depend. For now we seek direct experience of truth alone.
@@ -45294,7 +43156,7 @@ now.
 []{#part0047_split_000.html}
 
 ::: {.body}
-# [**1. W[HAT IS]{.small} F[ORGIVENESS]{.small}?**](#part0004.html#chap-32){.calibre3} {#part0047_split_000.html#calibre_pb_0 .toc-title}
+# [**1. W[HAT IS]{.small} F[ORGIVENESS]{.small}?**](#part0004.html#chap-32) {#part0047_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST221:1^ Forgiveness recognizes what you thought your brother did to
 you has not occurred. It does not pardon sins and make them real. It
@@ -45334,7 +43196,7 @@ as the Son of God.
 []{#part0047_split_001.html}
 
 ::: {.body}
-# [**Lesson 221 Peace to my mind. Let all my thoughts be still**](#part0004.html#level-491){.calibre3} {#part0047_split_001.html#h1-491 .level1}
+# [**Lesson 221 Peace to my mind. Let all my thoughts be still**](#part0004.html#level-491) {#part0047_split_001.html#h1-491 .level1}
 
 *^1^ Father, I come to You today to seek the peace that You alone can
 give. I come in silence. In the quiet of my heart, the deep recesses of
@@ -45353,7 +43215,7 @@ unto His Son.
 []{#part0047_split_002.html}
 
 ::: {.body}
-# [**Lesson 222 God is with me. I live and breathe in Him**](#part0004.html#level-492){.calibre3} {#part0047_split_002.html#h1-492 .level1}
+# [**Lesson 222 God is with me. I live and breathe in Him**](#part0004.html#level-492) {#part0047_split_002.html#h1-492 .level1}
 
 ^1^ God is with me. He is my Source of life, the life within, the air I
 breathe, the food by which I am sustained, the water which renews and
@@ -45371,7 +43233,7 @@ in peace a while.*
 []{#part0047_split_003.html}
 
 ::: {.body}
-# [**Lesson 223 God is my life. I have no life but His**](#part0004.html#level-493){.calibre3} {#part0047_split_003.html#h1-493 .level1}
+# [**Lesson 223 God is my life. I have no life but His**](#part0004.html#level-493) {#part0047_split_003.html#h1-493 .level1}
 
 ^1^ I was mistaken when I thought I lived apart from God, a separate
 entity which moved in isolation, unattached, and housed within a body.
@@ -45390,7 +43252,7 @@ acknowledge that we are Your Son.*
 []{#part0047_split_004.html}
 
 ::: {.body}
-# [**Lesson 224 God is my Father, and He loves His Son**](#part0004.html#level-494){.calibre3} {#part0047_split_004.html#h1-494 .level1}
+# [**Lesson 224 God is my Father, and He loves His Son**](#part0004.html#level-494) {#part0047_split_004.html#h1-494 .level1}
 
 ^1^ My true identity is so secure, so lofty, sinless, glorious and
 great, wholly beneficent and free from guilt that Heaven looks to it to
@@ -45408,7 +43270,7 @@ have me see instead.*
 []{#part0047_split_005.html}
 
 ::: {.body}
-# [**Lesson 225 God is my Father, and His Son loves Him**](#part0004.html#level-495){.calibre3} {#part0047_split_005.html#h1-495 .level1}
+# [**Lesson 225 God is my Father, and His Son loves Him**](#part0004.html#level-495) {#part0047_split_005.html#h1-495 .level1}
 
 *^1^ Father, I must return Your Love for me. For giving and receiving
 are the same, and You have given all Your Love to me. I must return it,
@@ -45425,7 +43287,7 @@ accomplish these few final steps which end a journey that was not begun.
 []{#part0047_split_006.html}
 
 ::: {.body}
-# [**Lesson 226 My home awaits me. I will hasten there**](#part0004.html#level-496){.calibre3} {#part0047_split_006.html#h1-496 .level1}
+# [**Lesson 226 My home awaits me. I will hasten there**](#part0004.html#level-496) {#part0047_split_006.html#h1-496 .level1}
 
 ^1^ If I so choose, I can depart this world entirely. It is not death
 which makes this possible, but it is change of mind about the purpose of
@@ -45443,7 +43305,7 @@ and of broken dreams when Heaven can so easily be mine?*
 []{#part0047_split_007.html}
 
 ::: {.body}
-# [**Lesson 227 This is my holy instant of release**](#part0004.html#level-497){.calibre3} {#part0047_split_007.html#h1-497 .level1}
+# [**Lesson 227 This is my holy instant of release**](#part0004.html#level-497) {#part0047_split_007.html#h1-497 .level1}
 
 *^1^ Father, it is today that I am free because my will is Yours. I
 thought to make another will. Yet nothing that I thought apart from You
@@ -45461,7 +43323,7 @@ with his right mind restored to him at last.
 []{#part0047_split_008.html}
 
 ::: {.body}
-# [**Lesson 228 God has condemned me not. No more do I**](#part0004.html#level-498){.calibre3} {#part0047_split_008.html#h1-498 .level1}
+# [**Lesson 228 God has condemned me not. No more do I**](#part0004.html#level-498) {#part0047_split_008.html#h1-498 .level1}
 
 ^1^ My Father knows my holiness. Shall I deny His knowledge and believe
 in what His knowledge makes impossible? Shall I accept as true what He
@@ -45478,7 +43340,7 @@ ready to receive Your Word alone for what I really am.*
 []{#part0047_split_009.html}
 
 ::: {.body}
-# [**Lesson 229 Love, Which created me, is what I am**](#part0004.html#level-499){.calibre3} {#part0047_split_009.html#h1-499 .level1}
+# [**Lesson 229 Love, Which created me, is what I am**](#part0004.html#level-499) {#part0047_split_009.html#h1-499 .level1}
 
 ^1^ I seek my own identity and find it in these words: "Love, Which
 created me, is what I am." Now need I seek no more. Love has prevailed.
@@ -45494,7 +43356,7 @@ mind made up. And thanks to You for saving me from them. Amen.*
 []{#part0047_split_010.html}
 
 ::: {.body}
-# [**Lesson 230 Now will I seek and find the peace of God**](#part0004.html#level-500){.calibre3} {#part0047_split_010.html#h1-500 .level1}
+# [**Lesson 230 Now will I seek and find the peace of God**](#part0004.html#level-500) {#part0047_split_010.html#h1-500 .level1}
 
 ^1^ In peace I was created. And in peace do I remain. It is not given me
 to change my Self. How merciful is God my Father, that when He created
@@ -45512,7 +43374,7 @@ gave it to Your Son**.***
 []{#part0048_split_000.html}
 
 ::: {.body}
-# [**2. W[HAT IS]{.small} S[ALVATION]{.small}?**](#part0004.html#chap-33){.calibre3} {#part0048_split_000.html#calibre_pb_0 .toc-title}
+# [**2. W[HAT IS]{.small} S[ALVATION]{.small}?**](#part0004.html#chap-33) {#part0048_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST231:1^Salvation is a promise made by God that you would find your way
 to Him at last. It cannot not be kept. It guarantees that time will have
@@ -45554,7 +43416,7 @@ all.
 []{#part0048_split_001.html}
 
 ::: {.body}
-# [**Lesson 231 Father, I will but remember You**](#part0004.html#level-501){.calibre3} {#part0048_split_001.html#h1-501 .level1}
+# [**Lesson 231 Father, I will but remember You**](#part0004.html#level-501) {#part0048_split_001.html#h1-501 .level1}
 
 *^1^ What can I seek for, Father, but Your Love? Perhaps I think I seek
 for something else-a something I have called by many names. Yet is Your
@@ -45570,7 +43432,7 @@ we seek. And only this is what it will be given us to find.
 []{#part0048_split_002.html}
 
 ::: {.body}
-# [**Lesson 232 Be in my mind, my Father, through the day**](#part0004.html#level-502){.calibre3} {#part0048_split_002.html#h1-502 .level1}
+# [**Lesson 232 Be in my mind, my Father, through the day**](#part0004.html#level-502) {#part0048_split_002.html#h1-502 .level1}
 
 *^1^ Be in my mind, my Father, when I wake and shine on me throughout
 the day today. Let every minute be a time in which I dwell with You. And
@@ -45588,7 +43450,7 @@ all things to you, and be you undismayed because you are His Son.
 []{#part0048_split_003.html}
 
 ::: {.body}
-# [**Lesson 233 I give my life to God to run today**](#part0004.html#level-503){.calibre3} {#part0048_split_003.html#h1-503 .level1}
+# [**Lesson 233 I give my life to God to run today**](#part0004.html#level-503) {#part0048_split_003.html#h1-503 .level1}
 
 *^1^ Father, I give You all my thoughts today. I would have none of
 mine. In place of them, give me Your own. I give You all my acts as well
@@ -45607,7 +43469,7 @@ so it is a day of countless gifts and mercies unto us.
 []{#part0048_split_004.html}
 
 ::: {.body}
-# [**Lesson 234 Father, today I am Your Son again**](#part0004.html#level-504){.calibre3} {#part0048_split_004.html#h1-504 .level1}
+# [**Lesson 234 Father, today I am Your Son again**](#part0004.html#level-504) {#part0048_split_004.html#h1-504 .level1}
 
 ^1^ Today we will anticipate the time when dreams of sin and guilt are
 gone and we have reached again the holy place we never left. Merely a
@@ -45627,7 +43489,7 @@ saved.*
 []{#part0048_split_005.html}
 
 ::: {.body}
-# [**Lesson 235 God in His mercy wills that I be saved**](#part0004.html#level-505){.calibre3} {#part0048_split_005.html#h1-505 .level1}
+# [**Lesson 235 God in His mercy wills that I be saved**](#part0004.html#level-505) {#part0048_split_005.html#h1-505 .level1}
 
 ^1^ I need but look upon all things that seem to hurt me and with
 perfect certainty assure myself, "God wills that I be saved from this,"
@@ -45646,7 +43508,7 @@ there is none in You.*
 []{#part0048_split_006.html}
 
 ::: {.body}
-# [**Lesson 236 I rule my mind, which I alone must rule**](#part0004.html#level-506){.calibre3} {#part0048_split_006.html#h1-506 .level1}
+# [**Lesson 236 I rule my mind, which I alone must rule**](#part0004.html#level-506) {#part0048_split_006.html#h1-506 .level1}
 
 ^1^ I have a kingdom I must rule. At times, it does not seem I am its
 king at all. It seems to triumph over me and tell me what to think and
@@ -45664,7 +43526,7 @@ for it is Yours to me.*
 []{#part0048_split_007.html}
 
 ::: {.body}
-# [**Lesson 237 Now would I be as God created me**](#part0004.html#level-507){.calibre3} {#part0048_split_007.html#h1-507 .level1}
+# [**Lesson 237 Now would I be as God created me**](#part0004.html#level-507) {#part0048_split_007.html#h1-507 .level1}
 
 ^1^ Today I will accept the truth about myself. I will arise in glory
 and allow the light in me to shine upon the world throughout the day. I
@@ -45681,7 +43543,7 @@ true Self as well. Amen.*
 []{#part0048_split_008.html}
 
 ::: {.body}
-# [**Lesson 238 On my decision all salvation rests**](#part0004.html#level-508){.calibre3} {#part0048_split_008.html#h1-508 .level1}
+# [**Lesson 238 On my decision all salvation rests**](#part0004.html#level-508) {#part0048_split_008.html#h1-508 .level1}
 
 *^1^ Father, Your trust in me has been so great I must be worthy. You
 created me and know me as I am. And yet You placed Your Son's salvation
@@ -45698,7 +43560,7 @@ made complete in him.
 []{#part0048_split_009.html}
 
 ::: {.body}
-# [**Lesson 239 The glory of my Father is my own**](#part0004.html#level-509){.calibre3} {#part0048_split_009.html#h1-509 .level1}
+# [**Lesson 239 The glory of my Father is my own**](#part0004.html#level-509) {#part0048_split_009.html#h1-509 .level1}
 
 ^1^ Let not the truth about ourselves today be hidden by a false
 humility. Let us instead be thankful for the gifts our Father gave us.
@@ -45714,7 +43576,7 @@ light, and one with You, at peace with all creation and ourselves.*
 []{#part0048_split_010.html}
 
 ::: {.body}
-# [**Lesson 240 Fear is not justified in any form**](#part0004.html#level-510){.calibre3} {#part0048_split_010.html#h1-510 .level1}
+# [**Lesson 240 Fear is not justified in any form**](#part0004.html#level-510) {#part0048_split_010.html#h1-510 .level1}
 
 ^1^ Fear is deception. It attests that you have seen yourself as you
 could never be and therefore look upon a world which is impossible. Not
@@ -45732,7 +43594,7 @@ for him that is Your own as well.*
 []{#part0049_split_000.html}
 
 ::: {.body}
-# [**3. W[HAT IS THE]{.small} W[ORLD]{.small}?**](#part0004.html#chap-34){.calibre3} {#part0049_split_000.html#calibre_pb_0 .toc-title}
+# [**3. W[HAT IS THE]{.small} W[ORLD]{.small}?**](#part0004.html#chap-34) {#part0049_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST241:1^The world is false perception. It is born of error, and it has
 not left its source. It will remain no longer than the thought which
@@ -45773,7 +43635,7 @@ that what was made to die be restored to Everlasting Life.
 []{#part0049_split_001.html}
 
 ::: {.body}
-# [**Lesson 241 This holy instant is salvation come**](#part0004.html#level-511){.calibre3} {#part0049_split_001.html#h1-511 .level1}
+# [**Lesson 241 This holy instant is salvation come**](#part0004.html#level-511) {#part0049_split_001.html#h1-511 .level1}
 
 ^1^ What joy there is today! It is a time of special celebration. For
 today holds out the instant to the darkened world where its release is
@@ -45791,7 +43653,7 @@ we all are one.*
 []{#part0049_split_002.html}
 
 ::: {.body}
-# [**Lesson 242 This day is God's. It is my gift to Him**](#part0004.html#level-512){.calibre3} {#part0049_split_002.html#h1-512 .level1}
+# [**Lesson 242 This day is God's. It is my gift to Him**](#part0004.html#level-512) {#part0049_split_002.html#h1-512 .level1}
 
 ^1^ I will not lead my life alone today. I do not understand the world.
 And so to try to lead my life alone must be but foolishness. For there
@@ -45810,7 +43672,7 @@ You.*
 []{#part0049_split_003.html}
 
 ::: {.body}
-# [**Lesson 243 Today I will judge nothing that occurs**](#part0004.html#level-513){.calibre3} {#part0049_split_003.html#h1-513 .level1}
+# [**Lesson 243 Today I will judge nothing that occurs**](#part0004.html#level-513) {#part0049_split_003.html#h1-513 .level1}
 
 ^1^ I will be honest with myself today. I will not think that I already
 know what must remain beyond my present grasp. I will not think I
@@ -45827,7 +43689,7 @@ Your memory, and truth must shine in all of us as one.*
 []{#part0049_split_004.html}
 
 ::: {.body}
-# [**Lesson 244 I am in danger nowhere in the world**](#part0004.html#level-514){.calibre3} {#part0049_split_004.html#h1-514 .level1}
+# [**Lesson 244 I am in danger nowhere in the world**](#part0004.html#level-514) {#part0049_split_004.html#h1-514 .level1}
 
 *^1^ Your Son is safe wherever he may be, for You are there with him. He
 need but call upon Your Name, and he will recollect his safety and Your
@@ -45843,7 +43705,7 @@ God Himself or make afraid what will forever be a part of Him?
 []{#part0049_split_005.html}
 
 ::: {.body}
-# [**Lesson 245 Your peace is with me, Father. I am safe**](#part0004.html#level-515){.calibre3} {#part0049_split_005.html#h1-515 .level1}
+# [**Lesson 245 Your peace is with me, Father. I am safe**](#part0004.html#level-515) {#part0049_split_005.html#h1-515 .level1}
 
 *^1^ Your peace surrounds me, Father. Where I go, Your peace goes there
 with me. It sheds its light on everyone I meet. I bring it to the
@@ -45861,7 +43723,7 @@ Word that He has given unto us.
 []{#part0049_split_006.html}
 
 ::: {.body}
-# [**Lesson 246 To love my Father is to love His Son**](#part0004.html#level-516){.calibre3} {#part0049_split_006.html#h1-516 .level1}
+# [**Lesson 246 To love my Father is to love His Son**](#part0004.html#level-516) {#part0049_split_006.html#h1-516 .level1}
 
 ^1^ Let me not think that I can find the way to God if I have hatred in
 my heart. Let me not try to hurt God's Son and think that I can know his
@@ -45878,7 +43740,7 @@ so I choose to love Your Son. Amen.*
 []{#part0049_split_007.html}
 
 ::: {.body}
-# [**Lesson 247 Without forgiveness I will still be blind**](#part0004.html#level-517){.calibre3} {#part0049_split_007.html#h1-517 .level1}
+# [**Lesson 247 Without forgiveness I will still be blind**](#part0004.html#level-517) {#part0049_split_007.html#h1-517 .level1}
 
 ^1^ Sin is the symbol of attack. Behold it anywhere, and I will suffer.
 For forgiveness is the only means whereby Christ's vision comes to me.
@@ -45899,7 +43761,7 @@ day to recognize my Self.*
 []{#part0049_split_008.html}
 
 ::: {.body}
-# [**Lesson 248 Whatever suffers is not part of me**](#part0004.html#level-518){.calibre3} {#part0049_split_008.html#h1-518 .level1}
+# [**Lesson 248 Whatever suffers is not part of me**](#part0004.html#level-518) {#part0049_split_008.html#h1-518 .level1}
 
 ^1^ I have disowned the truth. Now let me be as faithful in disowning
 falsity. Whatever suffers is not part of me. What grieves is not myself.
@@ -45916,7 +43778,7 @@ remembered and my own. Now do I understand that they are one.*
 []{#part0049_split_009.html}
 
 ::: {.body}
-# [**Lesson 249 Forgiveness ends all suffering and loss**](#part0004.html#level-519){.calibre3} {#part0049_split_009.html#h1-519 .level1}
+# [**Lesson 249 Forgiveness ends all suffering and loss**](#part0004.html#level-519) {#part0049_split_009.html#h1-519 .level1}
 
 ^1^ Forgiveness paints a picture of a world where suffering is over,
 loss becomes impossible, and anger makes no sense. Attack is gone, and
@@ -45934,7 +43796,7 @@ violence and death. Now would we rest again in You, as You created us.*
 []{#part0049_split_010.html}
 
 ::: {.body}
-# [**Lesson 250 Let me not see myself as limited**](#part0004.html#level-520){.calibre3} {#part0049_split_010.html#h1-520 .level1}
+# [**Lesson 250 Let me not see myself as limited**](#part0004.html#level-520) {#part0049_split_010.html#h1-520 .level1}
 
 ^1^ Let me behold the Son of God today and witness to his glory. Let me
 not try to obscure the holy light in him and see his strength diminished
@@ -45950,7 +43812,7 @@ with him.*
 []{#part0050_split_000.html}
 
 ::: {.body}
-# [**4. W[HAT IS]{.small} S[IN]{.small}?**](#part0004.html#chap-35){.calibre3} {#part0050_split_000.html#calibre_pb_0 .toc-title}
+# [**4. W[HAT IS]{.small} S[IN]{.small}?**](#part0004.html#chap-35) {#part0050_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST251:1^Sin is insanity. It is the means by which the mind is driven
 mad and seeks to let illusions take the place of truth. And being mad,
@@ -45992,7 +43854,7 @@ Son of God, how long?
 []{#part0050_split_001.html}
 
 ::: {.body}
-# [**Lesson 251 I am in need of nothing but the truth**](#part0004.html#level-521){.calibre3} {#part0050_split_001.html#h1-521 .level1}
+# [**Lesson 251 I am in need of nothing but the truth**](#part0004.html#level-521) {#part0050_split_001.html#h1-521 .level1}
 
 ^1^ I sought for many things and found despair. Now do I seek but one,
 for in that one is all I need and only what I need. All that I sought
@@ -46009,7 +43871,7 @@ ourselves You have restored, and only that is what we really want.*
 []{#part0050_split_002.html}
 
 ::: {.body}
-# [**Lesson 252 The Son of God is my Identity**](#part0004.html#level-522){.calibre3} {#part0050_split_002.html#h1-522 .level1}
+# [**Lesson 252 The Son of God is my Identity**](#part0004.html#level-522) {#part0050_split_002.html#h1-522 .level1}
 
 ^1^ My Self is holy beyond all the thoughts of holiness of which I now
 conceive. Its shimmering and perfect purity is far more brilliant than
@@ -46027,7 +43889,7 @@ restored to me.*
 []{#part0050_split_003.html}
 
 ::: {.body}
-# [**Lesson 253 My Self is ruler of the universe**](#part0004.html#level-523){.calibre3} {#part0050_split_003.html#h1-523 .level1}
+# [**Lesson 253 My Self is ruler of the universe**](#part0004.html#level-523) {#part0050_split_003.html#h1-523 .level1}
 
 ^1^ It is impossible that anything should come to me unbidden by myself.
 Even in this world, it is I who rule my destiny. What happens is what I
@@ -46045,7 +43907,7 @@ It may be extended to itself.*
 []{#part0050_split_004.html}
 
 ::: {.body}
-# [**Lesson 254 Let every voice but God's be still in me**](#part0004.html#level-524){.calibre3} {#part0050_split_004.html#h1-524 .level1}
+# [**Lesson 254 Let every voice but God's be still in me**](#part0004.html#level-524) {#part0050_split_004.html#h1-524 .level1}
 
 1 Father, today I would but hear Your Voice. In deepest silence, I would
 come to You to hear Your Voice and to receive Your Word. I have no
@@ -46063,7 +43925,7 @@ have chosen to remember Him.
 []{#part0050_split_005.html}
 
 ::: {.body}
-# [**Lesson 255 This day I choose to spend in perfect peace**](#part0004.html#level-525){.calibre3} {#part0050_split_005.html#h1-525 .level1}
+# [**Lesson 255 This day I choose to spend in perfect peace**](#part0004.html#level-525) {#part0050_split_005.html#h1-525 .level1}
 
 ^1^ It does not seem to me that I can choose to have but peace today.
 And yet my God assures me that His Son is like Himself. Let me this day
@@ -46081,7 +43943,7 @@ there I choose to spend today.*
 []{#part0050_split_006.html}
 
 ::: {.body}
-# [**Lesson 256 God is the only goal I have today**](#part0004.html#level-526){.calibre3} {#part0050_split_006.html#h1-526 .level1}
+# [**Lesson 256 God is the only goal I have today**](#part0004.html#level-526) {#part0050_split_006.html#h1-526 .level1}
 
 ^1^ The way to God is through forgiveness here. There is no other way.
 If sin had not been cherished by the mind, what need would there have
@@ -46100,7 +43962,7 @@ has pointed out to us.*
 []{#part0050_split_007.html}
 
 ::: {.body}
-# [**Lesson 257 Let me remember what my purpose is**](#part0004.html#level-527){.calibre3} {#part0050_split_007.html#h1-527 .level1}
+# [**Lesson 257 Let me remember what my purpose is**](#part0004.html#level-527) {#part0050_split_007.html#h1-527 .level1}
 
 ^1^ If I forget my goal, I can be but confused, unsure of what I am and
 thus conflicted in my actions. No one can serve contradicting goals and
@@ -46118,7 +43980,7 @@ us.*
 []{#part0050_split_008.html}
 
 ::: {.body}
-# [**Lesson 258 Let me remember that my goal is God**](#part0004.html#level-528){.calibre3} {#part0050_split_008.html#h1-528 .level1}
+# [**Lesson 258 Let me remember that my goal is God**](#part0004.html#level-528) {#part0050_split_008.html#h1-528 .level1}
 
 ^1^ All that is needful is to train our minds to overlook all little,
 senseless aims and to remember that our goal is God. His memory is
@@ -46136,7 +43998,7 @@ seek but our identity?*
 []{#part0050_split_009.html}
 
 ::: {.body}
-# [**Lesson 259 Let me remember that there is no sin**](#part0004.html#level-529){.calibre3} {#part0050_split_009.html#h1-529 .level1}
+# [**Lesson 259 Let me remember that there is no sin**](#part0004.html#level-529) {#part0050_split_009.html#h1-529 .level1}
 
 ^1^ Sin is the only thought that makes the goal of God seem
 unobtainable. What else could blind us to the obvious and make the
@@ -46155,7 +44017,7 @@ with You and You with it.*
 []{#part0050_split_010.html}
 
 ::: {.body}
-# [**Lesson 260 Let me remember God created me**](#part0004.html#level-530){.calibre3} {#part0050_split_010.html#h1-530 .level1}
+# [**Lesson 260 Let me remember God created me**](#part0004.html#level-530) {#part0050_split_010.html#h1-530 .level1}
 
 *^1^ Father, I did not make myself, although in my insanity I thought I
 did. Yet as Your Thought, I have not left my Source, remaining part of
@@ -46172,7 +44034,7 @@ who are His Sons are like each other and alike to Him.
 []{#part0051_split_000.html}
 
 ::: {.body}
-# [**5. W[HAT IS THE]{.small} B[ODY]{.small}?**](#part0004.html#chap-36){.calibre3} {#part0051_split_000.html#calibre_pb_0 .toc-title}
+# [**5. W[HAT IS THE]{.small} B[ODY]{.small}?**](#part0004.html#chap-36) {#part0051_split_000.html#calibre_pb_0 .toc-title}
 
 ST261:1 The body is a fence the Son of God imagines he has built to
 separate parts of his Self from other parts. It is within this fence, he
@@ -46212,7 +44074,7 @@ home. Identify with love, and find your Self.
 []{#part0051_split_001.html}
 
 ::: {.body}
-# [**Lesson 261 God is my refuge and security**](#part0004.html#level-531){.calibre3} {#part0051_split_001.html#h1-531 .level1}
+# [**Lesson 261 God is my refuge and security**](#part0004.html#level-531) {#part0051_split_001.html#h1-531 .level1}
 
 ^1^ I will identify with what I think is refuge and security. I will
 behold myself where I perceive my strength and think I live within the
@@ -46230,7 +44092,7 @@ created as my Self.*
 []{#part0051_split_002.html}
 
 ::: {.body}
-# [**Lesson 262 Let me perceive no differences today**](#part0004.html#level-532){.calibre3} {#part0051_split_002.html#h1-532 .level1}
+# [**Lesson 262 Let me perceive no differences today**](#part0004.html#level-532) {#part0051_split_002.html#h1-532 .level1}
 
 *^1^ Father, You have one Son. And it is he that I would look upon
 today. He is Your one creation. Why should I perceive a thousand forms
@@ -46249,7 +44111,7 @@ else can peace be sought and found.
 []{#part0051_split_003.html}
 
 ::: {.body}
-# [**Lesson 263 My holy vision sees all things as pure**](#part0004.html#level-533){.calibre3} {#part0051_split_003.html#h1-533 .level1}
+# [**Lesson 263 My holy vision sees all things as pure**](#part0004.html#level-533) {#part0051_split_003.html#h1-533 .level1}
 
 *^1^ Father, Your Mind created all that is; Your Spirit entered into it;
 Your Love gave life to it. And would I look upon what You created as if
@@ -46268,7 +44130,7 @@ God.
 []{#part0051_split_004.html}
 
 ::: {.body}
-# [**Lesson 264 I am surrounded by the Love of God**](#part0004.html#level-534){.calibre3} {#part0051_split_004.html#h1-534 .level1}
+# [**Lesson 264 I am surrounded by the Love of God**](#part0004.html#level-534) {#part0051_split_004.html#h1-534 .level1}
 
 *^1^ Father, You stand before me and behind, beside me, in the place I
 see myself, and everywhere I go. You are in all the things I look upon,
@@ -46287,7 +44149,7 @@ Must we not join in what will save the world along with us?
 []{#part0051_split_005.html}
 
 ::: {.body}
-# [**Lesson 265 Creation's gentleness is all I see**](#part0004.html#level-535){.calibre3} {#part0051_split_005.html#h1-535 .level1}
+# [**Lesson 265 Creation's gentleness is all I see**](#part0004.html#level-535) {#part0051_split_005.html#h1-535 .level1}
 
 ^1^ I have indeed misunderstood the world because I laid my "sins" on it
 and saw them looking back at me. How fierce they seemed! And how
@@ -46307,7 +44169,7 @@ will see creation's gentleness.*
 []{#part0051_split_006.html}
 
 ::: {.body}
-# [**Lesson 266 My holy Self abides in you, God's Son**](#part0004.html#level-536){.calibre3} {#part0051_split_006.html#h1-536 .level1}
+# [**Lesson 266 My holy Self abides in you, God's Son**](#part0004.html#level-536) {#part0051_split_006.html#h1-536 .level1}
 
 *^1^ Father, You gave me all Your Sons to be my saviors and my
 counselors in sight; the bearers of Your holy Voice to me. In them are
@@ -46325,7 +44187,7 @@ the sight to look on them?
 []{#part0051_split_007.html}
 
 ::: {.body}
-# [**Lesson 267 My heart is beating in the peace of God**](#part0004.html#level-537){.calibre3} {#part0051_split_007.html#h1-537 .level1}
+# [**Lesson 267 My heart is beating in the peace of God**](#part0004.html#level-537) {#part0051_split_007.html#h1-537 .level1}
 
 ^1^ Surrounding me is all the life that God created in His Love. It
 calls to me in every heartbeat and in every breath, in every action and
@@ -46345,7 +44207,7 @@ I can be at home.*
 []{#part0051_split_008.html}
 
 ::: {.body}
-# [**Lesson 268 Let all things be exactly as they are**](#part0004.html#level-538){.calibre3} {#part0051_split_008.html#h1-538 .level1}
+# [**Lesson 268 Let all things be exactly as they are**](#part0004.html#level-538) {#part0051_split_008.html#h1-538 .level1}
 
 *^1^ Let me not be Your critic, Lord, today, and judge against You. Let
 me not attempt to interfere with Your creation and distort it into
@@ -46359,7 +44221,7 @@ exactly as they are?*
 []{#part0051_split_009.html}
 
 ::: {.body}
-# [**Lesson 269 My sight goes forth to look upon Christ's face**](#part0004.html#level-539){.calibre3} {#part0051_split_009.html#h1-539 .level1}
+# [**Lesson 269 My sight goes forth to look upon Christ's face**](#part0004.html#level-539) {#part0051_split_009.html#h1-539 .level1}
 
 *^1^ I ask Your blessing on my sight today. It is the means which You
 have chosen to become the way to show me my mistakes and look beyond
@@ -46381,7 +44243,7 @@ wholly safe. And it is only this we seek today.
 []{#part0051_split_010.html}
 
 ::: {.body}
-# [**Lesson 270 I will not use the body's eyes today**](#part0004.html#level-540){.calibre3} {#part0051_split_010.html#h1-540 .level1}
+# [**Lesson 270 I will not use the body's eyes today**](#part0004.html#level-540) {#part0051_split_010.html#h1-540 .level1}
 
 *^1^ Father, Christ's vision is Your gift to me, and it has power to
 translate all that the body's eyes behold into the sight of a forgiven
@@ -46402,7 +44264,7 @@ whole, the holy Son whom God created one.
 []{#part0052_split_000.html}
 
 ::: {.body}
-# [**6. W[HAT IS THE]{.small} C[HRIST]{.small}?**](#part0004.html#chap-37){.calibre3} {#part0052_split_000.html#calibre_pb_0 .toc-title}
+# [**6. W[HAT IS THE]{.small} C[HRIST]{.small}?**](#part0004.html#chap-37) {#part0052_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST271:1^ Christ is God's Son as He created Him. He is the Self we
 share, uniting us with one another and with God as well. He is the
@@ -46443,7 +44305,7 @@ Self, the Christ Whom God created as His Son.
 []{#part0052_split_001.html}
 
 ::: {.body}
-# [**Lesson 271 Christ's is the vision I will use today**](#part0004.html#level-541){.calibre3} {#part0052_split_001.html#h1-541 .level1}
+# [**Lesson 271 Christ's is the vision I will use today**](#part0004.html#level-541) {#part0052_split_001.html#h1-541 .level1}
 
 ^1^ Each day, each hour, every instant, I am choosing what I want to
 look upon, the sounds I want to hear, the witnesses to what I want to be
@@ -46462,7 +44324,7 @@ look upon today.*
 []{#part0052_split_002.html}
 
 ::: {.body}
-# [**Lesson 272 How can illusions satisfy God's Son?**](#part0004.html#level-542){.calibre3} {#part0052_split_002.html#h1-542 .level1}
+# [**Lesson 272 How can illusions satisfy God's Son?**](#part0004.html#level-542) {#part0052_split_002.html#h1-542 .level1}
 
 *Father, the truth belongs to me. My home is set in Heaven by Your Will
 and mine. Can dreams content me? Can illusions bring me happiness? What
@@ -46479,7 +44341,7 @@ as easily as hell and love will happily replace all fear.
 []{#part0052_split_003.html}
 
 ::: {.body}
-# [**Lesson 273 The stillness of the peace of God is mine**](#part0004.html#level-543){.calibre3} {#part0052_split_003.html#h1-543 .level1}
+# [**Lesson 273 The stillness of the peace of God is mine**](#part0004.html#level-543) {#part0052_split_003.html#h1-543 .level1}
 
 ^1^ Perhaps we are now ready for a day of undisturbed tranquillity. If
 this is not yet feasible, we are content and even more than satisfied to
@@ -46498,7 +44360,7 @@ and in my own eternal love for You.*
 []{#part0052_split_004.html}
 
 ::: {.body}
-# [**Lesson 274 Today belongs to Love. Let me not fear**](#part0004.html#level-544){.calibre3} {#part0052_split_004.html#h1-544 .level1}
+# [**Lesson 274 Today belongs to Love. Let me not fear**](#part0004.html#level-544) {#part0052_split_004.html#h1-544 .level1}
 
 *^1^ Father, today I would let all things be as You created them and
 give Your Son the honor due his sinlessness, the love of brother to his
@@ -46514,7 +44376,7 @@ given unto Love.
 []{#part0052_split_005.html}
 
 ::: {.body}
-# [**Lesson 275 God's healing Voice protects all things today**](#part0004.html#level-545){.calibre3} {#part0052_split_005.html#h1-545 .level1}
+# [**Lesson 275 God's healing Voice protects all things today**](#part0004.html#level-545) {#part0052_split_005.html#h1-545 .level1}
 
 ^1^ Let us today attend the Voice of God, Which speaks an ancient
 lesson, no more true today than any other day. Yet has this day been
@@ -46533,7 +44395,7 @@ bring is given me. Father, Your Voice protects all things through me.*
 []{#part0052_split_006.html}
 
 ::: {.body}
-# [**Lesson 276 The Word of God is given me to speak**](#part0004.html#level-546){.calibre3} {#part0052_split_006.html#h1-546 .level1}
+# [**Lesson 276 The Word of God is given me to speak**](#part0004.html#level-546) {#part0052_split_006.html#h1-546 .level1}
 
 ^1^ What is the Word of God? "My Son is pure and holy as Myself." And
 thus did God become the Father of the Son He loves, for thus was he
@@ -46552,7 +44414,7 @@ blessed and saved by You.*
 []{#part0052_split_007.html}
 
 ::: {.body}
-# [**Lesson 277 Let me not bind Your Son with laws I made**](#part0004.html#level-547){.calibre3} {#part0052_split_007.html#h1-547 .level1}
+# [**Lesson 277 Let me not bind Your Son with laws I made**](#part0004.html#level-547) {#part0052_split_007.html#h1-547 .level1}
 
 *^1^ Your Son is free, my Father. Let me not imagine I have bound him
 with the laws I made to rule the body. He is not subject to any laws I
@@ -46571,7 +44433,7 @@ Himself.
 []{#part0052_split_008.html}
 
 ::: {.body}
-# [**Lesson 278 If I am bound, my Father is not free**](#part0004.html#level-548){.calibre3} {#part0052_split_008.html#h1-548 .level1}
+# [**Lesson 278 If I am bound, my Father is not free**](#part0004.html#level-548) {#part0052_split_008.html#h1-548 .level1}
 
 ^1^ If I accept that I am prisoner within a body in a world in which all
 things that seem to live appear to die, then is my Father prisoner with
@@ -46591,7 +44453,7 @@ sure.*
 []{#part0052_split_009.html}
 
 ::: {.body}
-# [**Lesson 279 Creation's freedom promises my own**](#part0004.html#level-549){.calibre3} {#part0052_split_009.html#h1-549 .level1}
+# [**Lesson 279 Creation's freedom promises my own**](#part0004.html#level-549) {#part0052_split_009.html#h1-549 .level1}
 
 ^1^ The end of dreams is promised me because God's Son is not abandoned
 by His Love. Only in dreams is there a time when he appears to be in
@@ -46608,7 +44470,7 @@ gifts You gave to me?*
 []{#part0052_split_010.html}
 
 ::: {.body}
-# [**Lesson 280 What limits can I lay upon God's Son?**](#part0004.html#level-550){.calibre3} {#part0052_split_010.html#h1-550 .level1}
+# [**Lesson 280 What limits can I lay upon God's Son?**](#part0004.html#level-550) {#part0052_split_010.html#h1-550 .level1}
 
 ^1^ Whom God created limitless is free. I can invent imprisonment for
 him, but only in illusions, not in truth. No Thought of God has left its
@@ -46625,7 +44487,7 @@ belongs to me as well.*
 []{#part0053_split_000.html}
 
 ::: {.body}
-# [**7. W[HAT IS THE]{.small} H[OLY]{.small} S[PIRIT]{.small}?**](#part0004.html#chap-38){.calibre3} {#part0053_split_000.html#calibre_pb_0 .toc-title}
+# [**7. W[HAT IS THE]{.small} H[OLY]{.small} S[PIRIT]{.small}?**](#part0004.html#chap-38) {#part0053_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST281:1^The Holy Spirit mediates between illusions and the truth. As He
 must bridge the gap between reality and dreams, perception leads to
@@ -46666,7 +44528,7 @@ of completing God when all He wills is that you be complete?
 []{#part0053_split_001.html}
 
 ::: {.body}
-# [**Lesson 281 I can be hurt by nothing but my thoughts**](#part0004.html#level-551){.calibre3} {#part0053_split_001.html#h1-551 .level1}
+# [**Lesson 281 I can be hurt by nothing but my thoughts**](#part0004.html#level-551) {#part0053_split_001.html#h1-551 .level1}
 
 *^1^ Father, Your Son is perfect. When he thinks that he is hurt in any
 way, it is because he has forgotten who he is. And that he is as You
@@ -46684,7 +44546,7 @@ attack the Son He loves, for what He loves is mine to love as well.
 []{#part0053_split_002.html}
 
 ::: {.body}
-# [**Lesson 282 I will not be afraid of love today**](#part0004.html#level-552){.calibre3} {#part0053_split_002.html#h1-552 .level1}
+# [**Lesson 282 I will not be afraid of love today**](#part0004.html#level-552) {#part0053_split_002.html#h1-552 .level1}
 
 ^1^ If I could realize but this today, salvation would be reached for
 all the world. This the decision not to be insane and to accept myself
@@ -46702,7 +44564,7 @@ fear is simply a mistake. Let me not be afraid of truth today.*
 []{#part0053_split_003.html}
 
 ::: {.body}
-# [**Lesson 283 My true identity abides in You**](#part0004.html#level-553){.calibre3} {#part0053_split_003.html#h1-553 .level1}
+# [**Lesson 283 My true identity abides in You**](#part0004.html#level-553) {#part0053_split_003.html#h1-553 .level1}
 
 *^1^ Father, I made an image of myself, and it is this I call the Son of
 God. Yet is creation as it always was, for Your creation is
@@ -46720,7 +44582,7 @@ has made one with us.
 []{#part0053_split_004.html}
 
 ::: {.body}
-# [**Lesson 284 I can elect to change all thoughts that hurt**](#part0004.html#level-554){.calibre3} {#part0053_split_004.html#h1-554 .level1}
+# [**Lesson 284 I can elect to change all thoughts that hurt**](#part0004.html#level-554) {#part0053_split_004.html#h1-554 .level1}
 
 ^1^ Loss is not loss when properly perceived. Pain is impossible. There
 is no grief with any cause at all. And suffering of any kind is nothing
@@ -46739,7 +44601,7 @@ joyous as Your gifts, accepting but the joyous as the truth.*
 []{#part0053_split_005.html}
 
 ::: {.body}
-# [**Lesson 285 My holiness shines bright and clear today**](#part0004.html#level-555){.calibre3} {#part0053_split_005.html#h1-555 .level1}
+# [**Lesson 285 My holiness shines bright and clear today**](#part0004.html#level-555) {#part0053_split_005.html#h1-555 .level1}
 
 ^1^ Today I wake with joy, expecting but the happy things of God to come
 to me. I ask but them to come and realize my invitation will be answered
@@ -46758,7 +44620,7 @@ Holiness Itself?*
 []{#part0053_split_006.html}
 
 ::: {.body}
-# [**Lesson 286 The hush of Heaven holds my heart today**](#part0004.html#level-556){.calibre3} {#part0053_split_006.html#h1-556 .level1}
+# [**Lesson 286 The hush of Heaven holds my heart today**](#part0004.html#level-556) {#part0053_split_006.html#h1-556 .level1}
 
 *^1^ Father, how still today! How quietly do all things fall in place!
 This is the day that has been chosen as the time in which I come to
@@ -46777,7 +44639,7 @@ our Self, Who still is one with Him.
 []{#part0053_split_007.html}
 
 ::: {.body}
-# [**Lesson 287 You are my goal, my Father. Only You**](#part0004.html#level-557){.calibre3} {#part0053_split_007.html#h1-557 .level1}
+# [**Lesson 287 You are my goal, my Father. Only You**](#part0004.html#level-557) {#part0053_split_007.html#h1-557 .level1}
 
 ^1^ Where would I go but Heaven? What could be a substitute for
 happiness? What gift could I prefer before the peace of God? What
@@ -46795,7 +44657,7 @@ Self and be at one with my Identity?*
 []{#part0053_split_008.html}
 
 ::: {.body}
-# [**Lesson 288 Let me forget my brother's past today**](#part0004.html#level-558){.calibre3} {#part0053_split_008.html#h1-558 .level1}
+# [**Lesson 288 Let me forget my brother's past today**](#part0004.html#level-558) {#part0053_split_008.html#h1-558 .level1}
 
 *^1^ This is the thought that leads the way to You and brings me to my
 goal. I cannot come to You without my brother. And to know my Source, I
@@ -46814,7 +44676,7 @@ than can I, and you cannot be holier than he.
 []{#part0053_split_009.html}
 
 ::: {.body}
-# [**Lesson 289 The past is over. It can touch me not**](#part0004.html#level-559){.calibre3} {#part0053_split_009.html#h1-559 .level1}
+# [**Lesson 289 The past is over. It can touch me not**](#part0004.html#level-559) {#part0053_split_009.html#h1-559 .level1}
 
 ^1^ Unless the past is over in my mind, the real world must escape my
 sight. For I am really looking nowhere, seeing but what is not there.
@@ -46834,7 +44696,7 @@ and all his pain?*
 []{#part0053_split_010.html}
 
 ::: {.body}
-# [**Lesson 290 My present happiness is all I see**](#part0004.html#level-560){.calibre3} {#part0053_split_010.html#h1-560 .level1}
+# [**Lesson 290 My present happiness is all I see**](#part0004.html#level-560) {#part0053_split_010.html#h1-560 .level1}
 
 ^1^ Unless I look upon what is not there, my present happiness is all I
 see. Eyes that begin to open see at last. And I would have Christ's
@@ -46853,7 +44715,7 @@ happiness today.*
 []{#part0054_split_000.html}
 
 ::: {.body}
-# [**8. W[HAT IS THE]{.small} R[EAL]{.small} W[ORLD]{.small}?**](#part0004.html#chap-39){.calibre3} {#part0054_split_000.html#calibre_pb_0 .toc-title}
+# [**8. W[HAT IS THE]{.small} R[EAL]{.small} W[ORLD]{.small}?**](#part0004.html#chap-39) {#part0054_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST291:1^ The real world is a symbol like the rest of what perception
 offers. Yet it stands for what is opposite to what you made. Your world
@@ -46896,7 +44758,7 @@ Identity which our forgiveness has restored to us.
 []{#part0054_split_001.html}
 
 ::: {.body}
-# [**Lesson 291 This is a day of stillness and of peace**](#part0004.html#level-561){.calibre3} {#part0054_split_001.html#h1-561 .level1}
+# [**Lesson 291 This is a day of stillness and of peace**](#part0004.html#level-561) {#part0054_split_001.html#h1-561 .level1}
 
 ^1^ Christ's vision looks through me today. His sight shows me all
 things forgiven and at peace and offers this same vision to the world.
@@ -46915,7 +44777,7 @@ memory of You return to me.*
 []{#part0054_split_002.html}
 
 ::: {.body}
-# [**Lesson 292 A happy outcome to all things is sure**](#part0004.html#level-562){.calibre3} {#part0054_split_002.html#h1-562 .level1}
+# [**Lesson 292 A happy outcome to all things is sure**](#part0004.html#level-562) {#part0054_split_002.html#h1-562 .level1}
 
 ^1^ God's promises make no exceptions. And He guarantees that only joy
 can be the final outcome found for everything. Yet it is up to us when
@@ -46935,7 +44797,7 @@ think we still must meet.*
 []{#part0054_split_003.html}
 
 ::: {.body}
-# [**Lesson 293 All fear is past, and only love is here**](#part0004.html#level-563){.calibre3} {#part0054_split_003.html#h1-563 .level1}
+# [**Lesson 293 All fear is past, and only love is here**](#part0004.html#level-563) {#part0054_split_003.html#h1-563 .level1}
 
 ^1^ All fear is past because its source is gone and all its thoughts
 gone with it. Love remains the only present state, whose Source is here
@@ -46955,7 +44817,7 @@ before my eyes today.*
 []{#part0054_split_004.html}
 
 ::: {.body}
-# [**Lesson 294 My body is a wholly neutral thing**](#part0004.html#level-564){.calibre3} {#part0054_split_004.html#h1-564 .level1}
+# [**Lesson 294 My body is a wholly neutral thing**](#part0004.html#level-564) {#part0054_split_004.html#h1-564 .level1}
 
 ^1^ I am a Son of God. And can I be another thing as well? Did God
 create the mortal and corruptible? What use has God's beloved Son for
@@ -46975,7 +44837,7 @@ to help Your plan that we awaken from all dreams we made.*
 []{#part0054_split_005.html}
 
 ::: {.body}
-# [**Lesson 295 The Holy Spirit looks through me today**](#part0004.html#level-565){.calibre3} {#part0054_split_005.html#h1-565 .level1}
+# [**Lesson 295 The Holy Spirit looks through me today**](#part0004.html#level-565) {#part0054_split_005.html#h1-565 .level1}
 
 ^1^ Christ asks that He may use my eyes today and thus redeem the world.
 He asks this gift that He may offer peace of mind to me and take away
@@ -46993,7 +44855,7 @@ forgiving Love may rest on me.*
 []{#part0054_split_006.html}
 
 ::: {.body}
-# [**Lesson 296 The Holy Spirit speaks through me today**](#part0004.html#level-566){.calibre3} {#part0054_split_006.html#h1-566 .level1}
+# [**Lesson 296 The Holy Spirit speaks through me today**](#part0004.html#level-566) {#part0054_split_006.html#h1-566 .level1}
 
 *^1^ The Holy Spirit needs my voice today, that all the world may listen
 to Your Voice and hear Your Word through me. I am resolved to let You
@@ -47013,7 +44875,7 @@ seek and find the easy path to God!
 []{#part0054_split_007.html}
 
 ::: {.body}
-# [**Lesson 297 Forgiveness is the only gift I give**](#part0004.html#level-567){.calibre3} {#part0054_split_007.html#h1-567 .level1}
+# [**Lesson 297 Forgiveness is the only gift I give**](#part0004.html#level-567) {#part0054_split_007.html#h1-567 .level1}
 
 ^1^ Forgiveness is the only gift I give because it is the only gift I
 want, and everything I give I give myself. This is salvation's simple
@@ -47030,7 +44892,7 @@ thanks to You for my identity.*
 []{#part0054_split_008.html}
 
 ::: {.body}
-# [**Lesson 298 I love You, Father, and I love Your Son**](#part0004.html#level-568){.calibre3} {#part0054_split_008.html#h1-568 .level1}
+# [**Lesson 298 I love You, Father, and I love Your Son**](#part0004.html#level-568) {#part0054_split_008.html#h1-568 .level1}
 
 ^1^ My gratitude permits my love to be accepted without fear. And thus
 am I restored to my Reality at last. All that intruded on my holy sight
@@ -47048,7 +44910,7 @@ would obscure my love for God, my Father, and His holy Son.*
 []{#part0054_split_009.html}
 
 ::: {.body}
-# [**Lesson 299 Eternal holiness abides in me**](#part0004.html#level-569){.calibre3} {#part0054_split_009.html#h1-569 .level1}
+# [**Lesson 299 Eternal holiness abides in me**](#part0004.html#level-569) {#part0054_split_009.html#h1-569 .level1}
 
 ^1^ My holiness is far beyond my own ability to understand or know. Yet
 God my Father, Who created it, acknowledges my holiness as His. Our Will
@@ -47065,7 +44927,7 @@ me, and I can know my Source because it is Your Will that You be known.*
 []{#part0054_split_010.html}
 
 ::: {.body}
-# [**Lesson 300 Only an instant does this world endure**](#part0004.html#level-570){.calibre3} {#part0054_split_010.html#h1-570 .level1}
+# [**Lesson 300 Only an instant does this world endure**](#part0004.html#level-570) {#part0054_split_010.html#h1-570 .level1}
 
 ^1^ This is the thought that can be used to say that death and sorrow
 are the certain lot of all who come here. For their joys are gone before
@@ -47084,7 +44946,7 @@ that tiny instant to eternity.*
 []{#part0055_split_000.html}
 
 ::: {.body}
-# [**9. W[HAT IS THE]{.small} S[ECOND]{.small} C[OMING]{.small}?**](#part0004.html#chap-40){.calibre3} {#part0055_split_000.html#calibre_pb_0 .toc-title}
+# [**9. W[HAT IS THE]{.small} S[ECOND]{.small} C[OMING]{.small}?**](#part0004.html#chap-40) {#part0055_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST301:1^ Christ's Second Coming, which is sure as God, is merely the
 correction of mistakes and the return of sanity. It is a part of the
@@ -47124,7 +44986,7 @@ of God is one in us, and we can reach our Father's Love through him.
 []{#part0055_split_001.html}
 
 ::: {.body}
-# [**Lesson 301 And God Himself shall wipe away all tears**](#part0004.html#level-571){.calibre3} {#part0055_split_001.html#h1-571 .level1}
+# [**Lesson 301 And God Himself shall wipe away all tears**](#part0004.html#level-571) {#part0055_split_001.html#h1-571 .level1}
 
 *^1^ Father, unless I judge I cannot weep. Nor can I suffer pain or feel
 I am abandoned and unneeded in the world. This is my home because I
@@ -47143,7 +45005,7 @@ we will look upon God's world today.
 []{#part0055_split_002.html}
 
 ::: {.body}
-# [**Lesson 302 Where darkness was, I look upon the light**](#part0004.html#level-572){.calibre3} {#part0055_split_002.html#h1-572 .level1}
+# [**Lesson 302 Where darkness was, I look upon the light**](#part0004.html#level-572) {#part0055_split_002.html#h1-572 .level1}
 
 *^1^ Father, our eyes are opening at last. Your holy world awaits us, as
 our sight is finally restored and we can see. We thought we suffered.
@@ -47161,7 +45023,7 @@ which we come to Him.
 []{#part0055_split_003.html}
 
 ::: {.body}
-# [**Lesson 303 The holy Christ is born in me today**](#part0004.html#level-573){.calibre3} {#part0055_split_003.html#h1-573 .level1}
+# [**Lesson 303 The holy Christ is born in me today**](#part0004.html#level-573) {#part0055_split_003.html#h1-573 .level1}
 
 ^1^ Watch with me, angels; watch with me today. Let all God's holy
 Thoughts surround me and be still with me while Heaven's Son is born.
@@ -47181,7 +45043,7 @@ Your arms, let me receive Your Son.*
 []{#part0055_split_004.html}
 
 ::: {.body}
-# [**Lesson 304 Let not my world obscure the sight of Christ**](#part0004.html#level-574){.calibre3} {#part0055_split_004.html#h1-574 .level1}
+# [**Lesson 304 Let not my world obscure the sight of Christ**](#part0004.html#level-574) {#part0055_split_004.html#h1-574 .level1}
 
 ^1^ I can obscure my holy sight if I intrude my world upon it. Nor can I
 behold the holy sights Christ looks upon unless it is His vision that I
@@ -47199,7 +45061,7 @@ again the memory of You and of Your Son as You created him.*
 []{#part0055_split_005.html}
 
 ::: {.body}
-# [**Lesson 305 There is a peace that Christ bestows on us**](#part0004.html#level-575){.calibre3} {#part0055_split_005.html#h1-575 .level1}
+# [**Lesson 305 There is a peace that Christ bestows on us**](#part0004.html#level-575) {#part0055_split_005.html#h1-575 .level1}
 
 ^1^ Who uses but Christ's vision finds a peace so deep and quiet,
 undisturbable and wholly changeless that the world contains no
@@ -47216,7 +45078,7 @@ not. For it has come to us to save us from our judgment on ourselves.*
 []{#part0055_split_006.html}
 
 ::: {.body}
-# [**Lesson 306 The gift of Christ is all I seek today**](#part0004.html#level-576){.calibre3} {#part0055_split_006.html#h1-576 .level1}
+# [**Lesson 306 The gift of Christ is all I seek today**](#part0004.html#level-576) {#part0055_split_006.html#h1-576 .level1}
 
 ^1^ What but Christ's vision would I use today when it can offer me a
 day in which I see a world so like to Heaven that an ancient memory
@@ -47235,7 +45097,7 @@ Love the gift of Christ is his.*
 []{#part0055_split_007.html}
 
 ::: {.body}
-# [**Lesson 307 Conflicting wishes cannot be my will**](#part0004.html#level-577){.calibre3} {#part0055_split_007.html#h1-577 .level1}
+# [**Lesson 307 Conflicting wishes cannot be my will**](#part0004.html#level-577) {#part0055_split_007.html#h1-577 .level1}
 
 *^1^ Father, Your Will is mine, and only that. There is no other will
 for me to have. Let me not try to make another will, for it is senseless
@@ -47253,7 +45115,7 @@ they are but one.
 []{#part0055_split_008.html}
 
 ::: {.body}
-# [**Lesson 308 This instant is the only time there is**](#part0004.html#level-578){.calibre3} {#part0055_split_008.html#h1-578 .level1}
+# [**Lesson 308 This instant is the only time there is**](#part0004.html#level-578) {#part0055_split_008.html#h1-578 .level1}
 
 ^1^ I have conceived of time in such a way that I defeat my aim. If I
 elect to reach past time to timelessness, I must change my perception of
@@ -47272,7 +45134,7 @@ salvation of the world in him.*
 []{#part0055_split_009.html}
 
 ::: {.body}
-# [**Lesson 309 I will not fear to look within today**](#part0004.html#level-579){.calibre3} {#part0055_split_009.html#h1-579 .level1}
+# [**Lesson 309 I will not fear to look within today**](#part0004.html#level-579) {#part0055_split_009.html#h1-579 .level1}
 
 ^1^ Within me is eternal innocence because it is God's Will that it be
 there forever and forever. I, His Son, whose will is limitless as is His
@@ -47290,7 +45152,7 @@ altar to my Self, and there I find my true identity.*
 []{#part0055_split_010.html}
 
 ::: {.body}
-# [**Lesson 310 In fearlessness and love I spend today**](#part0004.html#level-580){.calibre3} {#part0055_split_010.html#h1-580 .level1}
+# [**Lesson 310 In fearlessness and love I spend today**](#part0004.html#level-580) {#part0055_split_010.html#h1-580 .level1}
 
 *^1^ This day, my Father, would I spend with You, as You have chosen all
 my days should be. And what I will experience is not of time at all. The
@@ -47308,7 +45170,7 @@ room in us for fear today, for we have welcomed love into our hearts.
 []{#part0056_split_000.html}
 
 ::: {.body}
-# [**10. W[HAT IS THE]{.small} L[AST]{.small} J[UDGMENT]{.small}?**](#part0004.html#chap-41){.calibre3} {#part0056_split_000.html#calibre_pb_0 .toc-title}
+# [**10. W[HAT IS THE]{.small} L[AST]{.small} J[UDGMENT]{.small}?**](#part0004.html#chap-41) {#part0056_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST311:1^ Second Coming gives the Son of God the gift to hear the Voice
 for God proclaim that what is false is false and what is true has never
@@ -47350,7 +45212,7 @@ to Me. I am your Father and you are My Son."
 []{#part0056_split_001.html}
 
 ::: {.body}
-# [**Lesson 311 I judge all things as I would have them be**](#part0004.html#level-581){.calibre3} {#part0056_split_001.html#h1-581 .level1}
+# [**Lesson 311 I judge all things as I would have them be**](#part0004.html#level-581) {#part0056_split_001.html#h1-581 .level1}
 
 ^1^ Judgment was made to be a weapon used against the truth. It
 separates what it is being used against and sets it off as if it were a
@@ -47369,7 +45231,7 @@ Your Love decide what he whom You created as Your Son must be.*
 []{#part0056_split_002.html}
 
 ::: {.body}
-# [**Lesson 312 I see all things as I would have them be**](#part0004.html#level-582){.calibre3} {#part0056_split_002.html#h1-582 .level1}
+# [**Lesson 312 I see all things as I would have them be**](#part0004.html#level-582) {#part0056_split_002.html#h1-582 .level1}
 
 ^1^ Perception follows judgment. Having judged, you therefore see what
 you would look upon. For sight can merely serve to offer you what you
@@ -47388,7 +45250,7 @@ for me today, and therefore it must be my goal as well.*
 []{#part0056_split_003.html}
 
 ::: {.body}
-# [**Lesson 313 Now let a new perception come to me**](#part0004.html#level-583){.calibre3} {#part0056_split_003.html#h1-583 .level1}
+# [**Lesson 313 Now let a new perception come to me**](#part0004.html#level-583) {#part0056_split_003.html#h1-583 .level1}
 
 *^1^ Father, there is a vision which beholds all things as sinless, so
 that fear has gone and where it was is love invited in. And love will
@@ -47408,7 +45270,7 @@ holy as the light in us.
 []{#part0056_split_004.html}
 
 ::: {.body}
-# [**Lesson 314 I seek a future different from the past**](#part0004.html#level-584){.calibre3} {#part0056_split_004.html#h1-584 .level1}
+# [**Lesson 314 I seek a future different from the past**](#part0004.html#level-584) {#part0056_split_004.html#h1-584 .level1}
 
 ^1^ From new perception of the world there comes a future very different
 from the past. The future now is recognized as but extension of the
@@ -47428,7 +45290,7 @@ guide the future in their holy light.*
 []{#part0056_split_005.html}
 
 ::: {.body}
-# [**Lesson 315 All gifts my brothers give belong to me**](#part0004.html#level-585){.calibre3} {#part0056_split_005.html#h1-585 .level1}
+# [**Lesson 315 All gifts my brothers give belong to me**](#part0004.html#level-585) {#part0056_split_005.html#h1-585 .level1}
 
 ^1^ Each day a thousand treasures come to me with every passing moment.
 I am blessed with gifts throughout the day, in value far beyond all
@@ -47447,7 +45309,7 @@ may lead me on to my Creator and His memory.*
 []{#part0056_split_006.html}
 
 ::: {.body}
-# [**Lesson 316 All gifts I give my brothers are my own**](#part0004.html#level-586){.calibre3} {#part0056_split_006.html#h1-586 .level1}
+# [**Lesson 316 All gifts I give my brothers are my own**](#part0004.html#level-586) {#part0056_split_006.html#h1-586 .level1}
 
 ^1^ As every gift my brothers give is mine, so every gift I give belongs
 to me. Each one allows a past mistake to go and leave no shadow on the
@@ -47466,7 +45328,7 @@ behold them, see their worth, and cherish only them as what I want.*
 []{#part0056_split_007.html}
 
 ::: {.body}
-# [**Lesson 317 I follow in the way appointed me**](#part0004.html#level-587){.calibre3} {#part0056_split_007.html#h1-587 .level1}
+# [**Lesson 317 I follow in the way appointed me**](#part0004.html#level-587) {#part0056_split_007.html#h1-587 .level1}
 
 ^1^ I have a special place to fill-a role for me alone. Salvation waits
 until I take this part as what I choose to do. Until I make this choice,
@@ -47486,7 +45348,7 @@ loving arms.*
 []{#part0056_split_008.html}
 
 ::: {.body}
-# [**Lesson 318 In me salvation' means and end are one**](#part0004.html#level-588){.calibre3} {#part0056_split_008.html#h1-588 .level1}
+# [**Lesson 318 In me salvation' means and end are one**](#part0004.html#level-588) {#part0056_split_008.html#h1-588 .level1}
 
 ^1^ In me, God's holy Son, are reconciled all parts of Heaven's plan to
 save the world. What could conflict when all the parts have but one
@@ -47505,7 +45367,7 @@ reconciled in me become as surely reconciled to You.*
 []{#part0056_split_009.html}
 
 ::: {.body}
-# [**Lesson 319 I came for the salvation of the world**](#part0004.html#level-589){.calibre3} {#part0056_split_009.html#h1-589 .level1}
+# [**Lesson 319 I came for the salvation of the world**](#part0004.html#level-589) {#part0056_split_009.html#h1-589 .level1}
 
 ^1^ Here is a thought from which all arrogance has been removed, and
 only truth is left. For arrogance opposes truth. But where there is no
@@ -47524,7 +45386,7 @@ You?*
 []{#part0056_split_010.html}
 
 ::: {.body}
-# [**Lesson 320 My Father gives all power unto me**](#part0004.html#level-590){.calibre3} {#part0056_split_010.html#h1-590 .level1}
+# [**Lesson 320 My Father gives all power unto me**](#part0004.html#level-590) {#part0056_split_010.html#h1-590 .level1}
 
 ^1^ The Son of God is limitless. There are no limits on his strength,
 his peace, his joy, or any attributes his Father gave in his creation.
@@ -47541,7 +45403,7 @@ been given to Your Son.*
 []{#part0057_split_000.html}
 
 ::: {.body}
-# [**11. W[HAT IS]{.small} C[REATION]{.small}?**](#part0004.html#chap-42){.calibre3} {#part0057_split_000.html#calibre_pb_0 .toc-title}
+# [**11. W[HAT IS]{.small} C[REATION]{.small}?**](#part0004.html#chap-42) {#part0057_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST321:1^ Creation is the sum of all God's Thoughts, in number infinite
 and everywhere without all limit. Only Love creates and only like
@@ -47580,7 +45442,7 @@ creation shares; Whose holiness is still a part of us.
 []{#part0057_split_001.html}
 
 ::: {.body}
-# [**Lesson 321 Father, my freedom is in You alone**](#part0004.html#level-591){.calibre3} {#part0057_split_001.html#h1-591 .level1}
+# [**Lesson 321 Father, my freedom is in You alone**](#part0004.html#level-591) {#part0057_split_001.html#h1-591 .level1}
 
 *^6^ I did not understand what made me free nor what my freedom is nor
 where to look to find it. Father, I have searched in vain until I heard
@@ -47600,7 +45462,7 @@ our freedom can be found in God alone.
 []{#part0057_split_002.html}
 
 ::: {.body}
-# [**Lesson 322 I can give up but what was never real**](#part0004.html#level-592){.calibre3} {#part0057_split_002.html#h1-592 .level1}
+# [**Lesson 322 I can give up but what was never real**](#part0004.html#level-592) {#part0057_split_002.html#h1-592 .level1}
 
 ^1^ I sacrifice illusions, nothing more. And as illusions go, I find the
 gifts illusions tried to hide, awaiting me in shining welcome and in
@@ -47619,7 +45481,7 @@ mind?*
 []{#part0057_split_003.html}
 
 ::: {.body}
-# [**Lesson 323 I gladly make the "sacrifice" of fear**](#part0004.html#level-593){.calibre3} {#part0057_split_003.html#h1-593 .level1}
+# [**Lesson 323 I gladly make the "sacrifice" of fear**](#part0004.html#level-593) {#part0057_split_003.html#h1-593 .level1}
 
 *^1^ Here is the only "sacrifice" You ask of Your beloved Son-You ask
 him to give up all suffering, all sense of loss and sadness, all anxiety
@@ -47638,7 +45500,7 @@ has gone and only love remains.
 []{#part0057_split_004.html}
 
 ::: {.body}
-# [**Lesson 324 I merely follow, for I would not lead**](#part0004.html#level-594){.calibre3} {#part0057_split_004.html#h1-594 .level1}
+# [**Lesson 324 I merely follow, for I would not lead**](#part0004.html#level-594) {#part0057_split_004.html#h1-594 .level1}
 
 *^1^ Father, You are the One Who gave the plan for my salvation to me.
 You have set the way I am to go, the role to take, and every step in my
@@ -47657,7 +45519,7 @@ a safe returning home.
 []{#part0057_split_005.html}
 
 ::: {.body}
-# [**Lesson 325 All things I think I see reflect ideas**](#part0004.html#level-595){.calibre3} {#part0057_split_005.html#h1-595 .level1}
+# [**Lesson 325 All things I think I see reflect ideas**](#part0004.html#level-595) {#part0057_split_005.html#h1-595 .level1}
 
 ^1^ This is salvation's keynote: What I see reflects a process in my
 mind which starts with my idea of what I want. From there, the mind
@@ -47678,7 +45540,7 @@ Yours alone establish truth.*
 []{#part0057_split_006.html}
 
 ::: {.body}
-# [**Lesson 326 I am forever an effect of God**](#part0004.html#level-596){.calibre3} {#part0057_split_006.html#h1-596 .level1}
+# [**Lesson 326 I am forever an effect of God**](#part0004.html#level-596) {#part0057_split_006.html#h1-596 .level1}
 
 *^1^ Father, I was created in Your Mind, a holy Thought that never left
 its home. I am forever Your Effect, and You forever and forever are my
@@ -47698,7 +45560,7 @@ forgiven, fade entirely into God's holy Will.
 []{#part0057_split_007.html}
 
 ::: {.body}
-# [**Lesson 327 I but call and You will answer me**](#part0004.html#level-597){.calibre3} {#part0057_split_007.html#h1-597 .level1}
+# [**Lesson 327 I but call and You will answer me**](#part0004.html#level-597) {#part0057_split_007.html#h1-597 .level1}
 
 ^1^ I am not asked to take salvation on the basis of an unsupported
 faith. For God has promised He will hear my call and answer me Himself.
@@ -47718,7 +45580,7 @@ last.*
 []{#part0057_split_008.html}
 
 ::: {.body}
-# [**Lesson 328 I choose the second place to gain the first**](#part0004.html#level-598){.calibre3} {#part0057_split_008.html#h1-598 .level1}
+# [**Lesson 328 I choose the second place to gain the first**](#part0004.html#level-598) {#part0057_split_008.html#h1-598 .level1}
 
 ^1^ What seems to be the second place is first, for all things we
 perceive are upside down until we listen to the Voice of God. It seems
@@ -47738,7 +45600,7 @@ Father, gave as part of me.*
 []{#part0057_split_009.html}
 
 ::: {.body}
-# [**Lesson 329 I have already chosen what You will**](#part0004.html#level-599){.calibre3} {#part0057_split_009.html#h1-599 .level1}
+# [**Lesson 329 I have already chosen what You will**](#part0004.html#level-599) {#part0057_split_009.html#h1-599 .level1}
 
 *^1^ Father, I thought I wandered from Your Will, defied it, broke its
 laws, and interposed a second will more powerful than Yours. Yet what I
@@ -47758,7 +45620,7 @@ we find our way at last to God.
 []{#part0057_split_010.html}
 
 ::: {.body}
-# [**Lesson 330 I will not hurt myself again today**](#part0004.html#level-600){.calibre3} {#part0057_split_010.html#h1-600 .level1}
+# [**Lesson 330 I will not hurt myself again today**](#part0004.html#level-600) {#part0057_split_010.html#h1-600 .level1}
 
 ^1^ Let us this day accept forgiveness as our only function. Why should
 we attack our minds and give them images of pain? Why should we teach
@@ -47779,7 +45641,7 @@ from what we thought we were.*
 []{#part0058_split_000.html}
 
 ::: {.body}
-# [**12. W[HAT IS THE]{.small} E[GO]{.small}?**](#part0004.html#chap-43){.calibre3} {#part0058_split_000.html#calibre_pb_0 .toc-title}
+# [**12. W[HAT IS THE]{.small} E[GO]{.small}?**](#part0004.html#chap-43) {#part0058_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST331:1^ The ego is idolatry-the sign of limited and separated self,
 born in a body, doomed to suffer and to end its life in death. It is the
@@ -47818,7 +45680,7 @@ Him.
 []{#part0058_split_001.html}
 
 ::: {.body}
-# [**Lesson 331 There is no conflict, for my will is Yours**](#part0004.html#level-601){.calibre3} {#part0058_split_001.html#h1-601 .level1}
+# [**Lesson 331 There is no conflict, for my will is Yours**](#part0004.html#level-601) {#part0058_split_001.html#h1-601 .level1}
 
 *^1^ How foolish, Father, to believe Your Son could cause himself to
 suffer! Could he make a plan for his damnation and be left without a
@@ -47838,7 +45700,7 @@ find the peace of God. Amen.
 []{#part0058_split_002.html}
 
 ::: {.body}
-# [**Lesson 332 Fear binds the world. Forgiveness sets it free**](#part0004.html#level-602){.calibre3} {#part0058_split_002.html#h1-602 .level1}
+# [**Lesson 332 Fear binds the world. Forgiveness sets it free**](#part0004.html#level-602) {#part0058_split_002.html#h1-602 .level1}
 
 ^1^ The ego makes illusions. Truth undoes its evil dreams by shining
 them away. Truth never makes attack. It merely is. And by its presence
@@ -47858,7 +45720,7 @@ would not remain as prisoners while You hold out our freedom unto us.*
 []{#part0058_split_003.html}
 
 ::: {.body}
-# [**Lesson 333 Forgiveness ends the dream of conflict here**](#part0004.html#level-603){.calibre3} {#part0058_split_003.html#h1-603 .level1}
+# [**Lesson 333 Forgiveness ends the dream of conflict here**](#part0004.html#level-603) {#part0058_split_003.html#h1-603 .level1}
 
 ^1^ Conflict must be resolved. It cannot be evaded, set aside, denied,
 disguised, seen somewhere else, called by another name, nor hidden by
@@ -47877,7 +45739,7 @@ beloved Son.*
 []{#part0058_split_004.html}
 
 ::: {.body}
-# [**Lesson 334 Today I claim the gifts forgiveness gives**](#part0004.html#level-604){.calibre3} {#part0058_split_004.html#h1-604 .level1}
+# [**Lesson 334 Today I claim the gifts forgiveness gives**](#part0004.html#level-604) {#part0058_split_004.html#h1-604 .level1}
 
 ^1^ I will not wait another day to find the treasures which my Father
 offers me. Illusions must be vain and dreams are gone, even while they
@@ -47896,7 +45758,7 @@ for me, for thus will I behold my sinlessness.*
 []{#part0058_split_005.html}
 
 ::: {.body}
-# [**Lesson 335 I choose to see my brother's sinlessness**](#part0004.html#level-605){.calibre3} {#part0058_split_005.html#h1-605 .level1}
+# [**Lesson 335 I choose to see my brother's sinlessness**](#part0004.html#level-605) {#part0058_split_005.html#h1-605 .level1}
 
 ^1^ Forgiveness is a choice. I never see my brother as he is, for that
 is far beyond perception. What I see in him is merely what I wish to see
@@ -47916,7 +45778,7 @@ You as well.*
 []{#part0058_split_006.html}
 
 ::: {.body}
-# [**Lesson 336 Forgiveness lets me know that minds are joined**](#part0004.html#level-606){.calibre3} {#part0058_split_006.html#h1-606 .level1}
+# [**Lesson 336 Forgiveness lets me know that minds are joined**](#part0004.html#level-606) {#part0058_split_006.html#h1-606 .level1}
 
 ^1^ Forgiveness is the means appointed for perception's ending.
 Knowledge is restored after perception first is changed and then gives
@@ -47937,7 +45799,7 @@ Love is still abiding in my heart.*
 []{#part0058_split_007.html}
 
 ::: {.body}
-# [**Lesson 337 My sinlessness protects me from all harm**](#part0004.html#level-607){.calibre3} {#part0058_split_007.html#h1-607 .level1}
+# [**Lesson 337 My sinlessness protects me from all harm**](#part0004.html#level-607) {#part0058_split_007.html#h1-607 .level1}
 
 ^1^ My sinlessness ensures me perfect peace, eternal safety, everlasting
 love, freedom forever from all thought of loss, complete deliverance
@@ -47957,7 +45819,7 @@ myself. Father, my dream is ended now. Amen.*
 []{#part0058_split_008.html}
 
 ::: {.body}
-# [**Lesson 338 I am affected only by my thoughts**](#part0004.html#level-608){.calibre3} {#part0058_split_008.html#h1-608 .level1}
+# [**Lesson 338 I am affected only by my thoughts**](#part0004.html#level-608) {#part0058_split_008.html#h1-608 .level1}
 
 ^1^ It needs but this to let salvation come to all the world. For in
 this single thought is everyone released at last from fear. Now he has
@@ -47978,7 +45840,7 @@ lead me home, because it holds Your promise to Your Son.*
 []{#part0058_split_009.html}
 
 ::: {.body}
-# [**Lesson 339 I will receive whatever I request**](#part0004.html#level-609){.calibre3} {#part0058_split_009.html#h1-609 .level1}
+# [**Lesson 339 I will receive whatever I request**](#part0004.html#level-609) {#part0058_split_009.html#h1-609 .level1}
 
 ^1^ No one desires pain. But he can think that pain is pleasure. No one
 would avoid his happiness. But he can think that joy is painful,
@@ -47998,7 +45860,7 @@ You offer me, accepting only thoughts You share with me.*
 []{#part0058_split_010.html}
 
 ::: {.body}
-# [**Lesson 340 I can be free of suffering today**](#part0004.html#level-610){.calibre3} {#part0058_split_010.html#h1-610 .level1}
+# [**Lesson 340 I can be free of suffering today**](#part0004.html#level-610) {#part0058_split_010.html#h1-610 .level1}
 
 *^1^ Father, I thank You for today and for the freedom I am certain it
 will bring. This day is holy, for today Your Son will be redeemed. His
@@ -48017,7 +45879,7 @@ Father will not gather to Himself, awake in Heaven in the Heart of Love.
 []{#part0059_split_000.html}
 
 ::: {.body}
-# [**13. W[HAT IS A]{.small} M[IRACLE]{.small}?**](#part0004.html#chap-44){.calibre3} {#part0059_split_000.html#calibre_pb_0 .toc-title}
+# [**13. W[HAT IS A]{.small} M[IRACLE]{.small}?**](#part0004.html#chap-44) {#part0059_split_000.html#calibre_pb_0 .toc-title}
 
 ^ST341:1^ A miracle is a correction. It does not create nor really
 change at all. It merely looks on devastation, and reminds the mind that
@@ -48058,7 +45920,7 @@ immortality.
 []{#part0059_split_001.html}
 
 ::: {.body}
-# [**Lesson 341 I can attack but my own sinlessness, and it is only that which keeps me safe**](#part0004.html#level-611){.calibre3} {#part0059_split_001.html#h1-611 .level1}
+# [**Lesson 341 I can attack but my own sinlessness, and it is only that which keeps me safe**](#part0004.html#level-611) {#part0059_split_001.html#h1-611 .level1}
 
 *^1^ Father, Your Son is holy. I am he on whom You smile in love and
 tenderness so deep and dear and still the universe smiles back on You
@@ -48075,7 +45937,7 @@ God to us, and in its kind reflection we are saved.
 []{#part0059_split_002.html}
 
 ::: {.body}
-# [**Lesson 342 I let forgiveness rest upon all things, for thus forgiveness will be given me**](#part0004.html#level-612){.calibre3} {#part0059_split_002.html#h1-612 .level1}
+# [**Lesson 342 I let forgiveness rest upon all things, for thus forgiveness will be given me**](#part0004.html#level-612) {#part0059_split_002.html#h1-612 .level1}
 
 *^1^ I thank You, Father, for Your plan to save me from the hell I made.
 It is not real. And You have given me the means to prove its unreality
@@ -48094,7 +45956,7 @@ as we go, the world goes with us on the way to God.
 []{#part0059_split_003.html}
 
 ::: {.body}
-# [**Lesson 343 I am not asked to make a sacrifice to find the mercy and the peace of God**](#part0004.html#level-613){.calibre3} {#part0059_split_003.html#h1-613 .level1}
+# [**Lesson 343 I am not asked to make a sacrifice to find the mercy and the peace of God**](#part0004.html#level-613) {#part0059_split_003.html#h1-613 .level1}
 
 *^1^ The end of suffering cannot be loss. The gift of everything can but
 be gain. You only give. You never take away. And You created me to be
@@ -48113,7 +45975,7 @@ would learn today.
 []{#part0059_split_004.html}
 
 ::: {.body}
-# [**Lesson 344 Today I learn the law of love; that what I give my brother is my gift to me**](#part0004.html#level-614){.calibre3} {#part0059_split_004.html#h1-614 .level1}
+# [**Lesson 344 Today I learn the law of love; that what I give my brother is my gift to me**](#part0004.html#level-614) {#part0059_split_004.html#h1-614 .level1}
 
 *^1^ This is Your law, my Father, not my own. I did not understand what
 giving means and thought to save what I desired for myself alone. And as
@@ -48132,7 +45994,7 @@ Son of God.
 []{#part0059_split_005.html}
 
 ::: {.body}
-# [**Lesson 345 I offer only miracles today, for I would have them be returned to me**](#part0004.html#level-615){.calibre3} {#part0059_split_005.html#h1-615 .level1}
+# [**Lesson 345 I offer only miracles today, for I would have them be returned to me**](#part0004.html#level-615) {#part0059_split_005.html#h1-615 .level1}
 
 *^1^ Father, a miracle reflects Your gifts to me, Your Son. And every
 one I give returns to me, reminding me the law of love is universal.
@@ -48152,7 +46014,7 @@ offer what we have received.
 []{#part0059_split_006.html}
 
 ::: {.body}
-# [**Lesson 346 Today the peace of God envelops me, and I forget all things except His Love**](#part0004.html#level-616){.calibre3} {#part0059_split_006.html#h1-616 .level1}
+# [**Lesson 346 Today the peace of God envelops me, and I forget all things except His Love**](#part0004.html#level-616) {#part0059_split_006.html#h1-616 .level1}
 
 *^1^ Father, I wake today with miracles correcting my perception of all
 things. And so begins the day I share with You as I will share eternity,
@@ -48171,7 +46033,7 @@ all things except God's Love.
 []{#part0059_split_007.html}
 
 ::: {.body}
-# [**Lesson 347 Anger must come from judgment. Judgment is the weapon I would use against myself to keep all miracles away from me**](#part0004.html#level-617){.calibre3} {#part0059_split_007.html#h1-617 .level1}
+# [**Lesson 347 Anger must come from judgment. Judgment is the weapon I would use against myself to keep all miracles away from me**](#part0004.html#level-617) {#part0059_split_007.html#h1-617 .level1}
 
 *^1^ Father, I want what goes against my will and do not want what is my
 will to have. Straighten my mind, my Father. It is sick. But You have
@@ -48190,7 +46052,7 @@ assuring you that He has judged you as the Son He loves.
 []{#part0059_split_008.html}
 
 ::: {.body}
-# [**Lesson 348 I have no cause for anger or for fear, for You surround me. And in every need that I perceive, Your grace suffices me**](#part0004.html#level-618){.calibre3} {#part0059_split_008.html#h1-618 .level1}
+# [**Lesson 348 I have no cause for anger or for fear, for You surround me. And in every need that I perceive, Your grace suffices me**](#part0004.html#level-618) {#part0059_split_008.html#h1-618 .level1}
 
 *^1^ Father, let me remember You are here, and I am not alone.
 Surrounding me is everlasting Love. I have no cause for anything except
@@ -48206,7 +46068,7 @@ only that we choose to be our will as well as His.
 []{#part0059_split_009.html}
 
 ::: {.body}
-# [**Lesson 349 Today I let Christ's vision look upon all things for me and judge them not, but give each one a miracle of love instead**](#part0004.html#level-619){.calibre3} {#part0059_split_009.html#h1-619 .level1}
+# [**Lesson 349 Today I let Christ's vision look upon all things for me and judge them not, but give each one a miracle of love instead**](#part0004.html#level-619) {#part0059_split_009.html#h1-619 .level1}
 
 *^1^ So would I liberate all things I see and give to them the freedom
 that I seek. For thus do I obey the law of love and give what I would
@@ -48223,7 +46085,7 @@ minds as we return to Him.
 []{#part0059_split_010.html}
 
 ::: {.body}
-# [**Lesson 350 Miracles mirror God's eternal Love. To offer them is to remember Him, and through His memory to save the world**](#part0004.html#level-620){.calibre3} {#part0059_split_010.html#h1-620 .level1}
+# [**Lesson 350 Miracles mirror God's eternal Love. To offer them is to remember Him, and through His memory to save the world**](#part0004.html#level-620) {#part0059_split_010.html#h1-620 .level1}
 
 *^1^ What we forgive becomes a part of us as we perceive ourselves. The
 Son of God incorporates all things within himself as You created him.
@@ -48241,7 +46103,7 @@ Love.
 []{#part0060_split_000.html}
 
 ::: {.body}
-# [**14. W[HAT AM]{.small} I?**](#part0004.html#chap-45){.calibre3} {#part0060_split_000.html#calibre_pb_0 .toc-title}
+# [**14. W[HAT AM]{.small} I?**](#part0004.html#chap-45) {#part0060_split_000.html#calibre_pb_0 .toc-title}
 
 *^ST351^ I am God's Son, complete and healed and whole, shining in the
 reflection of His Love. In me is His creation sanctified and guaranteed
@@ -48283,7 +46145,7 @@ into the Heart of God.
 []{#part0060_split_001.html}
 
 ::: {.body}
-# [**Lesson 351 My sinless brother is my guide to peace. My sinful brother is my guide to pain. And which I choose to see I will behold**](#part0004.html#level-621){.calibre3} {#part0060_split_001.html#h1-621 .level1}
+# [**Lesson 351 My sinless brother is my guide to peace. My sinful brother is my guide to pain. And which I choose to see I will behold**](#part0004.html#level-621) {#part0060_split_001.html#h1-621 .level1}
 
 *^1^ Who is my brother but Your holy Son? And if I see him sinful, I
 proclaim myself a sinner, not a Son of God, alone and friendless in a
@@ -48297,7 +46159,7 @@ through Your Voice. For He alone gives judgment in Your Name.*
 []{#part0060_split_002.html}
 
 ::: {.body}
-# [**Lesson 352 Judgment and love are opposites. From one Come all the sorrows of the world. But from The other comes the peace of God Himself**](#part0004.html#level-622){.calibre3} {#part0060_split_002.html#h1-622 .level1}
+# [**Lesson 352 Judgment and love are opposites. From one Come all the sorrows of the world. But from The other comes the peace of God Himself**](#part0004.html#level-622) {#part0060_split_002.html#h1-622 .level1}
 
 *^1^ Forgiveness looks on sinlessness alone and judges not. Through this
 I come to You. Judgment will bind my eyes and make me blind. Yet love,
@@ -48312,7 +46174,7 @@ memory of You.*
 []{#part0060_split_003.html}
 
 ::: {.body}
-# [**Lesson 353 My eyes, my tongue, my hands, my feet today have but one purpose --- to be given Christ to use to bless the world with miracles**](#part0004.html#level-623){.calibre3} {#part0060_split_003.html#h1-623 .level1}
+# [**Lesson 353 My eyes, my tongue, my hands, my feet today have but one purpose --- to be given Christ to use to bless the world with miracles**](#part0004.html#level-623) {#part0060_split_003.html#h1-623 .level1}
 
 *^1^ Father, I give all that is mine today to Christ to use in any way
 that best will serve the purpose that I share with Him. Nothing is mine
@@ -48325,7 +46187,7 @@ but my Self.*
 []{#part0060_split_004.html}
 
 ::: {.body}
-# [**Lesson 354 We stand together, Christ and I, in peace And certainty of purpose. And in Him Is His Creator, as He is in me**](#part0004.html#level-624){.calibre3} {#part0060_split_004.html#h1-624 .level1}
+# [**Lesson 354 We stand together, Christ and I, in peace And certainty of purpose. And in Him Is His Creator, as He is in me**](#part0004.html#level-624) {#part0060_split_004.html#h1-624 .level1}
 
 *^1^ My oneness with the Christ establishes me as Your Son, beyond the
 reach of time and wholly free of every law but Yours. I have no self
@@ -48338,7 +46200,7 @@ Christ in me?*
 []{#part0060_split_005.html}
 
 ::: {.body}
-# [**Lesson 355 There is no end to all the peace and joy and all the miracles that I will give when I accept God's Word. Why not today?**](#part0004.html#level-625){.calibre3} {#part0060_split_005.html#h1-625 .level1}
+# [**Lesson 355 There is no end to all the peace and joy and all the miracles that I will give when I accept God's Word. Why not today?**](#part0004.html#level-625) {#part0060_split_005.html#h1-625 .level1}
 
 *^1^ Why should I wait, my Father, for the joy You promised me? For You
 will keep Your Word You gave Your Son in exile. I am sure my treasure
@@ -48352,7 +46214,7 @@ Love.*
 []{#part0060_split_006.html}
 
 ::: {.body}
-# [**Lesson 356 Sickness is but another name for sin. Healing is but another Name for God. The miracle is thus a call to Him**](#part0004.html#level-626){.calibre3} {#part0060_split_006.html#h1-626 .level1}
+# [**Lesson 356 Sickness is but another name for sin. Healing is but another Name for God. The miracle is thus a call to Him**](#part0004.html#level-626) {#part0060_split_006.html#h1-626 .level1}
 
 *^1^ Father, You promised You would never fail to answer any call Your
 Son might make to You. It does not matter where he is, what seems to be
@@ -48366,7 +46228,7 @@ Name is but to call his own.*
 []{#part0060_split_007.html}
 
 ::: {.body}
-# [**Lesson 357 Truth answers every call we make to God, responding first with miracles, and then returning unto us to be itself**](#part0004.html#level-627){.calibre3} {#part0060_split_007.html#h1-627 .level1}
+# [**Lesson 357 Truth answers every call we make to God, responding first with miracles, and then returning unto us to be itself**](#part0004.html#level-627) {#part0060_split_007.html#h1-627 .level1}
 
 *^1^ Forgiveness, truth's reflection, tells me how to offer miracles and
 thus escape the prison house in which I think I live. Your holy Son is
@@ -48380,7 +46242,7 @@ you healed."*
 []{#part0060_split_008.html}
 
 ::: {.body}
-# [**Lesson 358 No call to God can be unheard nor left unanswered. And of this I can be sure--- His answer is the one I really want**](#part0004.html#level-628){.calibre3} {#part0060_split_008.html#h1-628 .level1}
+# [**Lesson 358 No call to God can be unheard nor left unanswered. And of this I can be sure--- His answer is the one I really want**](#part0004.html#level-628) {#part0060_split_008.html#h1-628 .level1}
 
 *^1^ You Who remember what I really am alone remember what I really
 want. You speak for God, and so You speak for me. And what You give me
@@ -48395,7 +46257,7 @@ nothing, but my Self is all.*
 []{#part0060_split_009.html}
 
 ::: {.body}
-# [**Lesson 359 God's answer is some form of peace. All pain is healed; all misery replaced with joy. All prison doors are opened. And all sin is understood as merely a mistake**](#part0004.html#level-629){.calibre3} {#part0060_split_009.html#h1-629 .level1}
+# [**Lesson 359 God's answer is some form of peace. All pain is healed; all misery replaced with joy. All prison doors are opened. And all sin is understood as merely a mistake**](#part0004.html#level-629) {#part0060_split_009.html#h1-629 .level1}
 
 *^1^ Father, today we will forgive Your world and let creation be Your
 own. We have misunderstood all things. But we have not made sinners of
@@ -48410,7 +46272,7 @@ we would be at peace.*
 []{#part0060_split_010.html}
 
 ::: {.body}
-# [**Lesson 360 Peace be to me, the holy Son of God. Peace to my brother, who is one with me. Let all the world be blessed with peace through us**](#part0004.html#level-630){.calibre3} {#part0060_split_010.html#h1-630 .level1}
+# [**Lesson 360 Peace be to me, the holy Son of God. Peace to my brother, who is one with me. Let all the world be blessed with peace through us**](#part0004.html#level-630) {#part0060_split_010.html#h1-630 .level1}
 
 *^1^ Father, it is Your peace that I would give, receiving it of You. I
 am Your Son, forever just as You created me, for the Great Rays remain
@@ -48424,7 +46286,7 @@ and with this thought we gladly say "Amen."*
 []{#part0061_split_000.html}
 
 ::: {.body}
-# [**O[UR]{.small} F[INAL]{.small} L[ESSONS]{.small}**](#part0004.html#chap-46){.calibre3} {#part0061_split_000.html#calibre_pb_0 .toc-title}
+# [**O[UR]{.small} F[INAL]{.small} L[ESSONS]{.small}**](#part0004.html#chap-46) {#part0061_split_000.html#calibre_pb_0 .toc-title}
 
 ^IF:1^Our final lessons will be left as free of words as possible. We
 use them but at the beginning of our practicing and only to remind us
@@ -48478,7 +46340,7 @@ all time and in eternity.
 []{#part0061_split_001.html}
 
 ::: {.body}
-# [**Lesson 361-365 This holy instant would I give to You. Be You in charge. For I would follow You, certain that Your direction gives me peace**](#part0004.html#level-631){.calibre3} {#part0061_split_001.html#h1-631 .level1}
+# [**Lesson 361-365 This holy instant would I give to You. Be You in charge. For I would follow You, certain that Your direction gives me peace**](#part0004.html#level-631) {#part0061_split_001.html#h1-631 .level1}
 
 *^1^ If I need a word to help me, He will give it to me. If I need a
 thought, that will He also give. And if I need but stillness and a
@@ -48490,7 +46352,7 @@ for God, my Father, and His holy Son.*
 []{#part0062.html}
 
 ::: {.body}
-# [**E[PILOGUE]{.small}**](#part0004.html#epi-1){.calibre3} {#part0062.html#calibre_pb_0 .toc-title}
+# [**E[PILOGUE]{.small}**](#part0004.html#epi-1) {#part0062.html#calibre_pb_0 .toc-title}
 
 ^1^ This course is a beginning, not an end. Your Friend goes with you.
 You are not alone. No one who calls on Him can call in vain. Whatever
@@ -48549,7 +46411,7 @@ never leave you comfortless.
 []{#part0063.html}
 
 ::: {.body}
-# [**Manual For Teachers**](#part0004.html#section-2){.calibre3} {#part0063.html#calibre_pb_0 .chapter-number}
+# [**Manual For Teachers**](#part0004.html#section-2) {#part0063.html#calibre_pb_0 .chapter-number}
 :::
 
 []{#part0064.html}
@@ -48618,7 +46480,7 @@ questions.
 []{#part0065.html}
 
 ::: {.body}
-# [**1. Who Are God's Teachers?**](#part0004.html#chap-47){.calibre3} {#part0065.html#calibre_pb_0 .toc-title}
+# [**1. Who Are God's Teachers?**](#part0004.html#chap-47) {#part0065.html#calibre_pb_0 .toc-title}
 
 ^1^ A teacher of God is anyone who chooses to be one. His qualifications
 consist solely in this; somehow, somewhere he has made a deliberate
@@ -48666,7 +46528,7 @@ is given them.
 []{#part0066.html}
 
 ::: {.body}
-# [**2. Who Are Their Pupils?**](#part0004.html#chap-48){.calibre3} {#part0066.html#calibre_pb_0 .toc-title}
+# [**2. Who Are Their Pupils?**](#part0004.html#chap-48) {#part0066.html#calibre_pb_0 .toc-title}
 
 ^1^ Certain pupils have been assigned to each of God's teachers, and
 they will begin to look for him as soon as he has answered the Call.
@@ -48728,7 +46590,7 @@ another person the same interests as his own.
 []{#part0067.html}
 
 ::: {.body}
-# [**3. What are the Levels of Teaching?**](#part0004.html#chap-49){.calibre3} {#part0067.html#calibre_pb_0 .toc-title}
+# [**3. What are the Levels of Teaching?**](#part0004.html#chap-49) {#part0067.html#calibre_pb_0 .toc-title}
 
 ^1^ The teachers of God have no set teaching level. Each
 teaching-learning situation involves a different relationship at the
@@ -48797,7 +46659,7 @@ fail to find the Help he needs.
 []{#part0068_split_000.html}
 
 ::: {.body}
-# [**4. What Are the Characteristics of God's Teachers?**](#part0004.html#chap-50){.calibre3} {#part0068_split_000.html#calibre_pb_0 .toc-title}
+# [**4. What Are the Characteristics of God's Teachers?**](#part0004.html#chap-50) {#part0068_split_000.html#calibre_pb_0 .toc-title}
 
 ^1^ The surface traits of God's teachers are not at all alike. They do
 not look alike to the body's eyes, they come from vastly different
@@ -49148,7 +47010,7 @@ bringers of salvation.
 []{#part0069_split_000.html}
 
 ::: {.body}
-# [**5. How is Healing Accomplished?**](#part0004.html#chap-51){.calibre3} {#part0069_split_000.html#calibre_pb_0 .toc-title}
+# [**5. How is Healing Accomplished?**](#part0004.html#chap-51) {#part0069_split_000.html#calibre_pb_0 .toc-title}
 
 ^1^ Healing involves an understanding of what the illusion of sickness
 is for. Healing is impossible without this
@@ -49284,7 +47146,7 @@ separate from God's.
 []{#part0070.html}
 
 ::: {.body}
-# [**6. Is Healing Certain?**](#part0004.html#chap-52){.calibre3} {#part0070.html#calibre_pb_0 .toc-title}
+# [**6. Is Healing Certain?**](#part0004.html#chap-52) {#part0070.html#calibre_pb_0 .toc-title}
 
 ^1^ Healing is always certain. It is impossible to let illusions be
 brought to truth and keep the illusions. Truth demonstrates illusions
@@ -49334,7 +47196,7 @@ less than everything?
 []{#part0071.html}
 
 ::: {.body}
-# [**7. Should Healing Be Repeated?**](#part0004.html#chap-53){.calibre3} {#part0071.html#calibre_pb_0 .toc-title}
+# [**7. Should Healing Be Repeated?**](#part0004.html#chap-53) {#part0071.html#calibre_pb_0 .toc-title}
 
 ^1^ This question really answers itself. Healing cannot be repeated. If
 the patient is healed, what remains to heal him from? And if the healing
@@ -49403,7 +47265,7 @@ becomes impossible.
 []{#part0072.html}
 
 ::: {.body}
-# [**8. How Can the Perception of Order of Difficulties Be Avoided?**](#part0004.html#chap-54){.calibre3} {#part0072.html#calibre_pb_0 .toc-title}
+# [**8. How Can the Perception of Order of Difficulties Be Avoided?**](#part0004.html#chap-54) {#part0072.html#calibre_pb_0 .toc-title}
 
 ^1^ The belief in order of difficulties is the basis for the world's
 perception. It rests on differences; on uneven background and shifting
@@ -49480,7 +47342,7 @@ answer to all illusions is truth.
 []{#part0073.html}
 
 ::: {.body}
-# [**9. Are Changes Required in the Life Situation of God's Teachers?**](#part0004.html#chap-55){.calibre3} {#part0073.html#calibre_pb_0 .toc-title}
+# [**9. Are Changes Required in the Life Situation of God's Teachers?**](#part0004.html#chap-55) {#part0073.html#calibre_pb_0 .toc-title}
 
 ^1^ Changes are required in the minds of God's teachers. This may or may
 not involve changes in the external situation. Remember that no one is
@@ -49512,7 +47374,7 @@ the necessary condition of salvation.
 []{#part0074.html}
 
 ::: {.body}
-# [**10. How Is Judgment Relinquished?**](#part0004.html#chap-56){.calibre3} {#part0074.html#calibre_pb_0 .toc-title}
+# [**10. How Is Judgment Relinquished?**](#part0004.html#chap-56) {#part0074.html#calibre_pb_0 .toc-title}
 
 ^1^ Judgment, like other devices by which the world of illusions is
 maintained, is totally misunderstood by the world. It is actually
@@ -49588,7 +47450,7 @@ bring you peace. Can it be difficult to want but this?
 []{#part0075.html}
 
 ::: {.body}
-# [**11. How Is Peace Possible in this World?**](#part0004.html#chap-57){.calibre3} {#part0075.html#calibre_pb_0 .toc-title}
+# [**11. How Is Peace Possible in this World?**](#part0004.html#chap-57) {#part0075.html#calibre_pb_0 .toc-title}
 
 ^1^ This is a question everyone must ask. Certainly peace seems to be
 impossible. Yet the Word of God promises other things that seem
@@ -49639,7 +47501,7 @@ here?"
 []{#part0076.html}
 
 ::: {.body}
-# [**12. How Many Teachers of God Are Needed to Save the World?**](#part0004.html#chap-58){.calibre3} {#part0076.html#calibre_pb_0 .toc-title}
+# [**12. How Many Teachers of God Are Needed to Save the World?**](#part0004.html#chap-58) {#part0076.html#calibre_pb_0 .toc-title}
 
 ^1^ The answer to this question is "one." One wholly perfect teacher
 whose learning is complete suffices. This One, sanctified and redeemed,
@@ -49715,7 +47577,7 @@ surely theirs.
 []{#part0077.html}
 
 ::: {.body}
-# [**13. What Is the Real Meaning of Sacrifice?**](#part0004.html#chap-59){.calibre3} {#part0077.html#calibre_pb_0 .toc-title}
+# [**13. What Is the Real Meaning of Sacrifice?**](#part0004.html#chap-59) {#part0077.html#calibre_pb_0 .toc-title}
 
 ^1^ Although in truth the term sacrifice is altogether meaningless, it
 does have meaning in the world. Like all things in the world, its
@@ -49808,7 +47670,7 @@ of teachers. What other way is there to save His Son?
 []{#part0078.html}
 
 ::: {.body}
-# [**14. How Will the World End?**](#part0004.html#chap-60){.calibre3} {#part0078.html#calibre_pb_0 .toc-title}
+# [**14. How Will the World End?**](#part0004.html#chap-60) {#part0078.html#calibre_pb_0 .toc-title}
 
 ^1^ Can what has no beginning really end? The world will end in an
 illusion, as it began. Yet will its ending be an illusion of mercy. The
@@ -49874,7 +47736,7 @@ done. It cannot be otherwise. And be you thankful it is so.
 []{#part0079.html}
 
 ::: {.body}
-# [**15. Is Each One to Be Judged in the End?**](#part0004.html#chap-61){.calibre3} {#part0079.html#calibre_pb_0 .toc-title}
+# [**15. Is Each One to Be Judged in the End?**](#part0004.html#chap-61) {#part0079.html#calibre_pb_0 .toc-title}
 
 ^1^ Indeed yes! No one can escape God's Final Judgment. Who could flee
 forever from the truth? But the Final Judgment will not come until it is
@@ -49921,7 +47783,7 @@ keep it safe.
 []{#part0080.html}
 
 ::: {.body}
-# [**16. How Should the Teacher Spend His Day?**](#part0004.html#chap-62){.calibre3} {#part0080.html#calibre_pb_0 .toc-title}
+# [**16. How Should the Teacher Spend His Day?**](#part0004.html#chap-62) {#part0080.html#calibre_pb_0 .toc-title}
 
 ^1^ To the advanced teacher of God, this question is meaningless. There
 is no program, for the lessons in the curriculum change each day. Yet he
@@ -50060,7 +47922,7 @@ untroubled mind.
 []{#part0081.html}
 
 ::: {.body}
-# [**17. How do God's Teachers Deal With Their Pupils' Thoughts of Magic?**](#part0004.html#chap-63){.calibre3} {#part0081.html#calibre_pb_0 .toc-title}
+# [**17. How do God's Teachers Deal With Their Pupils' Thoughts of Magic?**](#part0004.html#chap-63) {#part0081.html#calibre_pb_0 .toc-title}
 
 ^1^ This is a crucial question both for teacher and pupil. If this issue
 is mishandled, the teacher has hurt himself and has also attacked his
@@ -50169,7 +48031,7 @@ beyond all fear and thus forever real and always true.
 []{#part0082.html}
 
 ::: {.body}
-# [**18. How Is Correction Made?**](#part0004.html#chap-64){.calibre3} {#part0082.html#calibre_pb_0 .toc-title}
+# [**18. How Is Correction Made?**](#part0004.html#chap-64) {#part0082.html#calibre_pb_0 .toc-title}
 
 ^1^ Correction of a lasting nature---and only this is true
 correction---cannot be made until the teacher of God has ceased to
@@ -50224,7 +48086,7 @@ there whom his forgiveness can fail to heal?
 []{#part0083.html}
 
 ::: {.body}
-# [**19. What Is Justice?**](#part0004.html#chap-65){.calibre3} {#part0083.html#calibre_pb_0 .toc-title}
+# [**19. What Is Justice?**](#part0004.html#chap-65) {#part0083.html#calibre_pb_0 .toc-title}
 
 ^1^ Justice is the divine correction for injustice. Injustice is the
 basis for all the judgments of the world. Justice corrects the
@@ -50288,7 +48150,7 @@ and we can see. And we can see!
 []{#part0084.html}
 
 ::: {.body}
-# [**20. What Is the Peace of God?**](#part0004.html#chap-66){.calibre3} {#part0084.html#calibre_pb_0 .toc-title}
+# [**20. What Is the Peace of God?**](#part0004.html#chap-66) {#part0084.html#calibre_pb_0 .toc-title}
 
 ^1^ It has been said that there is a kind of peace that is not of this
 world. How is it recognized? How is it found? And being found, how can
@@ -50355,7 +48217,7 @@ peace, and you remember Him.
 []{#part0085.html}
 
 ::: {.body}
-# [**21. What Is the Role of Words in Healing?**](#part0004.html#chap-67){.calibre3} {#part0085.html#calibre_pb_0 .toc-title}
+# [**21. What Is the Role of Words in Healing?**](#part0004.html#chap-67) {#part0085.html#calibre_pb_0 .toc-title}
 
 ^1^ Strictly speaking, words play no part at all in healing. The
 motivating factor is prayer, or asking. What you ask for, you receive.
@@ -50417,7 +48279,7 @@ meaningless symbols to the call of Heaven itself.
 []{#part0086.html}
 
 ::: {.body}
-# [**22. How Are Healing and Atonement Related?**](#part0004.html#chap-68){.calibre3} {#part0086.html#calibre_pb_0 .toc-title}
+# [**22. How Are Healing and Atonement Related?**](#part0004.html#chap-68) {#part0086.html#calibre_pb_0 .toc-title}
 
 ^1^ Healing and Atonement are not related; they are identical. There is
 no order of difficulty in miracles because there are no degrees of
@@ -50507,7 +48369,7 @@ beloved Son, created perfect and forever so."
 []{#part0087.html}
 
 ::: {.body}
-# [**23. Does Jesus Have a Special Place in Healing?**](#part0004.html#chap-69){.calibre3} {#part0087.html#calibre_pb_0 .toc-title}
+# [**23. Does Jesus Have a Special Place in Healing?**](#part0004.html#chap-69) {#part0087.html#calibre_pb_0 .toc-title}
 
 ^1^ God's gifts can rarely be received directly. Even the most advanced
 of God's teachers will give way to temptation in this world. Would it be
@@ -50581,7 +48443,7 @@ Do you then teach with him, for he is with you; he is always here.
 []{#part0088.html}
 
 ::: {.body}
-# [**24. Is Reincarnation True?**](#part0004.html#chap-70){.calibre3} {#part0088.html#calibre_pb_0 .toc-title}
+# [**24. Is Reincarnation True?**](#part0004.html#chap-70) {#part0088.html#calibre_pb_0 .toc-title}
 
 ^1^ In the ultimate sense, reincarnation is impossible. There is no past
 nor future, and the idea of birth into a body has no meaning either once
@@ -50657,7 +48519,7 @@ the sole criterion this course requires. No more than this is necessary.
 []{#part0089.html}
 
 ::: {.body}
-# [**25. Are "Psychic" Powers Desirable?**](#part0004.html#chap-71){.calibre3} {#part0089.html#calibre_pb_0 .toc-title}
+# [**25. Are "Psychic" Powers Desirable?**](#part0004.html#chap-71) {#part0089.html#calibre_pb_0 .toc-title}
 
 ^1^ The answer to this question is much like the preceding one. There
 are, of course, no "unnatural" powers, and it is obviously merely an
@@ -50733,7 +48595,7 @@ and His holy sight not far behind.
 []{#part0090.html}
 
 ::: {.body}
-# [**26. Can God Be Reached Directly?**](#part0004.html#chap-72){.calibre3} {#part0090.html#calibre_pb_0 .toc-title}
+# [**26. Can God Be Reached Directly?**](#part0004.html#chap-72) {#part0090.html#calibre_pb_0 .toc-title}
 
 ^1^ God indeed can be reached directly, for there is no distance between
 Him and His Son. His awareness is in everyone's memory, and His Word is
@@ -50785,7 +48647,7 @@ desire, when this is all you need?
 []{#part0091.html}
 
 ::: {.body}
-# [**27. What Is Death?**](#part0004.html#chap-73){.calibre3} {#part0091.html#calibre_pb_0 .toc-title}
+# [**27. What Is Death?**](#part0004.html#chap-73) {#part0091.html#calibre_pb_0 .toc-title}
 
 ^1^ Death is the central dream from which all illusions stem. Is it not
 madness to think of life as being born, aging, losing vitality, and
@@ -50863,7 +48725,7 @@ forget it is not less than this.
 []{#part0092.html}
 
 ::: {.body}
-# [**28. What Is the Resurrection?**](#part0004.html#chap-74){.calibre3} {#part0092.html#calibre_pb_0 .toc-title}
+# [**28. What Is the Resurrection?**](#part0004.html#chap-74) {#part0092.html#calibre_pb_0 .toc-title}
 
 ^1^ Very simply, the resurrection is the overcoming or surmounting of
 death. It is a reawakening or a rebirth, a change of mind about the
@@ -50933,7 +48795,7 @@ he prepares with them to meet his God.
 []{#part0093.html}
 
 ::: {.body}
-# [**29. As For the Rest**](#part0004.html#chap-75){.calibre3} {#part0093.html#calibre_pb_0 .toc-title}
+# [**29. As For the Rest**](#part0004.html#chap-75) {#part0093.html#calibre_pb_0 .toc-title}
 
 ^1^ This manual is not intended to answer all questions that both
 teacher and pupil may raise. In fact, it covers only a few of the more

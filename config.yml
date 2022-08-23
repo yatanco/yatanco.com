@@ -1,6 +1,6 @@
 baseURL: "https://www.yatanco.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Yatan Blumenthal Vargas
-paginate: 5
+paginate: 10
 theme: PaperMod-6.0
 
 enableInlineShortcodes: true
@@ -19,7 +19,8 @@ minify:
 # Languages and Menu
 languages:
     en:
-        languageName: "English"
+        languageName: ":uk:"
+        languageAltTitle: "English"
         weight: 1
         taxonomies:
           category: categories
@@ -31,68 +32,75 @@ languages:
                 - name: About Me
                   url: about
                   weight: 5
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Blog
+              #  - name: Archive
+              #    url: archives
+              #    weight: 5
+                - name: Posts
                   url: posts/
                   weight: 5
-                - name: My Work
-                  url: work/
-                  weight: 5
-                - name: Meditation
-                  url: meditation/
-                  weight: 5
+               # - name: My Work
+               #  url: work/
+               #   weight: 5
+               # - name: Meditation
+               #   url: meditation/
+               #   weight: 5
                 - name: Search
                   url: search/
                   weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
-  
+
+          
+  # Spanish Version
     es:
         languageName: ":es:"
         languageAltTitle: "Spanish"
         weight: 2
-        title: PaperModL2
+        title: Yatan Blumenthal Vargas
         taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
-
+          category: categorias
+          tag: tags
+          series: series
+          
         profileMode:
             enabled: true
-            title: PaperMod
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            title: Hola!
+            imageUrl: "/images/yatan-logo.png" # optional
+            imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
+            imageWidth: 200 # custom size
+            imageHeight: 200 # custom size
+            subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co).
+        Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
+        And I invest through [Infinita VC](https://infinitafund.com). "
             buttons:
                 - name: Blog
-                  url: posts
+                  url: posts/
                 - name: Tags
-                  url: tags
+                  url: Temas
         menu:
             main:
-                - name: Archive
-                  url: archives/
+                - name: Sobre Mi
+                  url: sobre
                   weight: 5
-                - name: FRTags
-                  url: frtags
+              #  - name: Archive
+              #    url: archives
+              #    weight: 5
+                - name: Blog
+                  url: posts/
+                  weight: 5
+               # - name: My Work
+               #  url: work/
+               #   weight: 5
+               # - name: Meditation
+               #   url: meditation/
+               #   weight: 5
+                - name: Busqueda
+                  url: search/
                   weight: 10
-                - name: FRCategories
-                  url: frcategories
+                - name: Temas
+                  url: tags
                   weight: 10
-                - name: FRSeries
-                  url: frseries
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
 
 outputs:
     home:
@@ -103,57 +111,62 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: PaperMod
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
     images: ["papermod-cover.png"]
 
-    
+    # English option (main)
+
     profileMode:
         enabled: true
-        title: "Yatan Blumenthal Vargas" # optional default will be site title
-        subtitle: "My thoughts and work"
-        imageUrl: "/images/yatan-dude.jpg" # optional
+        title: "Hola,Hello,Hey!" # optional default will be site title
+        subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co).
+        Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
+        And I invest through [Infinita VC](https://infinitafund.com). "
+        imageUrl: "/images/yatan-logo.png" # optional
         imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
 
         buttons:
-            - name: About Me
-              url: about
+            - name: Projects
+              url: work
             - name: Blog
               url: posts
+            - name: Book a call 
+              url: http://calendly.com/yatan/15m
   
       
     homeInfoParams:
         Title: "Yatan Blumenthal Vargas"
         Content: 
           # Running Shit 
-            Welcome to demo of hugo's theme PaperMod.
+          Hello, I am Yatan. I like to support startups through accelerator teams like [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co),
+          build better teams through [Culture Design](https://culturedesign.org) and train people in emotional intelligence as a [Search Inside Yourself](http://siyli.org). 
+         
+         I like to write about   
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+         
 
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
+         
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://github.com/yatanco/"
+        - name: linkedin
+          url: "http://linkedin.com/in/yatanblumenthal"
         - name: RsS
           url: "index.xml"
 
