@@ -1,10 +1,10 @@
 ---
-title: "Casa Yatan Pointers"
+title: "Casa Yatan"
 date: "2020-10-04"
 ShowToc: false
 ---
 
-# Hello dear Guest of Casa Yatan
+## Hello dear Guest of Casa Yatan
 
 Wonderful that I get to share my home with you!
 A few pointers with pics for your ease of stay
