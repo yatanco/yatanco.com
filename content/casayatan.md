@@ -25,11 +25,12 @@ Rosenthaler Platz (U8, Tram) and walk 8 mins
 Great, you made it! 
 
 **Wi-Fi**
-There is a public wi-fi - as if you download anything illegal i'd have to pay its restricted
+There is a public wi-fi - it should work for almost everything.
 Name: Rosita Lux 
 Pass: rosita123
 
-There is an unlimited wi-fi ill let you know per text.
+There is an unlimited wi-fi I only share if you promise not to do any piracy (torrent or otherwise) as if you do I get fined.
+Let me know and I'll share it iwth you.
 
 **Bedsheets and Towels**
 Are in the living room in the beautiful wooden furniture in the drawers. Find a matching pair!
@@ -46,6 +47,33 @@ Go out of the building and turn right, keep walking till you see an entrance wit
 
 See google maps, upper one is trash, lower one is glass:
 ![](trashmap.jpeg)
+
+
+**Washing Machine**
+The washing machine is at your disposal. A few pointers
+- only fill it to max 3/4th 
+- make sure you close the internal lid, it should click in
+
+Settings
+- Whenever it has been set before you need to turn the nob one whole time for you to be able to turn it on again
+- The shortest and easiest setting is "Pflegeleicht 40°" this will take around 1 hour
+- If you want to make sure it wrinkles the least press "Fresh Finish" before turning it on 
+- Press "Start" when you want to turn it on
+- In case you pressed Fresh Finish, when its done you will have to press it again for it to do the final turns
+
+All settings
+- Baumwolle - Cotton
+- Koch/Bunt - Boil / Colors
+- Mischwäsche - Mixed Wash
+- Pflegeleicht - Easy Care
+- Wolle - Wool
+- Fein - Fine 
+- Farben - Colors
+- Schleudern - Centrifuge
+- Spülen & Schleudern - Rinse and Centrifuge
+
+**Oven**
+Unfortunately the handle for the oven has fallen off and I havent been able to find a replacement. Please pull it open with a cloth on the right top side of it, looking at replacing the oven altogether soon.
 
 
 Anything else? Let me know.
