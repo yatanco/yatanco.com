@@ -136,7 +136,7 @@ params:
         subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co).
         Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
         And I invest through [Infinita VC](https://infinitafund.com). "
-        imageUrl: "/images/yatan-logo.png" # optional
+        imageUrl: "/images/yatan-logo.webp" # optional
         imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
