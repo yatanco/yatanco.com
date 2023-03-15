@@ -185,11 +185,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-         favicon: "/images/yatan-favicon.ico"
-         favicon16x16: "/images/yatan-favicon.ico"
-         favicon32x32: "/images/yatan-favicon.ico"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+         favicon: "/assets/yatan-favicon.ico"
+         favicon16x16: "/assets/yatan-favicon.ico"
+         favicon32x32: "/assets/yatan-favicon.ico"
+         apple_touch_icon: "/assets/yatan-favicon.ico"
+         safari_pinned_tab: "/assets/yatan-favicon.ico"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
