@@ -2,6 +2,7 @@
 title: "Research and Consulting"
 date: 2022-04-01T19:47:04-05:00
 draft: false
+weight: 20
 
 ---
 

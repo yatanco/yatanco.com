@@ -16,17 +16,18 @@ draft: false
 
 Search Inside Yourself has been described as "life changing." It allows for deep transformations through accessible and practical content. The tools, practices, resources and exercises you'll learn in the Search Inside Yourself program will help to:
 
-Experience greater overall well-being.
-
-Build resilience in the face of challenges.
-
-Manage stress better.
-
-Develop greater self-awareness and emotion regulation.
-
-Develop empathy and communicate more effectively.
-
-Increase focus and attention.
+**Experience greater overall well-being.
+**
+**Build resilience in the face of challenges.
+**
+**Manage stress better.
+**
+**Develop greater self-awareness and emotion regulation.
+**
+**Develop empathy and communicate more effectively.
+**
+**Increase focus and attention.
+**
 
 Among many other things, **you will learn how to have difficu|t conversations, expand your empathy, prevent burnout**.These trainings have been [shown](https://siyli.org/approach/results) to reduce stress, improve focus, raise peak performance, and improve interpersonal relationships
 

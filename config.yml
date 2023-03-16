@@ -66,13 +66,13 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "/assets/yatan-logo.png" # optional
-            imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
+            imageUrl: "/images/yatan-logo.webp" # optional
+            imageTitle: "Yatan Blumenthal Vargas Riendose" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size
-            subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co).
-        Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
-        And I invest through [Infinita VC](https://infinitafund.com). "
+            subtitle: "Yo soy Yatan. Yo le ayudo a startups por medio de [Founder Institute](https://fi.co) y [Hardware.co](https://hardware.co).
+            Le ayudo a equipos tener mejor culturay comunicacion por medio de [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
+            Invierto en Startups por medio de [Infinita VC](https://infinitafund.com). "
             buttons:
                 - name: Blog
                   url: posts/
@@ -81,7 +81,7 @@ languages:
         menu:
             main:
                 - name: Sobre Mi
-                  url: sobre
+                  url: project
                   weight: 5
               #  - name: Archive
               #    url: archives
@@ -135,7 +135,7 @@ params:
         title: "Hola,Hello,Hey!" # optional default will be site title
         subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://hardware.co).
         Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
-        And I invest through [Infinita VC](https://infinitafund.com). "
+        And I invest through [Infinita VC](https://infinitavc.com). "
         imageUrl: "/images/yatan-logo.webp" # optional
         imageTitle: "Yatan Blumenthal Vargas Pic" # optional
         imageWidth: 200 # custom size
@@ -147,7 +147,7 @@ params:
             - name: Blog
               url: posts
             - name: Book a call 
-              url: http://calendly.com/yatan/15m
+              url: http://calendly.com/yatan/
   
       
     homeInfoParams:
