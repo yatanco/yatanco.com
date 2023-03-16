@@ -1,7 +1,11 @@
 ---
 title: "An Ode to the Mountain and the Bench"
 date: "2020-07-04"
-
+description: "Guide to emoji usage in Hugo and DoIt."
+tags: ["emoji"]
+type: post
+weight: 25
+showTableOfContents: true
 ---
 
 

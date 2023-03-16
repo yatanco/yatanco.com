@@ -5,6 +5,8 @@ draft: false
 tags: ["inspiration"]
 aliases: ["chinese-farmer"]
 categories: ["buddhism", "syntax"]
+type: post
+weight: 20
 ---
 
 # Chinese Farmer Story

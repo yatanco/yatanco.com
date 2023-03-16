@@ -1,7 +1,7 @@
 baseURL: "https://www.yatanco.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Yatan Blumenthal Vargas
 paginate: 10
-theme: PaperMod-6.0
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -66,7 +66,7 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "/images/yatan-logo.png" # optional
+            imageUrl: "/assets/yatan-logo.png" # optional
             imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size
@@ -133,17 +133,17 @@ params:
     profileMode:
         enabled: true
         title: "Hola,Hello,Hey!" # optional default will be site title
-        subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co).
+        subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://hardware.co).
         Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
         And I invest through [Infinita VC](https://infinitafund.com). "
         imageUrl: "/images/yatan-logo.webp" # optional
-        imageTitle: "Yatan Blumenthal Vargas Smiling" # optional
+        imageTitle: "Yatan Blumenthal Vargas Pic" # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
 
         buttons:
             - name: Projects
-              url: work
+              url: project
             - name: Blog
               url: posts
             - name: Book a call 
@@ -167,11 +167,11 @@ params:
           url: "https://github.com/yatanco/"
         - name: linkedin
           url: "http://linkedin.com/in/yatanblumenthal"
-        - name: RsS
+        - name: RSS
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/yatanco/yatanco.com"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -185,11 +185,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-         favicon: "/assets/yatan-favicon.ico"
-         favicon16x16: "/assets/yatan-favicon.ico"
-         favicon32x32: "/assets/yatan-favicon.ico"
-         apple_touch_icon: "/assets/yatan-favicon.ico"
-         safari_pinned_tab: "/assets/yatan-favicon.ico"
+          favicon: "/assets/yatan-favicon.ico"
+         #favicon16x16: "/assets/yatan-favicon.ico"
+         #favicon32x32: "/assets/yatan-favicon.ico"
+         #apple_touch_icon: "/assets/yatan-favicon.ico"
+         #safari_pinned_tab: "/assets/yatan-favicon.ico"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data

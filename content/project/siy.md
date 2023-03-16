@@ -2,14 +2,6 @@
 title: "Search Inside Yourself"
 date: 2022-04-01T19:47:04-05:00
 draft: false
-cover:
-    image: "images/yatan-beach.png"
-    height: 200
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
 
