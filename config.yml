@@ -38,9 +38,9 @@ languages:
                 - name: Posts
                   url: posts/
                   weight: 5
-               # - name: My Work
-               #  url: work/
-               #   weight: 5
+                - name: Projects
+                  url: project/
+                  weight: 5
                # - name: Meditation
                #   url: meditation/
                #   weight: 5
@@ -110,8 +110,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: PaperMod
+    description: "Yatan - https://github.com/adityatelange/hugo-PaperMod"
+    author: Yatan
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -142,8 +142,10 @@ params:
         imageHeight: 200 # custom size
 
         buttons:
-            - name: Projects
+            - name: My Work
               url: project
+            - name: Meditations
+              url: http://insighttimer.com/yatan
             - name: Blog
               url: posts
             - name: Book a call 

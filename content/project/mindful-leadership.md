@@ -2,7 +2,7 @@
 title: "Mindful & Authentic Leadership"
 date: 2022-04-01T19:47:04-05:00
 draft: false
-
+weight: 10
 ---
 **Mindful and Authentic Leadership Training**
 
