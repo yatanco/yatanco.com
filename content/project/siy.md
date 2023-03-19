@@ -2,12 +2,13 @@
 title: "Search Inside Yourself"
 date: 2022-04-01T19:47:04-05:00
 draft: false
+url: /project/search-inside-yourself
 
 ---
 
 ### What is Search Inside Yourself
 
-#### Search Inside Yourself takes an evidence-based approach combining neuroscience, attention-training and emotional intelligence. The program provides practical tools that can be applied immediately in life or at work. We start with a foundation of mindfulness, and build the core emotional intelligence domains that lead to outstanding leadership:
+Search Inside Yourself takes an evidence-based approach combining neuroscience, attention-training and emotional intelligence. The program provides practical tools that can be applied immediately in life or at work. We start with a foundation of mindfulness, and build the core emotional intelligence domains that lead to outstanding leadership:
 
 ![SIY Structure](/images/SIY-structure-1024x536.png)
 
