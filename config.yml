@@ -3,6 +3,7 @@ title: Yatan Blumenthal Vargas
 paginate: 10
 theme: PaperMod
 
+#theme params
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -66,7 +67,7 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "/images/yatan-logo.webp" # optional
+            imageUrl: "images/yatan-logo.webp" # optional
             imageTitle: "Yatan Blumenthal Vargas Riendose" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size

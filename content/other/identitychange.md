@@ -7,6 +7,8 @@ aliases: ["identitychange"]
 categories: ["buddhism", "syntax"]
 ---
 
+# Identity Change
+
 For too long I have thought I am not good enough.
 For too long I have longed for my father's approval.
 for too long I have disregarded my own desires and needs.
