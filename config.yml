@@ -1,9 +1,8 @@
 baseURL: "https://www.yatanco.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Yatan Blumenthal Vargas
 paginate: 10
-theme: PaperModX
+theme: PaperMod
 
-#theme params
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -12,22 +11,6 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
-
-# theme params papermodx
-DisableLanguageSwitch: false
-TocOpen: true
-TocSide: right
-EnableInstantClick: true
-EnableImageZoom: true
-ShowShareButtons: true
-ShareButtons:
-  - twitter
-  - telegram
-ShowReadingTime: true
-ShowWordCount: true
-ShowCodeCopyButtons: true
-ShowPostNavLinks: true
-Email: hello@example.com
 
 minify:
     disableXML: true
@@ -47,7 +30,7 @@ languages:
         menu:
             main:
                 - name: Emotional Intelligence
-                  url: about
+                  url: project/siy
                   weight: 5
               #  - name: Archive
               #    url: archives
@@ -146,7 +129,6 @@ params:
     images: ["papermod-cover.png"]
 
     # English option (main)
-    # Profilemode (disable if you want homeinfo)
 
     profileMode:
         enabled: true
@@ -169,17 +151,21 @@ params:
             - name: Book a call 
               url: http://calendly.com/yatan/
   
-# home-mode
+      
     homeInfoParams:
         Title: "Yatan Blumenthal Vargas"
         Content: 
+          # Running Shit 
           Hello, I am Yatan. I like to support startups through accelerator teams like [Founder Institute](https://fi.co) and [Hardware.co](https://fi.co),
           build better teams through [Culture Design](https://culturedesign.org) and train people in emotional intelligence as a [Search Inside Yourself](http://siyli.org). 
          
          I like to write about   
+
+         
+
          
     socialIcons:
-        - name: github-simple
+        - name: github
           url: "https://github.com/yatanco/"
         - name: linkedin
           url: "http://linkedin.com/in/yatanblumenthal"
