@@ -19,6 +19,7 @@ minify:
 
 # Languages and Menu
 languages:
+# English Version
     en:
         languageName: ":uk:"
         languageAltTitle: "English"
@@ -31,7 +32,7 @@ languages:
         menu:
             main:
                 - name: Emotional Intelligence
-                  url: project/siy
+                  url: emotional-intelligence
                   weight: 5
               #  - name: Archive
               #    url: archives
@@ -137,7 +138,7 @@ params:
         subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://hardware.co).
         Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
         And I invest through [Infinita VC](https://infinitavc.com). "
-        imageUrl: "images/yatan-logo.png" # optional
+        imageUrl: "images/yatan-logo.webp" # optional
         imageTitle: "Yatan Blumenthal Vargas Pic" # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
