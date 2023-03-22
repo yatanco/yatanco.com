@@ -7,7 +7,7 @@ type: page
 weight: 20
 ---
 
-# Overview of how it works
+# Overview of how assisted therapy works
 
 
 1. Pre-treatment preparation: Patients undergo an extensive screening process to determine their eligibility for psilocybin-assisted therapy. They receive preparatory sessions to educate them about the treatment, manage expectations, and establish rapport with the therapist.
@@ -21,9 +21,9 @@ weight: 20
 
 # Protocols for Treatment
 
-[Blossom Psilocybin Psychedelic](pdf/psilocybin-blossom.pdf)
+[Blossom Psilocybin Psychedelic](../pdf/psilocybin-blossom.pdf)
 
-[Yale's Psilocybin Protocol](pdf/psilocybin-yale.pdf)
+[Yale's Psilocybin Protocol](../pdf/psilocybin-yale.pdf)
 
 
 # Playlists for Treatment
