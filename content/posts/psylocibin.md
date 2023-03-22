@@ -5,10 +5,11 @@ draft: false
 url: /psilocybin
 type: page
 weight: 20
+ShowToc: true
+TocOpen: true
 ---
 
 # Overview of how assisted therapy works
-
 
 1. Pre-treatment preparation: Patients undergo an extensive screening process to determine their eligibility for psilocybin-assisted therapy. They receive preparatory sessions to educate them about the treatment, manage expectations, and establish rapport with the therapist.
 
@@ -36,7 +37,9 @@ weight: 20
 [Chacruna Institute’s psilocybin playlist](https://open.spotify.com/playlist/2szSJ3rB6oQUn6ywghEGzO?go=1&sp_cid=e7dc6eacca03e7d7000980e09a8ee738&utm_source=embed_player_p&utm_medium=desktop&nd=1)
 
 
-For more info on this:
+
+
+# For more info on this:
 
 https://happymag.tv/playlists-for-psychedelic-therapy/
 
