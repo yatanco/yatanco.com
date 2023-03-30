@@ -6,10 +6,15 @@ ShowToc: false
 ShowBreadCrumbs: false
 
 ---
-## Recetas
-[Keto Brownie](ketobrownie)
-[Keto Malteada](ketomalteada)
+## Relajacion 
 
+- [QiGong "La Chinita"](https://www.youtube.com/watch?v=cwlvTcWR3Gs)
+- [QiGong en espanol](https://www.youtube.com/watch?v=xstsvNkYKIw)
+
+
+## Recetas
+- [Keto Brownie](ketobrownie)
+- [Keto Malteada](ketomalteada)
 
 
 ## Manuales
