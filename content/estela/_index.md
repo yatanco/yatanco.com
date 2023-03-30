@@ -8,9 +8,9 @@ ShowBreadCrumbs: false
 ---
 ## Relajacion 
 
+- Applicacion Calm en tel de estela
 - [QiGong "La Chinita"](https://www.youtube.com/watch?v=cwlvTcWR3Gs)
 - [QiGong en espanol](https://www.youtube.com/watch?v=xstsvNkYKIw)
-
 
 ## Recetas
 - [Keto Brownie](ketobrownie)
