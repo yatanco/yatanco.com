@@ -36,11 +36,11 @@ Let me know and I'll share it iwth you.
 Are in the living room in the beautiful wooden furniture in the drawers. Find a matching pair!
 
 **Trashbags**
-There are trashbags in the plastic wardrobe on top of the blue cupboard in the top left cube.
+There are trashbags in the second top drawer of the blue comode in the kitchen.
 If you feel called to you can also find smaller bags if you want to separate trash
 
 **Taking out the trash**
-The trash containers are a little bit out. You need a key for them, there should be a set of keys on the bambu shelf in the corridor next to the phone and router. 
+The trash containers are a little bit out. You need a key for them, the key set YT2 has a rounded key that is big, that one opens the trash.
 
 In words:
 Go out of the building and turn right, keep walking till you see an entrance with a big bear mural, going right in there and after the tunnel there will be a fenced area with containers in it.
@@ -73,7 +73,7 @@ All settings
 - Spülen & Schleudern - Rinse and Centrifuge
 
 **Oven**
-Unfortunately the handle for the oven has fallen off and I havent been able to find a replacement. Please pull it open with a cloth on the right top side of it, looking at replacing the oven altogether soon.
+The handle for the oven was recently replaced and  the handle for the oven has fallen off and I havent been able to find a replacement. Please pull it open with a cloth on the right top side of it, looking at replacing the oven altogether soon.
 
 
 Anything else? Let me know.
