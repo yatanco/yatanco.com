@@ -68,7 +68,7 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "images/yatan-logo.webp" # optional
+            imageUrl: "images/yatan-logo.png" # optional
             imageTitle: "Yatan Blumenthal Vargas Riendose" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size
