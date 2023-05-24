@@ -15,7 +15,7 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
-   #minifyOutput: true
+    # minifyOutput: true
 
 # Languages and Menu
 languages:
