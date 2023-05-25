@@ -1,4 +1,4 @@
-baseURL: "https://yatanco.github.io" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://yatan.co" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Yatan Blumenthal Vargas
 paginate: 10
 theme: PaperMod
@@ -11,11 +11,11 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: G-C4MCQHJQY0
+googleAnalytics: G-C4MCQHJQY0
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 # Languages and Menu
 languages:
@@ -68,7 +68,7 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "images/yatan-logo.webp" # optional
+            imageUrl: "images/yatan-profile.webp" # optional
             imageTitle: "Yatan Blumenthal Vargas Riendose" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size
@@ -138,7 +138,7 @@ params:
         subtitle: "I am Yatan. I support startups through [Founder Institute](https://fi.co) and [Hardware.co](https://hardware.co).
         Work for better team culture and communication through [Culture Design](https://culturedesign.org) & [Search Inside Yourself](http://siyli.org). 
         And I invest through [Infinita VC](https://infinitavc.com). "
-        imageUrl: "images/yatan-logo.webp" # optional
+        imageUrl: "images/yatan-profile.webp" # optional
         imageTitle: "Yatan Blumenthal Vargas " # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
