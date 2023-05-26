@@ -43,8 +43,8 @@ languages:
                 - name: Projects
                   url: project/
                   weight: 5
-               # - name: Meditation
-               #   url: meditation/
+               - name: Meditation
+                 url: meditation/
                #   weight: 5
                # - name: Search
                #   url: search/
@@ -68,7 +68,7 @@ languages:
         profileMode:
             enabled: true
             title: Hola!
-            imageUrl: "images/yatan-profile.webp" # optional
+            imageUrl: "images/yatan-profilesm.png" # optional
             imageTitle: "Yatan Blumenthal Vargas Riendose" # optional
             imageWidth: 200 # custom size
             imageHeight: 200 # custom size
