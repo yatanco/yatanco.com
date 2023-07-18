@@ -1,4 +1,0 @@
----
-title: "Busqueda"
-layout: "search"
----
